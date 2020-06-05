@@ -1,0 +1,99 @@
+ 
+ MARKET RISK SENSITIVE INSTRUMENTS AND POSITIONS
+ 
+ The risk inherent in the Company's market risk sensitive instruments and
+ positions is the potential loss arising from adverse changes in the price of
+ fuel, foreign currency exchange rates and interest rates as discussed below. The
+ sensitivity analyses presented do not consider the effects that such adverse
+ changes may have on overall economic activity, nor do they consider additional
+ actions management may take to mitigate its exposure to such changes. Actual
+ results may differ. See Note 6 to the consolidated financial statements for
+ accounting policies and additional information. In addition, the following
+ analyses exclude any impact of the proposed transactions discussed on page 23.
+ 
+ AIRCRAFT FUEL The Company's earnings are affected by changes in the price and
+ availability of aircraft fuel. In order to provide a measure of control over
+ price and supply, the Company trades and ships fuel and maintains fuel storage
+ facilities to support its flight operations. The Company also manages the price
+ risk of fuel costs primarily utilizing swap and option contracts. Market risk is
+ estimated as a hypothetical 10 percent increase in the December 31, 2000 and
+ 1999 cost per gallon of fuel. Based on projected 2001 fuel usage, such an
+ increase would result in an increase to aircraft fuel expense of approximately
+ $194 million in 2001, net of fuel hedge instruments outstanding at December 31,
+ 2000. Comparatively, based on projected 2000 fuel usage, such an increase would
+ have resulted in an increase to aircraft fuel expense of approximately $131
+ million in 2000, net of fuel hedge instruments outstanding at December 31, 1999.
+ The change in market risk is due primarily to the increase in fuel prices. As of
+ December 31, 2000, the Company had hedged approximately 40 percent of its 2001
+ fuel requirements, approximately 15 percent of its 2002 fuel requirements, and
+ approximately seven percent of its 2003 fuel requirements, compared to
+ approximately 48 percent of its 2000 fuel requirements and 10 percent of its
+ 2001 fuel requirements hedged at December 31, 1999.
+ 
+ FOREIGN CURRENCY The Company is exposed to the effect of foreign exchange rate
+ fluctuations on the U.S. dollar value of foreign currency-denominated operating
+ revenues and expenses. The Company's largest exposure comes from the Canadian
+ dollar, British pound, Japanese yen, Euro and various Latin and South American
+ currencies. The Company uses options to hedge a portion of its anticipated
+ foreign currency-denominated ticket sales. The result of a uniform 10 percent
+ strengthening in the value of the U.S. dollar from December 31, 2000 and 1999
+ levels relative to each of the currencies in which the Company has foreign
+ currency exposure would result in a decrease in operating income of
+ approximately $33 million and $39 million for the years ending December 31, 2001
+ and 2000, respectively, net of hedge instruments outstanding at December 31,
+ 2000 and 1999, due to the Company's foreign-denominated revenues exceeding its
+ foreign-denominated expenses. This sensitivity analysis was prepared based upon
+ projected 2001 and 2000 foreign currency-denominated revenues and expenses as of
+ December 31, 2000 and 1999.
+ 
+ INTEREST The Company's earnings are also affected by changes in interest rates
+ due to the impact those changes have on its interest income from cash and
+ short-term investments, and its interest expense from variable-rate debt
+ instruments. The Company has variable-rate debt instruments representing
+ approximately 29 percent and 21 percent of its total long-term debt,
+ respectively, at December 31, 2000 and 1999, and interest rate swaps on notional
+ amounts of approximately $158 million and $696 million, respectively, at
+ December 31, 2000 and 1999. During 2000, the Company terminated interest rate
+ swap agreements on notional amounts of approximately $425 million. The cost of
+ terminating these interest rate swap agreements was not material. If interest
+ rates average 10 percent more in 2001 than they did at December 31, 2000, the
+ Company's interest expense would increase by approximately $11 million and
+ interest income from cash and short-term investments would increase by
+ approximately $15 million. In comparison, at December 31, 1999, the Company
+ estimated that if interest rates averaged 10 percent more in 2000 than they did
+ at December 31, 1999, the Company's interest expense would have increased by
+ approximately $10 million and interest income from cash and short-term
+ investments would have increased by approximately $11 million. These amounts are
+ determined by considering the impact of the hypothetical interest rates on the
+ Company's variable-rate long-term debt, interest rate swap agreements, and cash
+ and short-term investment balances at December 31, 2000 and 1999.
+ 
+ 
+                                        27
+ <PAGE>   29
+ 
+ 
+        Market risk for fixed-rate long-term debt is estimated as the potential
+ increase in fair value resulting from a hypothetical 10 percent decrease in
+ interest rates, and amounts to approximately $148 million and $156 million as of
+ December 31, 2000 and 1999, respectively. The fair values of the Company's
+ long-term debt were estimated using quoted market prices or discounted future
+ cash flows based on the Company's incremental borrowing rates for similar types
+ of borrowing arrangements.
+ 
+ INVESTMENTS The Company is subject to market risk related to its ownership of
+ approximately 1.2 million depository certificates convertible, subject to
+ certain restrictions, into the common stock of Equant, as of December 31, 2000
+ and 1999. The estimated fair value of these depository certificates was
+ approximately $32 million and $136 million as of December 31, 2000 and 1999,
+ respectively, based upon the market value of Equant common stock.
+ 
+        In addition, the Company holds investments in certain other entities
+ which are subject to market risk. However, the impact of such market risk on
+ earnings is not significant due to the immateriality of the carrying value and
+ the geographically diverse nature of these holdings.
+ 
+ 
+                                        28
+ <PAGE>   30
+ 

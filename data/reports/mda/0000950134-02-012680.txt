@@ -1,0 +1,300 @@
+         OF OPERATIONS
+ 
+ RESULTS OF OPERATIONS
+ 
+ FOR THE THREE MONTHS ENDED MARCH 31, 2002 AND 2001
+ 
+ SUMMARY AMR Corporation's (AMR or the Company) LOSS BEFORE CUMULATIVE EFFECT OF
+ ACCOUNTING CHANGE during the first quarter of 2002 was $575 million, or $3.71
+ per share, as compared to a net loss of $43 million, or $0.28 per share for the
+ same period in 2001. AMR's OPERATING LOSS of $729 million increased $725 million
+ compared to the same period in 2001. The Company's 2002 results continue to be
+ adversely impacted by the September 11, 2001 terrorist attacks. In addition, on
+ April 9, 2001, American Airlines, Inc. (a wholly owned subsidiary of AMR)
+ purchased substantially all of the assets and assumed certain liabilities of
+ Trans World Airlines, Inc. (TWA). Accordingly, the operating results of TWA are
+ included in the accompanying condensed consolidated financial statements for the
+ three-month period ended March 31, 2002 but not for the three-month period ended
+ March 31, 2001. All references to American Airlines, Inc. include TWA
+ (collectively, American). In addition, effective January 1, 2002, the Company
+ recorded a one-time, non-cash charge of $988 million (net of tax), reflected as
+ a cumulative effect of accounting change, to write-off all of AMR's goodwill.
+ 
+ Although traffic has continued to increase on significantly reduced capacity
+ since the events of September 11, 2001, the Company's first quarter 2002
+ revenues were down significantly year-over-year. In addition to the residual
+ effects of September 11, the Company's revenues continue to be negatively
+ impacted by the economic slowdown -- seen largely in business travel declines --
+ and an increase in fare sale activity. In total, the Company's REVENUES
+ decreased $624 million, or 13.1 percent, in the first quarter of 2002 from the
+ same period last year. American's PASSENGER REVENUES decreased by 11.5 percent,
+ or $451 million in the first three months of 2002 from the same period in 2001.
+ American's domestic revenue per available seat mile (RASM) decreased 15.4
+ percent, to 8.7 cents, on a capacity increase of 9.4 percent, to 29.3 billion
+ available seat miles (ASMs). International RASM decreased to 8.66 cents, or 10.6
+ percent, on a capacity decrease of 11.4 percent. The decrease in international
+ RASM was due to a 14.1 percent decrease and 11.9 percent decrease in European
+ and Latin American RASM, respectively, slightly offset by a 9 percent increase
+ in Pacific RASM. The decrease in international capacity was driven by a 39.5
+ percent, 13.9 percent and 4 percent reduction in Pacific, European and Latin
+ American ASMs, respectively.
+ 
+ AMR Eagle's PASSENGER REVENUES decreased 13.8 percent, or $49 million. AMR
+ Eagle's traffic increased 6.9 percent while capacity decreased 1.3 percent, to
+ approximately 1.6 billion ASMs. As with American, the decrease in AMR Eagle's
+ revenues was due primarily to the continued impact of the September 11, 2001
+ terrorist attacks and the economic slowdown.
+ 
+ Cargo REVENUES decreased $42 million, or 23.9 percent, for the same reasons as
+ noted above.
+ 
+ OTHER REVENUES decreased 27.8 percent, or $82 million, due primarily to
+ decreases in contract maintenance work that American performs for other
+ airlines, and decreases in codeshare revenue and employee travel service
+ charges.
+ 
+ The Company's OPERATING EXPENSES increased 2.1 percent, or $101 million.
+ American's cost per ASM increased 0.4 percent to 11.30 cents. WAGES, SALARIES
+ AND BENEFITS increased 19.1 percent, or $334 million, primarily due to
+ contractual wage rate and seniority increases that are built into the Company's
+ labor contracts. In addition, the Company experienced increases in its pension
+ and health insurance costs, the latter reflecting rapidly rising medical care
+ and prescription drug costs. AIRCRAFT FUEL expense decreased 25.5 percent, or
+ $180 million, due primarily to a 23.3 percent decrease in the Company's average
+ price per gallon of fuel. OTHER RENTALS AND LANDING FEES increased 12.5 percent,
+ or $32 million, due to higher facilities rent and landing fees across American's
+ system. AIRCRAFT RENTALS increased $78 million, or 52.7 percent, due primarily
+ to the addition of TWA aircraft. COMMISSIONS TO AGENTS decreased 28.1 percent,
+ or $63 million, due primarily to an 11.7 percent decrease in passenger revenues
+ and a decrease in the percentage of commissionable transactions. OTHER OPERATING
+ EXPENSES decreased 11 percent, or $100 million, due primarily to decreases in
+ contract maintenance work that American performs for other airlines, and
+ decreases in travel and incidental costs, advertising and promotion costs, and
+ credit card fees, which were partially offset by higher insurance and security
+ costs.
+ 
+ 
+ 
+                                       -8-
+ <PAGE>
+ 
+ 
+ OTHER INCOME (EXPENSE), historically a net expense, increased $81 million due to
+ the following: INTEREST INCOME decreased 55 percent, or $22 million, due
+ primarily to decreases in interest rates. INTEREST EXPENSE increased $47
+ million, or 39.5 percent, resulting primarily from the increase in the Company's
+ long-term debt. INTEREST CAPITALIZED decreased $19 million, or 46.3 percent, due
+ primarily to a decrease in purchase deposits for flight equipment.
+ MISCELLANEOUS-NET decreased 46.7 percent, or $7 million, due to the write-down
+ of certain investments held by the Company during the first quarter of 2001.
+ 
+ The effective tax rate for the three months ended March 31, 2002 was impacted by
+ a $27 million charge resulting from a provision in Congress' economic stimulus
+ package that changes the period for carrybacks of net operating losses (NOLs).
+ This change allows the Company to carry back 2001 and 2002 NOLs for five years,
+ rather than two years under the existing law, allowing the Company to more
+ quickly recover its NOLs. The extended NOL carryback did, however, result in the
+ displacement of foreign tax credits taken in prior years. These credits are now
+ expected to expire before being utilized by the Company, resulting in this
+ charge.
+ 
+ 
+ 
+ OPERATING STATISTICS
+ 
+ <Table>
+ <Caption>
+                                                              Three Months Ended March 31,
+                                                             ------------------------------
+                                                                 2002              2001
+                                                             ------------      ------------
+ <S>                                                         <C>               <C>
+ AMERICAN AIRLINES (*)
+     Revenue passenger miles (millions)                            27,817            26,452
+     Available seat miles (millions)                               40,089            38,977
+     Cargo ton miles (millions)                                       463               549
+     Passenger load factor                                           69.4%             67.9%
+     Breakeven load factor                                           87.4%             68.2%
+     Passenger revenue yield per passenger mile (cents)             12.52             14.88
+     Passenger revenue per available seat mile (cents)               8.69             10.10
+     Cargo revenue yield per ton mile (cents)                       28.74             31.68
+     Operating expenses per available seat mile (cents)             11.30             11.26
+     Fuel consumption (gallons, in millions)                          745               743
+     Fuel price per gallon (cents)                                   67.2              87.6
+     Fuel price per gallon, excluding fuel taxes (cents)             61.7              82.0
+     Operating aircraft at period-end                                 852               719
+ 
+ AMR EAGLE
+     Revenue passenger miles (millions)                               919               860
+     Available seat miles (millions)                                1,567             1,588
+     Passenger load factor                                           58.6%             54.2%
+     Operating aircraft at period-end                                 283               267
+ </Table>
+ 
+ 
+ (*) 2002 statistics include the operating results of TWA whereas the 2001
+ amounts do not.
+ 
+ 
+ 
+                                       -9-
+ <PAGE>
+ Operating aircraft at March 31, 2002, included:
+ 
+ <Table>
+ <S>                               <C>              <C>                                       <C>
+ AMERICAN AIRLINES AIRCRAFT                         AMR EAGLE AIRCRAFT
+ Airbus A300-600R                            34     ATR 42                                      29
+ Boeing 717-200 (1)                          11     Bombardier CRJ-700                           3
+ Boeing 727-200 (2)                          15     Embraer 135                                 40
+ Boeing 737-800                              77     Embraer 140                                 22
+ Boeing 757-200                             150     Embraer 145                                 56
+ Boeing 767-200                               8     Super ATR                                   42
+ Boeing 767-200 Extended Range               21     Saab 340B                                   66
+ Boeing 767-300 Extended Range               58     Saab 340B Plus                              25
+ Boeing 777-200 Extended Range               42                                       ------------
+ Fokker 100                                  74       Total                                    283
+ McDonnell Douglas MD-80                    362                                       ============
+                                   ------------
+   Total                                    852
+                                   ============
+ </Table>
+ 
+ 
+ 
+ (1)      The Boeing 717-200 fleet will be removed from service by June 2002.
+ 
+ (2)      The Boeing 727-200 fleet will be removed from service by May 2002.
+ 
+ The average aircraft age for American's aircraft is 9.9 years and 6.6 years for
+ AMR Eagle aircraft.
+ 
+ In addition, the following owned and leased aircraft were not operated by the
+ Company as of March 31, 2002: 19 owned Boeing 727-200s, 15 operating leased
+ McDonnell Douglas DC-9s, 19 operating leased Boeing 717-200s, nine owned
+ McDonnell Douglas DC-10-10s, four operating leased McDonnell Douglas MD-80s,
+ three owned McDonnell Douglas MD-11s, two owned McDonnell Douglas DC-10-30s, and
+ four owned, six capital leased and two operating leased Saab 340Bs.
+ 
+ LIQUIDITY AND CAPITAL RESOURCES
+ 
+ NET CASH USED FOR OPERATING ACTIVITIES in the three-month period ended March 31,
+ 2002 was $406 million, an increase of $425 million over the same period in 2001,
+ due primarily to an increase in the Company's net loss. Capital expenditures for
+ the first three months of 2002 were $619 million, and included the acquisition
+ of six Boeing 757-200s, two Boeing 777-200ERs, seven Embraer 140s and two
+ Bombardier CRJ-700 aircraft. These capital expenditures were financed primarily
+ through secured mortgage and debt agreements.
+ 
+ As of March 31, 2002, the Company had commitments to acquire the following
+ aircraft: 47 Boeing 737-800s, 12 Boeing 777-200ERs, nine Boeing 767-300ERs, one
+ Boeing 757-200, 117 Embraer regional jets and 22 Bombardier CRJ-700s. Deliveries
+ of these aircraft are scheduled to continue through 2008. Payments for these
+ aircraft are expected to be approximately $825 million during the remainder of
+ 2002, $1.7 billion in 2003, $1.2 billion in 2004 and an aggregate of
+ approximately $1.9 billion in 2005 through 2008.
+ 
+ OTHER INFORMATION
+ 
+ In addition to the Company's approximately $2.3 billion in cash and short-term
+ investments as of March 31, 2002, the Company has available a variety of future
+ financing sources, including, but not limited to: (i) the receipt of the
+ remainder of the U.S. Government grant authorized by the Air Transportation
+ Safety and System Stabilization Act (the Act), which is estimated to be in
+ excess of $100 million, (ii) additional secured aircraft debt, (iii) the
+ availability of the Company's $1 billion credit facility, (iv) sale-leaseback
+ transactions of owned property, including aircraft and real estate, (v) the
+ recovery of past federal income taxes paid as a result of a provision in the
+ recently passed economic stimulus package regarding NOL carrybacks (in April
+ 2002, the Company received approximately $393 million related to the utilization
+ of its remaining 2001 NOL), (vi) tax-exempt borrowings for airport facilities,
+ (vii) securitization of future operating receipts, (viii) unsecured borrowings,
+ and (ix) borrowings backed by federal loan guarantees as provided under the Act.
+ No assurance can be given that any of these financing sources will be available
+ on terms acceptable to the Company. However, the Company believes it will meet
+ its current financing needs.
+ 
+ 
+                                       -10-
+ <PAGE>
+ 
+ 
+ As a result of the September 11, 2001 events, aviation insurers have
+ significantly reduced the maximum amount of insurance coverage available to
+ commercial air carriers for liability to persons other than employees or
+ passengers for claims resulting from acts of terrorism, war or similar events
+ (war-risk coverage). At the same time, they significantly increased the premiums
+ for such coverage as well as for aviation insurance in general. Pursuant to
+ authority granted in the Act, the Government has supplemented the commercial
+ war-risk insurance until May 19, 2002 with a third party liability policy to
+ cover losses to persons other than employees or passengers for renewable 60-day
+ periods. In the event the insurance carriers reduce further the amount of
+ insurance coverage available or the Government fails to renew war-risk
+ insurance, the Company's operations and/or financial position, results of
+ operations or cash flows would be adversely impacted.
+ 
+ As discussed in the Company's 2001 Form 10-K, a provision in the current Allied
+ Pilots Association contract further limits the number of ASMs and block hours
+ flown by American's regional carrier partners when American pilots are on
+ furlough. As AMR Eagle continues to accept previously ordered regional jets,
+ this will cause the ASM cap to be reached sometime in the first half of 2002,
+ necessitating actions to comply with that cap. American is working with its
+ regional partners to ensure that it is in compliance with this provision.
+ Actions currently being taken and considered by AMR Eagle to reduce its capacity
+ are discussed in the Company's 2001 Form 10-K. In addition, American is removing
+ its code from flights of the American Connection carriers, which are independent
+ carriers that provide feed to American's St. Louis hub. American believes that
+ the combination of all these actions will enable it to comply with the ASM cap
+ through 2002 and for sometime beyond.
+ 
+ OUTLOOK
+ 
+ Capacity for American is expected to be down approximately 11 percent in the
+ second quarter of 2002 compared to last year's second quarter levels. AMR
+ Eagle's second quarter capacity will be down about three percent from last
+ year's levels. For the second quarter of 2002, the Company expects traffic to be
+ lower by approximately 11 percent as compared to last year's second quarter
+ levels. Pressure to reduce costs will continue, although the Company will
+ continue to see higher wages, salaries and benefit costs, higher security costs
+ and insurance premiums, and greater interest expense. Although the Company
+ expects to see an increase in fuel prices as compared to the first quarter of
+ 2002, fuel prices are expected to remain lower in the second quarter of 2002 as
+ compared to last year's second quarter prices. Further, the Company expects to
+ see a benefit in commission expense due to the domestic base commission changes
+ implemented in March 2002. In total however, American's unit costs for the
+ second quarter of 2002 are expected to be two to three percent higher than last
+ year's second quarter. Given this higher unit cost, coupled with the revenue
+ pressures seen in the first quarter and expected to continue into the second
+ quarter, the Company expects to incur a loss in the second quarter (although the
+ Company does not expect this loss to be of the same magnitude as the Company's
+ first quarter loss), and will likely incur a loss for 2002.
+ 
+ FORWARD-LOOKING INFORMATION
+ 
+ Statements in this report contain various forward-looking statements within the
+ meaning of Section 27A of the Securities Act of 1933, as amended, and Section
+ 21E of the Securities Exchange Act of 1934, as amended, which represent the
+ Company's expectations or beliefs concerning future events. When used in this
+ document and in documents incorporated herein by reference, the words "expects,"
+ "plans," "anticipates," "believes," and similar expressions are intended to
+ identify forward-looking statements. Other forward-looking statements include
+ statements which do not relate solely to historical facts, such as, without
+ limitation, statements which discuss the possible future effects of current
+ known trends or uncertainties, or which indicate that the future effects of
+ known trends or uncertainties cannot be predicted, guaranteed or assured. All
+ forward-looking statements in this report are based upon information available
+ to the Company on the date of this report. The Company undertakes no obligation
+ to publicly update or revise any forward-looking statement, whether as a result
+ of new information, future events or otherwise. Forward-looking statements are
+ subject to a number of factors that could cause actual results to differ
+ materially from our expectations. Additional information concerning these and
+ other factors is contained in the Company's Securities and Exchange Commission
+ filings, including but not limited to the Form 10-K for the year ended December
+ 31, 2001.
+ 
+ 
+ 
+ 
+                                       -11-
+ <PAGE>
+ 

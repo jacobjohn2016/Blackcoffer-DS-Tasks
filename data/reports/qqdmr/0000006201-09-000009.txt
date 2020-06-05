@@ -1,0 +1,159 @@
+     <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+     <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Market Risk Sensitive
+ Instruments and Positions</font></font></div>
+     <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+     <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The risk
+ inherent in the Company&#8217;s market risk sensitive instruments and positions is the
+ potential loss arising from adverse changes in the price of fuel, foreign
+ currency exchange rates and interest rates as discussed below.&#160;&#160;The
+ sensitivity analyses presented do not consider the effects that such adverse
+ changes may have on overall economic activity, nor do they consider additional
+ actions management may take to mitigate the Company&#8217;s exposure to such
+ changes.&#160;&#160;Therefore, actual results may differ.&#160;&#160;The Company
+ does not hold or issue derivative financial instruments for trading purposes.
+ See Note 7 to the consolidated financial statements for accounting policies and
+ additional information.</font></div>
+     <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+     <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Aircraft
+ Fuel</font>&#160;&#160;&#160;The Company&#8217;s earnings are affected by changes in
+ the price and availability of aircraft fuel.&#160;&#160;In order to provide a
+ measure of control over price and supply, the Company trades and ships fuel and
+ maintains fuel storage facilities to support its flight
+ operations.&#160;&#160;The Company also manages the price risk of fuel costs
+ primarily by using jet fuel and heating oil hedging contracts.&#160;&#160;Market
+ risk is estimated as a hypothetical 10 percent increase in the December 31, 2008
+ and 2007 cost per gallon of fuel.&#160;&#160;Based on projected 2009 fuel usage,
+ such an increase would result in an increase to aircraft fuel expense of
+ approximately $399 million in 2009, inclusive of the impact of effective fuel
+ hedge instruments outstanding at December 31, 2008, and assumes the Company&#8217;s
+ fuel hedging program remains effective under Statement of Financial Accounting
+ Standards No. 133, &#8220;Accounting for Derivative Instruments and Hedging
+ Activities&#8221;.&#160;&#160;Comparatively, based on projected 2008 fuel usage, such
+ an increase would have resulted in an increase to aircraft fuel expense of
+ approximately $649 million in 2008, inclusive of the impact of fuel hedge
+ instruments outstanding at December 31, 2007.&#160;&#160;The change in market
+ risk is primarily due to the decrease in fuel prices.&#160;&#160;As of January
+ 2009, the Company had cash flow hedges, with collars and options, covering
+ approximately 35 percent of its estimated 2009 fuel
+ requirements.&#160;&#160;Comparatively, as of December 31, 2007 the Company had
+ hedged, with collars and options, approximately 24 percent of its estimated 2008
+ fuel requirements.&#160;&#160;The consumption hedged for 2009 by cash flow
+ hedges is capped at an average price of approximately $2.59 per gallon of jet
+ fuel, and the Company&#8217;s collars have an average floor price of approximately
+ $1.94 per gallon of jet fuel (both the capped and floor price exclude taxes and
+ transportation costs).&#160;&#160;The Company&#8217;s collars represent approximately
+ 32 percent of its estimated 2009 fuel requirements.&#160;&#160;A deterioration
+ of the Company&#8217;s financial position could negatively affect the Company&#8217;s
+ ability to hedge fuel in the future.</font></div>
+     <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+     <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">As of
+ December 31, 2008, the Company estimates that during the next twelve months it
+ will reclassify from Accumulated other comprehensive loss into earnings
+ approximately $711 million in net incremental expense (based on prices as of
+ December 31, 2008) related to its fuel derivative hedges, including expenses
+ from terminated contracts with a bankrupt counterparty and unwound
+ trades.</font></div>
+     <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+     <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Ineffectiveness
+ is inherent in hedging jet fuel with derivative positions based in crude oil or
+ other crude oil related commodities.&#160;&#160;As required by Statement of
+ Financial Accounting Standards No. 133, &#8220;Accounting for Derivative Instruments
+ and Hedging Activity&#8221; (SFAS 133), the Company assesses, both at the inception of
+ each hedge and on an on-going basis, whether the derivatives that are used in
+ its hedging transactions are highly effective in offsetting changes in cash
+ flows of the hedged items.&#160;&#160;In doing so, the Company uses a regression
+ model to determine the correlation of the change in prices of the commodities
+ used to hedge jet fuel (e.g. NYMEX Heating oil) to the change in the price of
+ jet fuel.&#160;&#160;The Company also monitors the actual dollar offset of the
+ hedges&#8217; market values as compared to hypothetical jet fuel
+ hedges.&#160;&#160;The fuel hedge contracts are generally deemed to be &#8220;highly
+ effective&#8221; if the R-squared is greater than 80 percent and the dollar offset
+ correlation is within 80 percent to 125 percent.&#160;&#160;The Company
+ discontinues hedge accounting prospectively if it determines that a derivative
+ is no longer expected to be highly effective as a hedge or if it decides to
+ discontinue the hedging relationship.</font></div>
+     <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+     <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div><br>
+     <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+       <div id="FTR">
+         <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman">&#160;
+ </font></div>
+       </div>
+       <div id="PN" style="PAGE-BREAK-AFTER: always">
+         <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+ </font></div>
+         <div style="WIDTH: 100%; TEXT-ALIGN: center">
+           <hr style="COLOR: black" noshade size="2">
+         </div>
+       </div>
+       <div id="HDR">
+         <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman">&#160;
+ </font></div>
+       </div>
+     </div><br>
+     <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Foreign
+ Currency</font>&#160;&#160;&#160;The Company is exposed to the effect of foreign
+ exchange rate fluctuations on the U.S. dollar value of foreign
+ currency-denominated operating revenues and expenses.&#160;&#160;The Company&#8217;s
+ largest exposure comes from the British pound, Euro, Canadian dollar, Japanese
+ yen and various Latin American currencies. The Company does not currently have a
+ foreign currency hedge program related to its foreign currency-denominated
+ ticket sales.&#160;&#160;A uniform 10 percent strengthening in the value of the
+ U.S. dollar from December 31, 2008 and 2007 levels relative to each of the
+ currencies in which the Company has foreign currency exposure would result in a
+ decrease in operating income of approximately $146 million and $132 million for
+ the years ending December 31, 2008 and 2007, respectively, due to the Company&#8217;s
+ foreign-denominated revenues exceeding its foreign-denominated
+ expenses.&#160;&#160;This sensitivity analysis was prepared based upon projected
+ 2009 and 2008 foreign currency-denominated revenues and expenses as of December
+ 31, 2008 and 2007, respectively.</font></div>
+     <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+     <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Interest</font>&#160;&#160;&#160;The
+ Company&#8217;s earnings are also affected by changes in interest rates due to the
+ impact those changes have on its interest income from cash and short-term
+ investments, and its interest expense from variable-rate debt
+ instruments.&#160;&#160;The Company&#8217;s largest exposure with respect to
+ variable-rate debt comes from changes in the London Interbank Offered Rate
+ (LIBOR). The Company had variable-rate debt instruments representing
+ approximately 28 percent and 22 percent of its total long-term debt at December
+ 31, 2008 and 2007, respectively.&#160;&#160;If the Company&#8217;s interest rates
+ average 10 percent more in 2009 than they did at December 31, 2008, the
+ Company&#8217;s interest expense would increase by approximately $13 million and
+ interest income from cash and short-term investments would increase by
+ approximately $7 million.&#160;&#160;In comparison, at December 31, 2007, the
+ Company estimated that if interest rates averaged 10 percent more in 2008 than
+ they did at December 31, 2007, the Company&#8217;s interest expense would have
+ increased by approximately $14 million and interest income from cash and
+ short-term investments would have increased by approximately $25
+ million.&#160;&#160;These amounts are determined by considering the impact of
+ the hypothetical interest rates on the Company&#8217;s variable-rate long-term debt
+ and cash and short-term investment balances at December 31, 2008 and
+ 2007.</font></div>
+     <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+     <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Market
+ risk for fixed-rate long-term debt is estimated as the potential increase in
+ fair value resulting from a hypothetical 10 percent decrease in interest rates,
+ and amounts to approximately $297 million and $326 million as of December 31,
+ 2008 and 2007, respectively. The fair values of the Company&#8217;s long-term debt
+ were estimated using quoted market prices or discounted future cash flows based
+ on the Company&#8217;s incremental borrowing rates for similar types of borrowing
+ arrangements.</font></div>
+     <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+     <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div><br>
+     <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+       <div id="FTR">
+         <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman">&#160;
+ </font></div>
+       </div>
+       <div id="PN" style="PAGE-BREAK-AFTER: always">
+         <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+ </font></div>
+         <div style="WIDTH: 100%; TEXT-ALIGN: center">
+           <hr style="COLOR: black" noshade size="2">
+         </div>
+       </div>
+       <div id="HDR">
+         <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Times New Roman">&#160;
+ </font></div>
+       </div>
+     </div><br>

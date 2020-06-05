@@ -1,0 +1,526 @@
+           CONDITION AND RESULTS OF OPERATIONS
+ 
+          Certain statements in this "Management's Discussion and Analysis of
+ Financial Condition and Results of Operations" constitute "forward-looking
+ statements" within the meaning of the Private Securities Litigation Reform Act
+ of 1995. Such forward-looking statements involve known and unknown risks,
+ uncertainties and other important factors that could cause the actual results,
+ performance or achievements of the Company, or industry results, to differ
+ materially from any future results, performance or achievements expressed or
+ implied by such forward-looking statements. Such risks, uncertainties and other
+ important factors include, among others: general economic and business
+ conditions; industry trends; industry capacity; competition; raw materials costs
+ and availability; currency fluctuations; the loss of any significant customers;
+ changes in business strategy or development plans; availability, terms and
+ deployment of capital; availability of qualified personnel; changes in, or the
+ failure or inability to comply with, government regulation; and other factors
+ referenced in this report. These forward-looking statements speak only as of the
+ date of this report.
+ 
+ 
+ RESULTS OF OPERATIONS
+ 
+          On June 18, 1998, the Company completed its acquisition of assets
+ constituting substantially all of the business and operations of First Image
+ Management Company("First Image"). For reporting purposes, the acquisition date
+ was set as June 1, 1998. The First Image acquisition resulted in incremental
+ revenues and EBITDA (defined on page 19) of $37.7 million and $9.7 million,
+ respectively, for the period June 1, 1998 to September 30, 1998, and are
+ included in the Company's results of operations for the fiscal year ended
+ September 30, 1998. See Note 7 to the accompanying Consolidated Financial
+ Statements for additional information related to this acquisition.
+ 
+          On May 20, 1996, the Company's Reorganization Plan was confirmed by the
+ United States Bankruptcy Court and on June 4, 1996, the Company emerged from
+ bankruptcy reorganization. The Plan of Reorganization resulted in a reduction of
+ approximately $174 million in principal and accrued interest on the Company's
+ debt obligations and in liquidation amount and accrued dividends on its
+ preferred stock. As a result of the Reorganization, the recording of the
+ restructuring transaction and the implementation of Fresh Start Reporting, the
+ Company's results of operations after May 31, 1996 (the cutoff date used for
+ financial reporting purposes) are not comparable to results reported in prior
+ periods. See Note 3 to the accompanying consolidated financial statements for
+ information on the consummation of the Plan of Reorganization and implementation
+ of Fresh Start Reporting.
+ 
+          To facilitate a meaningful comparison of the Company's quarterly and
+ year-to-date operating performance in fiscal years 1998, 1997 and 1996, the
+ following discussion of consolidated results of operations is presented on a
+ traditional comparative basis for all periods. Consequently, the information
+ presented below for fiscal 1996 does not comply with accounting requirements for
+ companies upon emergence from bankruptcy, which requirements call for separate
+ reporting for the newly reorganized company and the predecessor company.
+ 
+ 
+                                        17
+ <PAGE>
+ 
+ CONSOLIDATED RESULTS OF OPERATIONS
+ ANACOMP, INC. AND SUBSIDIARIES
+ 
+ <TABLE>
+ <CAPTION>
+ 
+                                                                                            Year Ended September 30,
+                                                                           -----------------------------------------------------
+ (dollars in thousands)                                                       1998                    1997             1996 (a)
+                                                                           ---------                ---------          ---------
+ <S>                                                                       <C>                      <C>                <C>
+ Revenues:
+     Services provided ...........................................         $ 227,851                $ 186,590          $ 189,257
+     Equipment and supply sales ..................................           271,166                  275,920            296,883
+                                                                           ---------                ---------          ---------
+                                                                             499,017                  462,510            486,140
+                                                                           ---------                ---------          ---------
+ Operating costs and expenses:
+     Costs of services provided ..................................           134,000                   97,932            104,499
+     Costs of equipment and supplies sold ........................           198,627                  206,582            226,623
+     Selling, general and administrative expenses ................            97,335                   87,355             87,217
+     Amortization of reorganization asset ........................            75,626                   75,780             25,663
+     Amortization of intangible assets ...........................            12,294                    3,376              6,297
+     Restructuring charges .......................................             8,494                     ----               ----
+                                                                           ---------                ---------          ---------
+                                                                             526,376                  471,025            450,299
+                                                                           ---------                ---------          ---------
+ Income (loss)  from operations ..................................           (27,359)                  (8,515)            35,841
+                                                                           ---------                ---------          ---------
+ 
+ Other income (expense):
+     Interest income .............................................             2,339                    4,346              2,573
+     Interest expense and fee amortization .......................           (34,598)                 (35,896)           (39,629)
+     Other .......................................................              (517)                  (1,285)             6,995
+                                                                           ---------                ---------          ---------
+                                                                             (32,776)                 (32,835)           (30,061)
+                                                                           ---------                ---------          ---------
+ 
+ Income (loss) before reorganization items, income taxes and
+   extraordinary items ...........................................           (60,135)                 (41,350)             5,780
+ Reorganization items ............................................              ----                     ----             92,839
+                                                                           ---------                ---------          ---------
+ Income (loss) before income taxes and extraordinary items .......           (60,135)                 (41,350)            98,619
+ Provision for income taxes ......................................             6,500                   15,500              8,100
+                                                                           ---------                ---------          ---------
+ Income (loss) before extraordinary items ........................           (66,635)                 (56,850)            90,519
+ Extraordinary items .............................................            (1,114)                 (10,961)            52,442
+                                                                           ---------                ---------          ---------
+ Net income (loss) ...............................................           (67,749)                 (67,811)           142,961
+ Preferred stock dividends and discount accretion ................              ----                     ----                540
+                                                                           ---------                ---------          ---------
+ Net income (loss) available to common stockholders ..............         $ (67,749)               $ (67,811)         $ 142,421
+                                                                           ---------                ---------          ---------
+                                                                           ---------                ---------          ---------
+ 
+ Supplemental:
+ EBITDA (b) ......................................................         $  84,843                $  83,662          $  84,175
+                                                                           ---------                ---------          ---------
+                                                                           ---------                ---------          ---------
+ 
+ </TABLE>
+ 
+ (a)      This column reflects the combination of historical results for the
+          eight months ended May 31, 1996, for the Predecessor Company and for
+          the four months ended September 30, 1996, for the Reorganized Company.
+ 
+ (b)      See the definition of EBITDA on Page 19.
+ 
+                                       18
+ 
+ <PAGE>
+ 
+ GENERAL
+ 
+          Anacomp reported a net loss of $67.7 million for the year ended
+ September 30, 1998 as compared to a net loss of $67.8 million and net income of
+ $143.0 million for the years ended September 30, 1997 and 1996, respectively.
+ The fiscal 1998 net loss includes non-cash amortization of the Company's
+ reorganization asset of $75.6 million and an extraordinary loss of $1.1 million
+ net of income taxes, on the extinguishment of debt comprised of unamortized debt
+ issue costs on the Company's senior secured loan. Included in the fiscal 1997
+ net loss is non-cash amortization of the Company's reorganization asset of $75.8
+ million and an extraordinary loss of $11.0 million net of income taxes on the
+ extinguishment of debt comprised of a 3% call premium and unamortized discount
+ on the Company's existing 13% subordinated notes. Net income for fiscal 1996
+ includes $25.7 million in non-cash amortization of the Company's reorganization
+ asset, a gain of $92.8 million for reorganization items and an extraordinary
+ gain resulting from the discharge of indebtedness of $52.4 million.
+ 
+          Pursuant to a 1990 OEM agreement Eastman Kodak Company ("Kodak") was
+ obligated to purchase an additional 151 XFP 2000 systems by October 1997 or pay
+ a cash penalty to the Company. The Company and Kodak negotiated an amendment to
+ the OEM agreement, whereby the Company accepted a $3.6 million cash payment from
+ Kodak, which is included in the results for fiscal 1997, a commitment to
+ purchase an additional 28 XFP 2000 systems and a one-time purchase of spare
+ parts. Kodak purchased 16 XFP 2000 systems in fiscal 1997 and 12 in fiscal 1998
+ thereby fulfilling their obligation under the amended agreement.
+ 
+          Earnings before interest, other income, reorganization items, special
+ and restructuring charges, taxes, depreciation and amortization and
+ extraordinary items ("EBITDA") was $84.8 million, or 17.0% of revenues for the
+ year ended September 30, 1998. This compares to EBITDA of $83.7 million, or
+ 18.1% of revenues, and $84.2 million, or 17.3% of revenues for the years ended
+ September 30, 1997 and 1996, respectively. Excluding the Kodak payment of $3.6
+ million described above, EBITDA for fiscal 1997 was $80.1 million or 17.3% of
+ revenues.
+ 
+ FISCAL YEAR ENDED SEPTEMBER 30, 1998 VS. FISCAL YEAR ENDED SEPTEMBER 30, 1997
+ 
+          REVENUES. The Company's revenues increased 7.9% from $462.5 million in
+ fiscal 1997 to $499.0 million in fiscal 1998. The Company experienced increased
+ revenues of $49.2 million and $11.5 million in its Outsource Services and Output
+ Systems business lines, respectively, while experiencing decreasing revenues of
+ $20.2 million in its Micrographic Supplies product lines.
+ 
+          The $49.2 million increase in Outsource Service revenues was primarily
+ due to the acquisition of First Image and the inclusion of its operating results
+ for the four months ending September 30, 1998 ($37.7 million). Additionally,
+ excluding the results of the First Image, COM service volumes increased by
+ approximately 23% while average selling prices decreased by approximately 12%.
+ Certain data center acquisitions in Europe and several large customer gains
+ contributed to both the increase in volumes and the decrease in average selling
+ prices.
+ 
+          The $11.5 million increase in Output Systems revenues was primarily due
+ to a $6.8 million increase in COM systems sales which was the result of both an
+ increase in the number of units sold as well as the pricing of new and used
+ systems. The Company sold or leased 140 XFP 2000 units in fiscal 1998 compared
+ to 135 in fiscal 1997. Digital systems revenues increased by $4.7 million which
+ was primarily the result of the Com-Informatic acquisition that was consummated
+ in October 1997.
+ 
+          The $20.2 million decrease in Micrographics Supplies revenues was the
+ result of the Company's discontinuance of the sale of duplicate film to the
+ reseller market, as well as declining sales of original COM film and duplicate
+ film, which is consistent with long-term trends.
+ 
+          GROSS MARGIN. The Company's gross margins increased 7.4% from $154.4
+ million (33.6% of revenues) in fiscal 1997 to $166.4 million (33.3% of revenues)
+ in fiscal 1998 (excluding the Kodak payment in fiscal 1997). Gross margins as a
+ percentage of revenues remained relatively flat on a consolidated basis although
+ there were fluctuations within certain business lines. Gross margins generated
+ by Outsource Services decreased as a percent of revenue by 3.4% which was
+ primarily the result of decreases in COM services average selling prices. The
+ decrease in average selling prices was in part due to the large customer gains
+ which received favorable pricing due to their large volumes and acquisitions
+ which increased sales volume at lower average 
+ 
+                                       19
+ 
+ <PAGE>
+ 
+ selling prices. Gross margins generated by COM systems sales as a percent of 
+ revenue increased by approximately 5.3% which was primarily due to product 
+ mix and the result of manufacturing efficiencies realized during fiscal 1998.
+ 
+          SELLING, GENERAL AND ADMINISTRATIVE EXPENSES. Selling, general and
+ administrative ("SG&A") expenses increased 11.4% from $87.4 million (18.9% of
+ revenues) in fiscal 1997 to $97.3 million (19.5% of revenues) in fiscal 1998.
+ This increase is primarily due to the increased expenses associated with the
+ First Image and Com-Informatic acquisitions. Additionally, the Company increased
+ its sales efforts, sales support and product development for the digital systems
+ products. The Company experienced lower SG&A expenses as a percentage of
+ revenues (18.1% of revenues) during the fourth quarter of fiscal 1998. This
+ decrease in SG&A was the result of additional revenues from First Image along
+ with the benefit from sales force reductions which occurred in the third
+ quarter.
+ 
+          AMORTIZATION OF INTANGIBLE ASSETS . Amortization of intangible assets
+ increased 264.0% from $3.4 million (1.0% of revenues) in fiscal 1997 to $12.3
+ million (2.5% of revenues) in fiscal 1998. This increase is primarily due to the
+ amortization of goodwill associated with the First Image acquisition.
+ 
+          RESTRUCTURING CHARGES. Restructuring charges totaled $8.5 million (1.7%
+ of revenues) in fiscal 1998. These charges resulted from the Company's
+ acquisition of First Image as the Company plans to close down Anacomp sites with
+ multiple market presence in certain cities and convert First Image customers to
+ Anacomp equipment. These restructuring activities are expected to be completed
+ during fiscal year 1999. The restructuring charges consist of personnel related
+ costs of $2.7 million, facility closedown costs of $4.8 million, and other costs
+ of $1.0 million. The Company incurred $1.1 million of personnel costs primarily
+ related to severance expenditures and $0.4 million of other administrative costs
+ during the year ended September 30, 1998.
+ 
+          INTEREST EXPENSE. Interest expense decreased 6.9% from $35.9 million in
+ fiscal 1997 to $34.6 million in fiscal 1998. This decrease was the result of the
+ Company refinancing substantially all of its debt obligations at lower interest
+ rates during fiscal 1998 and 1997 which was partially offset by additional
+ borrowings used to finance the acquisition of First Image. The Company is
+ currently anticipating that interest expense will increase to levels similar to
+ that which was experienced in the fourth quarter of fiscal 1998. Interest
+ expense increased $2.3 million from $7.9 million in the fourth quarter of fiscal
+ 1997 to $10.2 million in the fourth quarter of fiscal 1998.
+ 
+          PROVISION FOR INCOME TAXES. The provision for income taxes in fiscal
+ 1998 includes $5.0 million on earnings of Anacomp's foreign subsidiaries and
+ $0.8 million of domestic taxes after considering the impact of the extraordinary
+ loss. Of the $0.8 million domestic tax provision, approximately $0.4 million is
+ currently payable. The Company's effective tax rate decreased by approximately
+ 3% from 45% of taxable income in fiscal 1997 to 42% of taxable income in 1998.
+ This decrease was primarily due to a substantial portion of the taxable income
+ being generated in countries with lower income tax rates relative to the prior
+ period. See Note 17 to the accompanying Consolidated Financial Statements for
+ further discussion.
+ 
+ FISCAL YEAR ENDED SEPTEMBER 30, 1997 VS. FISCAL YEAR ENDED SEPTEMBER 30, 1996
+ 
+          REVENUES. The Company's revenues decreased 4.9% from $486.1 million in
+ fiscal 1996 to $462.5 million in fiscal 1997. The Company experienced decreased
+ revenues of $18.8 million and $9.4 million in its Micrographic Supplies and
+ Magnetic Media business lines, respectively, which was offset by increased
+ revenues of $7.2 million in its Output Systems product lines.
+ 
+          The $18.8 million decrease in Micrographic Supplies revenues includes a
+ decrease of $8.3 million related to the discontinuance and downsizing of
+ selected product lines initiated in fiscal 1996. The remaining decrease was
+ consistent with the projected market trends for reader and reader/printers,
+ original COM film, duplicate film and other accessories.
+ 
+          The Magnetic Media revenues decreased by $9.4 million due to expected
+ declining sales in several major product categories including 3480 tape
+ cartridges ($5.9 million), open reel tape ($7.7 million) and TK 50/52 tape ($2.0
+ million). These decreases were partially offset by new contributions of $5.8
+ million from metal particle tape products.
+ 
+                                       20
+ 
+ <PAGE>
+ 
+          The $7.2 million increase in Output Systems revenues is primarily
+ attributable to digital systems sales. Digital systems sales increased by $9.3
+ million which was primarily the result of the revenue contribution from the
+ DataWare acquisition that was consummated in January 1997. Prior to that
+ acquisition, there were no digital system sales. These sales were offset by a
+ $2.1 million decrease in COM systems revenues. This reduction resulted from an
+ increase in 1997 in the number of COM system units shipped under operating lease
+ arrangements, and a decrease in the number of systems shipped under straight
+ sales arrangements along with a change in the mix and pricing of new and used
+ systems
+ 
+          GROSS MARGIN. The Company's gross margins increased by less than 2% as
+ a percentage of revenues from $155.0 million (31.9% of revenues) in fiscal 1996
+ to $154.4 million (33.6% of revenues) in fiscal 1997 (the fiscal 1997 margin
+ excludes the Kodak payment). Gross margins remained relatively flat on a
+ consolidated basis although there were fluctuations within certain business
+ lines. Gross margins generated by Outsource Services decreased as a percent of
+ revenue by approximately 3% which was primarily the result of a decrease in COM
+ services average selling prices. Data center acquisitions and several large
+ customer gains resulted in increased volumes with a corresponding decrease in
+ average selling prices. Gross margins generated by Technical Services as a
+ percent of revenue increased by approximately 7% which was primarily due to cost
+ reduction efforts in maintenance services initiated by new management. Output
+ Systems gross margins as a percentage of revenues increased by approximately 12%
+ due to a change in product mix with a greater portion of sales represented by
+ refurbished systems which have higher margins.
+ 
+          SELLING, GENERAL AND ADMINISTRATIVE EXPENSES. SG&A expenses increased
+ less than 1% from $87.2 million (17.9% of revenues) in fiscal 1996 to $87.4
+ million (18.9% of revenues) in fiscal 1997. This increase was primarily the
+ result of transition costs associated with the Company's fiscal 1997 acquisition
+ activity.
+ 
+          INTEREST EXPENSE. Interest expense decreased 7.8% from $39.6 million in
+ fiscal 1996 to $35.9 million in fiscal 1997. This decrease was primarily due to
+ the Company's refinancing efforts in fiscal 1997 and its improved debt structure
+ as a result of the Company's reorganization in fiscal 1996.
+ 
+          PROVISION FOR INCOME TAXES. The provision for income taxes in fiscal
+ 1997 includes $5.4 million on earnings from Anacomp's foreign subsidiaries and
+ $4.2 million of domestic taxes after considering the impact of the extraordinary
+ loss. Of the $4.2 million domestic tax provision, approximately $0.7 million is
+ currently payable. See Note 17 to the accompanying Consolidated Financial
+ Statements for further discussion.
+ 
+ LIQUIDITY AND CAPITAL RESOURCES
+ 
+          During the period ended September 30, 1998, Anacomp issued $135 million
+ of 10 7/8% Senior Subordinated Notes which proceeds were used to fund the First
+ Image acquisition. As of September 30, 1998 the Company had $335 million of 10
+ 7/8% Senior Subordinated Notes outstanding. Interest on these notes is payable
+ semi-annually and the notes are due in April, 2004.
+ 
+          Anacomp's working capital at September 30, 1998, excluding the current
+ portion of long-term debt, was $17.7 million, compared to $41.4 million at
+ September 30, 1997. Net cash provided by operating activities decreased to $24.6
+ million for the fiscal year ended September 30, 1998, compared to $57.8 million
+ in the comparable prior period. Fiscal 1997 benefited from $12 million in
+ non-cash interest expense and significant reductions in long-term lease
+ receivables and inventory. Fiscal 1998 did not include the same benefits and, in
+ addition, current liabilities were significantly reduced during the year.
+ 
+          Net cash used in investing activities was $143.4 million in the current
+ period, compared to $32.8 million in the comparable prior period. This change
+ was primarily the result of the First Image acquisition in the current period.
+ 
+          Net cash provided by financing activities increased to $79.6 million
+ for the fiscal year ended September 30, 1998, compared to a net use of $5.1
+ million in the comparable prior period. This change was primarily the result of
+ the Company's issuance of $135 million of 10 7/8% Senior Subordinated notes
+ during the current period which was offset by the pay off of senior indebtedness
+ outstanding at the end of fiscal 1997.
+ 
+                                       21
+ 
+ <PAGE>
+ 
+          The Company's cash balance (including restricted cash) as of September
+ 30, 1998 was $22.0 million, compared to $65.5 million at September 30, 1997. The
+ Company also has available an $80 million revolving credit facility. There were
+ no amounts outstanding under the revolving credit facility as of September 30,
+ 1998.
+ 
+          The Company has significant debt service obligations. The ability of
+ the Company to meet its debt service and other obligations will depend upon its
+ future performance and is subject to financial, economic and other factors, some
+ of which are beyond its control. However, the Company believes that cash on hand
+ and cash generated from operations and cash available under the revolving credit
+ facility will be sufficient to fund its debt service requirements, acquisition
+ strategies and working capital requirements in the foreseeable future.
+ 
+ YEAR 2000
+ 
+          Anacomp has undertaken a comprehensive "year 2000" program for the
+ products that it sells or distributes in the marketplace. Under this program,
+ the Company has assessed all of its critical software and hardware products to
+ determine what remediation, if any, is necessary for the proper functioning of
+ these systems in the year 2000 and beyond. The Company has worked with its
+ outside vendors to ensure that they will continue to support the products that
+ the vendors supply to Anacomp for resale, including the performance by the
+ vendors of any required year 2000 remediation. Anacomp has also analyzed and
+ updated for year 2000 purposes certain software and hardware systems that it
+ uses internally. The Company continues to consider year 2000 issues for all new
+ products and services as well as those in development or included in business
+ acquisitions.
+ 
+      STATE OF READINESS
+ 
+          Anacomp's overall state of readiness can be assessed by describing its
+ specific readiness in four key areas, namely its products and services, its
+ vendors' and suppliers' products and services, its internal systems, and its
+ products in development.
+ 
+          Anacomp has completed the assessment, remediation and year 2000 testing
+ phases of nearly all supported products and services, including those
+ responsible for generating the material portion of its revenues. The Company is
+ currently in the remediation phase of its electronic data transmission project.
+ Anacomp summarizes the status of each completed product or service in a written
+ report to the Company's year 2000 steering committee, for archiving in the
+ Company's year 2000 database. These processes have been reviewed and approved by
+ a third party consultant retained for this purpose.
+ 
+          The implementation phase of the Company's year 2000 project depends on
+ the response of the Company's customers who may require upgrades or migration
+ paths. Anacomp is in the process of communicating with identified customers and
+ has no reason to believe that all customers who require upgrades or migration
+ will not receive them. To this end, Anacomp has offered financial incentives to
+ encourage early responses and avoid peak demand loads, although no assurance can
+ be made that the demand will be spread sufficiently to eliminate delays in
+ implementation. Anacomp has also launched its "Analog as a Fail Safe" campaign
+ to educate customers about the value of COM and microfilm as a way to minimize
+ the risk of the year 2000. Although customers may divert expenditures away from
+ these products and services in order to fund other year 2000 remediation,
+ Anacomp encourages customers to consider these products and services as a
+ cost-effective backup to digital storage because retrieval of data stored on
+ microfilm does not require digital technology.
+ 
+          The Company has requested that approximately 1,000 of its vendors and
+ suppliers answer a year 2000 readiness questionnaire and has sent a follow-up
+ letter and questionnaire to each of approximately 200 key vendors and suppliers
+ who did not reply to the first mailing. Anacomp is in the process of reviewing
+ the responses for their likely impact on the Company. For those Anacomp products
+ which incorporate the products of a third party supplier, Anacomp requests that
+ its suppliers disclose test procedures and results. Anacomp has also requested
+ that its vendors in the human resources area, such as its retirement, health and
+ insurance providers, respond in writing as to their readiness, but there can be
+ no assurance that such vendors will either respond or achieve readiness in a
+ timely fashion.
+ 
+                                       22
+ 
+ <PAGE>
+ 
+          Anacomp has identified all internal software and hardware products used
+ in its corporate headquarters in Poway, California, including those used to
+ assimilate and report financial information and to handle billing, collections
+ and electronic commerce. In those instances where remediation or renovation was
+ required, Anacomp has either completed or has nearly completed such remediation
+ or renovation. Anacomp is in the process of completing the documentation of such
+ efforts for its year 2000 archives.
+ 
+          The Company continues to develop new products and services and acquire
+ new businesses. Anacomp develops and tests each new product, sometimes with the
+ assistance of an outside consultant, for year 2000 readiness. Businesses which
+ Anacomp acquires, such as First Image, are subject to the same assessment,
+ remediation, testing and implementation phases as those described above.
+ 
+      COSTS
+ 
+          Anacomp estimates that total expenditures on its year 2000 project,
+ including costs of outside parties such as consultants and attorneys, costs of
+ hardware and software remediation, internal labor, travel and out of pocket
+ expenses to be approximately $0.3, $2.3, and $1.2 million in fiscal year 1997,
+ 1998, and 1999, respectively. These figures include estimates from the
+ engineering, manufacturing, legal and information technology departments of the
+ Company.
+ 
+      RISKS
+ 
+          There can be no assurance that the Company and its vendors and
+ suppliers will be able to identify all year 2000 issues before problems manifest
+ themselves or to complete all remediation in the required time frame. Further,
+ it is possible that the future level of expenses in the Company's remediation
+ efforts could rise significantly.
+ 
+          The Company relies upon the continuous provision of services from third
+ parties such as electrical and telecommunication utilities around the world, and
+ the Company plans to enhance its electronic data transmission capabilities. Any
+ sustained disruption of service or capability could adversely impact the
+ Company's ability to operate its business. Finally, there can be no assurance
+ that, if left unremedied, the products or services that the Company sells or
+ distributes would remain competitive in the marketplace or the products that the
+ Company uses internally would not have a material effect upon the ability of the
+ Company to report its financial results.
+ 
+      CONTINGENCY PLANS
+ 
+          In those instances where the Company determines that year 2000 problems
+ with its operational facilities may not be identified or remediated in time, the
+ Company believes that its business will still be able to function without
+ substantial interruption. For example, COM services provided in a data center
+ which experiences a loss of power due to a third party utility's failure to
+ identify or remediate an isolated year 2000 problem could be shifted to another
+ data center without substantial interruption. In addition, electronic
+ transmission of data could be replaced with manual delivery of data upon
+ completion of certain modifications. In those instances where an installed COM
+ customer experiences a year 2000 problem while operating its own COM equipment,
+ Anacomp could offer its COM services to the customer at one of its data centers
+ upon completion of certain modifications. This seamless nature of many of
+ Anacomp's products and services forms the basis of Anacomp's ongoing contingency
+ planning.
+ 
+ ACCOUNTING PRONOUNCEMENTS
+ 
+          In June 1997, the FASB issued two additional pronouncements related to
+ reporting comprehensive income and disclosure of segment information. These two
+ pronouncements are effective for fiscal years beginning after December 15, 1997.
+ The Company has not yet determined the additional disclosures specified by these
+ pronouncements on the consolidated financial statements for the year ended
+ September 30, 1998, which will be reported during fiscal 1999.
+ 
+                                       23
+ 
+ <PAGE>
+ 
+ EURO CURRENCY
+ 
+          Many of the countries in which the Company sells its products and
+ services are Member States of the Economic and Monetary Union ("EMU"). Beginning
+ January 1, 1999, Member States of the EMU may begin trading in either their
+ local currencies or the euro, the official currency of EMU participating Member
+ States. Parties are free to choose the unit they prefer in contractual
+ relationships during the transitional period, beginning January 1999 and ending
+ June 2002. The Company's computer system contains the functionality to process
+ transactions in either a country's local currency or the euro. The Company does
+ not currently anticipate any material adverse effects on its operations related
+ to the EMU's conversion to the euro. However, there can be no assurance that the
+ conversion of EMU Member States to euro will not have a material adverse effect
+ on the Company and its operations.
+ 

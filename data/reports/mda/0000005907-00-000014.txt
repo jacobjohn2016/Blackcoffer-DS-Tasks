@@ -1,0 +1,882 @@
+ 
+ INTRODUCTION
+ In 1999, we made  significant  strides to transform AT&T and deliver growth.  We
+ finalized  many of the  strategic  acquisitions  we  announced  in 1998 and made
+ additional investments to further support our facilities-based  growth strategy.
+ We continued to maintain the execution-focused culture of the new AT&T.
+ 
+ One of the most  dynamic  areas in 1999 was our  wireless  business.  Increasing
+ demand for wireless  services and the  continued  appeal of our Digital One Rate
+ (sm) plans drove Wireless  Services  revenue to grow  approximately  40% for the
+ year.  Throughout  1999 we continued to expand our  national  footprint.  In the
+ second quarter, we completed the acquisition of Vanguard Cellular Systems, which
+ was announced in 1998; in August we closed the acquisition of Honolulu Cellular;
+ and in October we announced the acquisition of American Cellular Corp. through a
+ newly created joint venture  between AT&T and Dobson  Communications.  We capped
+ off the year by  proposing  the  creation of a new class of tracking  stock that
+ will reflect the economic  performance  of the AT&T  Wireless  Group.  While the
+ Wireless  Group will  remain  part of AT&T,  the  separate  tracking  stock will
+ provide current  shareowners and future  investors with a security tied directly
+ to the performance of this business.
+ 
+ As we worked to grow our wireless  businesses in 1999,  we also started  putting
+ the bricks  and  mortar  around our  broadband  plans - a key  component  of our
+ overall   growth   strategy.   We   completed   our  $52  billion   merger  with
+ Tele-Communications, Inc. (TCI) in March, and quickly accelerated the upgrade of
+ the TCI cable plant,  which will enable us to develop additional revenue streams
+ from  any-distance  cable telephony,  high-speed data, and digital video. By the
+ end of 1999,  TCI,  renamed AT&T  Broadband,  was offering cable telephony in 16
+ cities   within   nine  pilot   markets,   digital-video   subscribers   totaled
+ approximately  1.8 million,  and more than 200,000  customers  had signed up for
+ high-speed  data  service.  To expand our  national  cable  network  beyond AT&T
+ Broadband's  systems,  we announced in May the $57 billion merger with MediaOne.
+ When the  merger  is  completed  in 2000,  we will  significantly  increase  our
+ presence  in major  metropolitan  markets  across  the  country  with  owned and
+ operated cable systems passing more than 26 million homes.
+ 
+ In addition to the accomplishments in our domestic growth  initiatives,  we also
+ made  significant  progress in our global  strategy.  Most notably,  we launched
+ Concert - a leading global  telecommunications  company  created  through AT&T's
+ joint venture with British  Telecommunications  plc (BT). Concert represents the
+ core of our global strategy and began serving multinational  business customers,
+ international  carriers and Internet service  providers in January 2000. As part
+ of our  relationship  with  Concert  and BT,  we also  made  several  in-country
+ facility-based  investments  during 1999,  including  AT&T Canada Corp.,  Rogers
+ Cantel in Canada,  and Japan  Telecom.  We also  completed  the  purchase of IBM
+ Global Network  Services and now provide data networking  services to businesses
+ around the world as AT&T Global Network Services (AGNS).
+ 
+ [Included in the 1999 Annual Report are pie charts entitled "Revenue
+ Diversification by Product." These charts depict revenue by product for 1998 and
+ 1999.]
+ 
+ In addition to delivering on our domestic and global  strategic  objectives  for
+ 1999, we also achieved the aggressive financial targets we set for the year. We
+ 
+ <PAGE>
+ 
+ delivered  revenue growth of 6.2% on a pro forma basis for the  acquisitions  of
+ AT&T Broadband and AGNS, hitting our targeted range of 5% to 7%. The majority of
+ the  increase  came from our  growth  businesses,  showing  the  success  of our
+ investment  strategy  as it  begins  to shift  our  revenue  base away from long
+ distance voice  revenue.  Just one year ago, long distance voice revenue was 75%
+ of our  total  revenue;  in 1999 it  dropped  to 62%.  While  long  distance  is
+ increasingly  becoming  a  commodity,  as  evidenced  by the  continued  pricing
+ pressures in the industry,  its current  profitability  supports  investments in
+ growth  businesses.  These  growth  businesses  in turn  will  support  the long
+ distance  business as we include  long  distance  as a component  of a bundle of
+ competitively priced services.
+ 
+ In order to become truly  competitive,  we must become the low-cost  provider in
+ the industry,  and  therefore,  we are continuing our efforts to reduce our cost
+ structure.  A year ago, we committed to reducing our 1999  selling,  general and
+ administrative  (SG&A)  expenses  to  23%  of  revenue.  We  beat  that  target,
+ delivering  an SG&A  expense-to-revenue  ratio  of  21.7%  for the  year,  which
+ translates into approximately $830 million of SG&A expense savings compared with
+ our  targets.  The  fourth  quarter  came in at just  21.2%.  That's a  dramatic
+ improvement from 1997, when the SG&A  expense-to-revenue  ratio for the year was
+ 27.9%.  While we've been  successful in driving  costs out of the  business,  we
+ still have more to do. We will  continue to attack  costs and have  committed to
+ cutting $2 billion in costs by the end of 2000 by continuing  to streamline  our
+ SG&A expenses and by lowering our network  costs by moving more data,  voice and
+ wireless traffic onto our expanding network of global facilities.
+ 
+ Not surprisingly,  our success in growing revenue and shrinking costs allowed us
+ to deliver strong cash flow results in 1999, with cash from  operations  growing
+ to $11.6 billion - up 13.9% from 1998.  In 1999,  we generated  $18.3 billion of
+ reported EBITDA [earnings,  including other income  (expense),  before interest,
+ taxes, depreciation and amortization].
+ 
+ As  anticipated,  the positive impact of our revenue growth and cost controls on
+ earnings  per share was more than offset by the impact of shares  issued and the
+ franchise, goodwill and other purchased intangibles amortization associated with
+ our investments and acquisitions.  As a result,  earnings per diluted share were
+ 10.3% below 1998.  We  undertook an  aggressive  stock  buyback  program to help
+ offset some of the dilutive impacts of these acquisitions,  and since the second
+ half  of  1998  we've  repurchased  nearly  220  million  shares,  at a cost  of
+ approximately  $10 billion.  In 2000, we plan to  repurchase  another 50 million
+ shares from Cox Communications, Inc., in exchange for cable properties and cash.
+ 
+ We've come a long way in 1999. As the following pages present in further detail,
+ we've made solid progress in our strategy to transform AT&T, and we've delivered
+ on our  commitments  for growth and expense  control.  There is still much to be
+ done, but we finished 1999 with pride in our  accomplishments  and confidence in
+ our ability to sustain the momentum and further accelerate our growth in 2000.
+ 
+ OVERVIEW
+ AT&T is among the world's  communications  leaders,  providing  voice,  data and
+ video telecommunications  services to large and small businesses,  consumers and
+ government  agencies.  We provide  domestic  and  international  long  distance,
+ regional,  local and wireless  communications  services,  cable  television  and
+ Internet  communication  services.  AT&T also  provides  billing,  directory and
+ calling-card services to support our communications business.
+ 
+ <PAGE>
+ 
+ MERGER WITH TCI
+ We completed the merger with TCI, renamed AT&T Broadband  (Broadband),  on March
+ 9, 1999, in an all-stock  transaction  valued at approximately  $52 billion.  We
+ issued  approximately  664 million  shares,  of which 149 million were  treasury
+ shares that were repurchased in anticipation of the Broadband merger.
+ 
+ The  merger  was  recorded  under  the  purchase   method  of  accounting   and,
+ accordingly,  the results of Broadband  have been  included  with the  financial
+ results of AT&T since the date of acquisition.  Periods prior to the merger were
+ not restated to include the results of Broadband.
+ 
+ In connection with this transaction, we also issued a separate tracking stock to
+ reflect the  economic  performance  of Liberty  Media Group  (LMG),  Broadband's
+ former programming and technology investment businesses. We issued 1,140 million
+ shares of Liberty  Media  Group  Class A tracking  stock  (including  60 million
+ shares related to the conversion of convertible notes) and 110 million shares of
+ Liberty  Media  Group  Class B  tracking  stock.  We do not  have a  controlling
+ financial  interest in Liberty  Media Group for financial  accounting  purposes;
+ therefore,  our  ownership in LMG is reflected as an  investment  accounted  for
+ under the  equity  method in the AT&T  consolidated  financial  statements.  The
+ amounts  attributable to LMG are reflected as separate line items "Equity losses
+ from Liberty  Media Group" and  "Investment  in Liberty  Media Group and related
+ receivables, net" in the accompanying consolidated financial statements.
+ 
+ Broadband's cable and certain other operations, including its ownership interest
+ in  At  Home   Corporation   (Excite@Home)   and   Cablevision   Systems   Corp.
+ (Cablevision),  but excluding LMG, were combined with the existing operations of
+ AT&T to form the AT&T Common Stock Group (AT&T Group), the economic  performance
+ of which is represented by AT&T common stock. References to AT&T common stock do
+ not include the LMG tracking stock.
+ 
+ Ownership of shares of AT&T common stock or Liberty  Media Class A or B tracking
+ stock does not represent a direct legal  interest in the assets and  liabilities
+ of either of the groups, but an ownership of AT&T in total. Each of these shares
+ represents an interest in the economic  performance of the net assets of each of
+ these groups.  Accordingly,  the earnings and losses related to LMG are excluded
+ from earnings  available to AT&T Group,  and earnings and losses related to AT&T
+ Group are excluded from earnings available to LMG.
+ 
+ Because we account for LMG as an equity investment, revenue, operating expenses,
+ other income (expense),  interest expense and provision for taxes for AT&T Group
+ are the same as consolidated AT&T.
+ 
+ The  discussion  and  analysis  that  follows  provides  information  management
+ believes is relevant to an assessment and  understanding of AT&T's  consolidated
+ results of operations for the years ended December 31, 1999,  1998 and 1997, and
+ financial condition as of December 31, 1999 and 1998.
+ 
+ FORWARD-LOOKING STATEMENTS
+ Except  for  the  historical   statements  and  discussions   contained  herein,
+ statements contained herein constitute  "forward-looking  statements" within the
+ meaning of Section  27A of the  Securities  Act of 1933 and  Section  21E of the
+ Securities  Exchange  Act  of  1934,  including  statements   concerning  future
+ operating performance,  AT&T's share of new and existing markets,  AT&T's short-
+ and long-term  revenue and earnings  growth rates,  and general  industry growth
+ rates and AT&T's performance relative thereto. These forward-looking  statements
+ rely on a number of assumptions concerning future events, including the adoption
+ 
+ <PAGE>
+ 
+ and  implementation  of balanced  and  effective  rules and  regulations  by the
+ Federal  Communications   Commission  (FCC)  and  the  state  public  regulatory
+ agencies,  and AT&T's ability to achieve a significant market penetration in new
+ markets.   These   forward-looking   statements  are  subject  to  a  number  of
+ uncertainties and other factors,  many of which are outside AT&T's control, that
+ could cause  actual  results to differ  materially  from such  statements.  AT&T
+ disclaims any  intention or  obligation to update or revise any  forward-looking
+ statements, whether as a result of new information, future events or otherwise.
+ 
+ CONSOLIDATED RESULTS OF OPERATIONS
+ For the Years Ended December 31,          1999      1998     1997
+ Dollars in millions
+ (except per share amounts)
+ 
+ Operating income                       $10,859    $7,487   $6,836
+ 
+ Operating income margin                   17.4%     14.1%   13.3%
+ 
+ Income from continuing operations       $3,428    $5,235   $4,249
+ 
+ Net income                              $3,428    $6,398   $4,415
+ 
+ Per AT&T Group common share - basic:
+   Income from continuing operations     $ 1.77    $ 1.96   $ 1.59
+   Income from discontinued operations        -         -     0.03
+   Gains on sales of discontinued
+    operations                                -      0.48     0.03
+   Extraordinary loss                         -      0.05        -
+   AT&T Group earnings                   $ 1.77    $ 2.39  $  1.65
+ 
+ Per AT&T Group common share - diluted:
+   Income from continuing operations     $ 1.74    $ 1.94   $ 1.59
+   Income from discontinued operations        -         -     0.03
+   Gains on sales of discontinued
+    operations                                -      0.48     0.03
+   Extraordinary loss                         -      0.05        -
+   AT&T Group earnings                   $ 1.74    $ 2.37   $ 1.65
+ 
+ Liberty Media Group loss per share:
+   Basic and diluted                     $ 1.61    $    -    $   -
+ 
+ Our results include certain items that affect  comparability  from year to year.
+ We  quantify  the  impact of these  items in order to explain  our  results on a
+ comparable  basis.  These items include the 1999  acquisitions  of Broadband and
+ AT&T Global  Network  Services  (AGNS),  net  restructuring  and other  charges,
+ significant  gains on sales of businesses  [discussed in other income  (expense)
+ discussion] and the impact of a change in tax rules. The net  restructuring  and
+ other charges, gains on sales of businesses,  change in tax rules and the impact
+ of our investments in Excite@Home and Cablevision are  collectively  referred to
+ as "restructuring  and other charges,  and certain gains and losses." We discuss
+ our  results  excluding  the  impact  of  our  investments  in  Excite@Home  and
+ Cablevision since these businesses have financial information publicly available
+ and their results can be reviewed independently of AT&T's results.
+ 
+ <PAGE>
+ 
+ Following is a summary of the approximate diluted earnings per share (EPS)
+ impact of the above items for 1999 and 1998:
+  ..Net restructuring and other charges of $0.37 in 1999 and $0.59 in 1998;
+  ..Gains on sales of businesses of $0.07 in 1999 and $0.18 in 1998;
+  ..A loss of $0.18 reflecting the earnings impact of our investments in
+       Excite@Home and Cablevision in 1999; and
+  ..A $0.02 benefit in 1999 from changes in tax rules with respect to the
+       utilization of acquired net operating losses.
+ 
+ Operating  income,  on a reported  basis,  increased 45.0% in 1999 compared with
+ 1998; excluding net restructuring and other charges,  operating income increased
+ 23.6%.  Operating income margin  (operating  income as a percent of revenue) was
+ 17.4% in 1999 compared with 14.1% in 1998.  Operating  income margin,  excluding
+ net  restructuring  and other charges,  was 19.8% in 1999 compared with 18.8% in
+ 1998. These  operational  improvements  were due to revenue growth and operating
+ expense efficiencies.
+ 
+ EPS from  continuing  operations  attributable  to AT&T Group on a diluted basis
+ declined  10.3% in 1999 to $1.74,  compared with 1998. The decline was primarily
+ due to the impact of the Broadband and AGNS  acquisitions,  including the impact
+ of shares issued and equity losses of  Excite@Home  and  Cablevision.  Partially
+ offsetting these declines was increased income from the remaining operations due
+ to  revenue  growth  and  operating  expense  efficiencies  as well as lower net
+ restructuring and other charges.  Excluding the restructuring and other charges,
+ and  certain  gains  and  losses,  EPS was $2.20 per  diluted  share in 1999,  a
+ decrease of 6.4%,  or $0.15,  over the prior year.  The decrease in  operational
+ earnings  in 1999  was  primarily  due to the  impacts  of the  acquisitions  of
+ Broadband and AGNS.
+ 
+ Excluding the impacts of both Broadband and AGNS,  operational  EPS for 1999 was
+ $3.08,  an increase of 31.1%,  or $0.73,  compared  with 1998.  The increase was
+ primarily due to higher revenue combined with improving  margins  resulting from
+ cost efficiencies.
+ 
+ Operating  income,  on a reported  basis,  increased  9.5% in 1998 compared with
+ 1997;  excluding net  restructuring,  exit and other charges,  in 1998 and 1997,
+ operating income increased 42.2%.
+ 
+ Results for 1997 include net restructuring and other charges,  and a gain from a
+ sale of a  business,  which  resulted in an  approximate  $0.01 EPS benefit on a
+ diluted basis. In addition,  1998 included a benefit from the 1998 adoption of a
+ new accounting standard related to the capitalization of internal-use  software.
+ EPS from continuing  operations was $1.94 per diluted share in 1998, an increase
+ of 22.0% from 1997.  Excluding the impact of the 1998 and 1997 restructuring and
+ other charges,  and certain gains and losses, EPS was $2.30 per diluted share in
+ 1998,  an  increase  of $0.72,  or  45.6%,  compared  with  1997.  Cost  control
+ initiatives  and higher  revenue  were the  primary  drivers of the  operational
+ increases.
+ 
+ <PAGE>
+ 
+ For the Years Ended December 31,              1999      1998      1997
+ Dollars in millions
+ REVENUE
+ Business Services                          $25,102   $23,611   $22,331
+ Consumer Services                           21,972    22,885    23,690
+ Wireless Services                            7,627     5,406     4,668
+ Broadband                                    4,871         -         -
+ Other and Corporate                          2,819     1,321       888
+ Total revenue                              $62,391   $53,223   $51,577
+ 
+ Total revenue  increased  17.2%,  or $9,168  million,  in 1999 compared with the
+ prior year.  Revenue for 1999  included  Broadband  and AGNS  revenue from their
+ respective  dates of  acquisition.  Excluding the impact of these  acquisitions,
+ 1999 revenue  increased  5.8% to $56,307  million.  This  increase was fueled by
+ growth in wireless,  business  data,  business  domestic long distance voice and
+ outsourcing revenue,  partially offset by the continued decline of consumer long
+ distance  voice  revenue.  Adjusting  1999 and 1998 to  reflect  the  revenue of
+ Broadband  and AGNS for a full  year in both  periods,  1999 pro  forma  revenue
+ increased 6.2% to $64,141 million from $60,394 million in 1998.
+ 
+ Long  distance  voice  revenue  as  a  percent  of  total  revenue  declined  to
+ approximately 62% in 1999,  compared with  approximately 75% and 79% in 1998 and
+ 1997,  respectively.  We expect this  percentage to continue to decline as data,
+ Internet, wireless and outsourcing revenue continue to grow and as long distance
+ prices continue to decrease, resulting in a more diversified portfolio.
+ 
+ Total revenue in 1998 increased $1,646 million, or 3.2%, compared with 1997, led
+ by business data, wireless and outsourcing revenue.  Improvements in these areas
+ were partially offset by a decline in consumer long distance revenue and reduced
+ revenue due to the sale of AT&T Solutions Customer Care (ASCC) in 1998.
+ 
+ Revenue by segment is discussed in more detail in the segment results section.
+ 
+ OPERATING EXPENSES
+ For the year,  operating expenses totaled $51,532 million,  an increase of 12.7%
+ from $45,736 million in 1998. In 1998,  operating  expenses  increased 2.2% from
+ $44,741 million in 1997.  Operating expenses for 1999 reflect Broadband and AGNS
+ expenses from their  respective  dates of  acquisition.  In addition,  operating
+ expenses  in  1999  and  1998  included   $1,506  million  and  $2,514  million,
+ respectively, of net restructuring and other charges. Operating expenses in 1997
+ included a $160 million charge to exit the two-way messaging business and a $100
+ million benefit from the reversal of pre-1995 restructuring reserves.  Excluding
+ the impact of the  acquisitions of Broadband and AGNS and net  restucturing  and
+ other charges, 1999 operating expenses increased $198 million, or 0.5%, and 1998
+ operating expenses decreased 2.8%.
+ 
+ [Included in the 1999 Annual Report are pie charts entitled "Margin and Expenses
+ as a Percent of Revenue." These charts depict margin and expenses (excluding net
+ restructuring and other charges) as a percent of revenue for 1997 and 1999.]
+ 
+ For the Years Ended December 31,        1999      1998      1997
+ Dollars in millions
+ Access and other interconnection     $14,686   $15,328   $16,350
+ 
+ Access  and other  interconnection  expenses  are the  charges we pay to connect
+ calls on the  facilities of local exchange  carriers and other domestic  service
+ providers, and fees we pay foreign telephone companies (international
+ 
+ <PAGE>
+ 
+ settlements) to connect calls made to foreign countries. These charges represent
+ payments to these  carriers for shared and  dedicated  facilities  and switching
+ equipment used to connect our network with their networks.  These costs declined
+ $642  million,  or 4.2%, in 1999 and $1,022  million,  or 6.3%, in 1998 compared
+ with the prior year. These declines were primarily driven by mandated reductions
+ in per-minute access rates in 1999 and 1998 and lower  international  settlement
+ rates resulting from our negotiations with international carriers. Additionally,
+ we continue to manage these costs through more efficient  network  usage.  These
+ reductions were partially  offset by volume growth,  increased  per-line charges
+ (Primary   Interexchange   Carrier   Charges)   and   Universal   Service   Fund
+ contributions.  Since most of these charges are passed  through to the customer,
+ the per-minute  access-rate reductions and the increases in per-line charges and
+ the Universal  Service Fund have generally  resulted in an offsetting  impact on
+ revenue.  Broadband  and AGNS do not have any access  and other  interconnection
+ expenses, therefore the results are the same excluding Broadband and AGNS.
+ 
+ For the Years Ended December 31,          1999      1998      1997
+ Dollars in millions
+ Network and other costs of services    $14,385   $10,495   $10,038
+ 
+ Network and other costs of services  expenses include the costs of operating and
+ maintaining our networks, costs to support our outsourcing contracts,  fees paid
+ to other wireless carriers for the use of their networks (off-network  roaming),
+ the provision for uncollectible receivables, programming and licensing costs for
+ cable services, costs of wireless handsets sold and other service-related costs.
+ These costs  increased  $3,890  million,  or 37.1%,  in 1999 compared with 1998,
+ largely  due  to  the  Broadband   and  AGNS   acquisitions.   Excluding   these
+ acquisitions,  network costs increased $428 million,  or 4.1%, in 1999, a slight
+ improvement  compared  with the 4.5%  increase  in 1998.  The  growing  wireless
+ subscriber base primarily drove the increase in both years, largely attributable
+ to the success of AT&T  Digital One Rate  service,  which has resulted in higher
+ off-network  roaming charges,  costs of handsets and provision for uncollectible
+ receivables.  The  increase  in costs of handsets  reflects  not only the higher
+ number of handsets sold, but the increased cost per unit as customers migrate or
+ sign up for digital  service.  Costs to support growth in outsourcing  contracts
+ also  contributed to the increase.  Partially  offsetting the 1999 increase were
+ network cost-control  initiatives,  lower per-call compensation expense due to a
+ favorable FCC ruling in 1999, lower provision for  uncollectible  receivables in
+ Consumer and Business  Services and lower gross receipts and property taxes. The
+ 1998  increase  was  partially  offset  by  lower  provision  for  uncollectible
+ receivables in Business Services, lower expenses as a result of the sale of ASCC
+ in the first quarter of 1998 and the impact of a 1997 charge to  write-down  the
+ two-way messaging business.
+ 
+ For the Years Ended December 31,           1999       1998      1997
+ Dollars in millions
+ Selling, general and administrative     $13,516    $12,770   $14,371
+ 
+ Selling,  general and administrative  (SG&A) expenses increased $746 million, or
+ 5.8%,  in 1999  compared  with 1998.  This increase was due to the Broadband and
+ AGNS  acquisitions.  Excluding  these  expenses,  SG&A  expenses  declined  $529
+ million,  or 4.2%.  Reductions  in consumer  long  distance  acquisition-program
+ spending  resulted in lower marketing and sales  expenses.  In 1999 we continued
+ our  efforts  to  achieve  a  best-in-class   cost  structure  with  companywide
+ cost-control  initiatives,  which  yielded an improving  cost  structure.  These
+ decreases were partially offset by increased costs in Wireless Services to
+ 
+ <PAGE>
+ 
+ support the growing  subscriber base. SG&A expenses as a percent of revenue were
+ 21.7% in 1999,  24.0% in 1998 and 27.9% in 1997.  We expect  SG&A  expenses as a
+ percent of revenue to continue to decline as we continue to focus on controlling
+ our expenses and prioritizing our spending.  In addition, we expect to realize a
+ larger  pension  credit in 2000 resulting from a higher pension trust asset base
+ and  an  increase  in  the  discount  rate  used  to  measure  the  pension  and
+ postretirement obligations.
+ 
+ [Included  in the 1999 Annual  Report is a bar graph  entitled  "Cost  Structure
+ Improvements - SG&A Expenses as a Percent of Revenue" showing SG&A expenses as a
+ percent of revenue for the eight quarters ended December 31, 1999.]
+ 
+ SG&A expenses declined $1,601 million, or 11.1%, in 1998 compared with 1997. The
+ decrease was primarily  due to savings from  cost-control  initiatives,  such as
+ headcount  reductions  and a $221  million  SG&A  expense  benefit from the 1998
+ adoption of a new  accounting  pronouncement  related to the  capitalization  of
+ internal-use  software  (Statement of Position 98-1).  Also  contributing to the
+ decrease in SG&A expenses was a decline in marketing and sales costs relating to
+ lower  customer  acquisition  costs in Consumer  Services.  These  declines were
+ partially  offset by increases in wireless  customer  acquisition  and migration
+ costs and increased  costs  associated  with preparing our computer  systems for
+ conversion of the calendar to the Year 2000 (Y2K project).
+ 
+ Also included in SG&A expenses were $550 million,  $513 million and $633 million
+ of research and development (R&D) expenses in 1999, 1998 and 1997, respectively.
+ R&D  expenditures  are mainly for work on advanced  communications  services and
+ projects aimed at Internet protocol (IP) services.  The increase in R&D expenses
+ in 1999 was due to costs associated with launching  Concert,  the acquisition of
+ Broadband  and  development  spending on business  data  services  and IP. These
+ increases were largely offset by lower R&D spending on development  projects for
+ consumer  products.  The  decline in R&D  expenses in 1998 was mainly due to the
+ redeployment of resources in support of the Y2K project.
+ 
+ For the Years Ended December 31,         1999       1998      1997
+ Dollars in millions
+ Depreciation and other amortization    $6,138     $4,378    $3,728
+ 
+ Depreciation and other amortization expenses increased $1,760 million, or 40.2%,
+ in 1999.  Approximately  one-half of the increase was due to the acquisitions of
+ Broadband  and  AGNS.  Excluding  these  acquisitions,  depreciation  and  other
+ amortization  expenses increased $879 million,  or 20.1%, in 1999.  Depreciation
+ and other  amortization  expenses  increased  $650  million,  or 17.4%,  in 1998
+ compared  with  1997.  Growth  in the  depreciable  asset  base  resulting  from
+ continued  infrastructure  investment  drove the  increase in both years.  Total
+ capital  expenditures  for 1999, 1998 and 1997 were $13.5 billion,  $8.0 billion
+ and $7.7 billion,  respectively.  Approximately  three-quarters  of 1999 capital
+ expenditures  focused on our growth  businesses  of broadband,  data,  wireless,
+ local and AT&T  Solutions.  More than half of the capital  expenditures  in 1998
+ were related to the long distance network, including the completion of the SONET
+ (Synchronous  Optical Network)  buildout.  These  expenditures  expanded network
+ capacity,  reliability and efficiency.  In addition,  in 1998 we invested in our
+ local network to expand our  switching  and  transport  capacity and invested to
+ expand our wireless footprint.
+ 
+ For the Years Ended December 31,                1999       1998      1997
+ Dollars in millions
+ Amortization of goodwill, franchise costs
+ and other purchased intangibles               $1,301     $  251    $  254
+ 
+ <PAGE>
+ 
+ Amortization  of  goodwill,  franchise  costs  and other  purchased  intangibles
+ increased  $1,050  million  in 1999  compared  with  1998  primarily  due to the
+ acquisition  of  Broadband  and,  to a  lesser  extent,  AGNS.  Franchise  costs
+ represent the value  attributable to the agreement with local  authorities  that
+ allow access to homes in Broadband's service areas. Other purchased  intangibles
+ arising  from  business  combinations  primarily  included  customer  lists  and
+ licenses.  In addition to the  amortization of goodwill  reflected here, we also
+ have amortization of goodwill  associated with our  nonconsolidated  investments
+ recorded as a component of other income  (expense).  This  amortization  totaled
+ $495 million, $52 million and $66 million in 1999, 1998 and 1997, respectively.
+ 
+ Net Restructuring and Other Charges
+ 
+ During 1999, we recorded $1,506 million of net  restructuring and other charges,
+ which had an approximate $0.37 impact on earnings per diluted share.
+ 
+ A  $594  million  in-process   research  and  development  charge  was  recorded
+ reflecting  the  estimated  fair value of research and  development  projects at
+ Broadband,  as of the  date  of the  acquisition,  which  had  not  yet  reached
+ technological  feasibility or that have no alternative  future use. The projects
+ identified   related   to   Broadband's   efforts   to  offer   voice  over  IP,
+ product-integration  efforts for advanced set-top devices,  cost-savings efforts
+ for cable  telephony  implementation  and  in-process  research and  development
+ related to Excite@Home.  We estimated the fair value of in-process  research and
+ development  for each project  using an income  approach,  which was adjusted to
+ allocate fair value based on the project's percentage of completion.  Under this
+ approach,  the present value of the anticipated  future benefits of the projects
+ was determined using a discount rate of 17%. For each project, the resulting net
+ present  value was  multiplied  by a percentage  of  completion  based on effort
+ expended to date versus projected costs to complete.
+ 
+ The  charge  associated  with  voice  over IP  technology,  which  allows  voice
+ telephony  traffic to be digitized and transmitted in IP data packets,  was $225
+ million as of the date of the acquisition.  Current voice over IP equipment does
+ not yet  support  many of the  features  required to connect  customer  premises
+ equipment to traditional phone networks.  Further technical  development is also
+ needed  to  ensure   voice   quality   that  is   comparable   to   conventional
+ circuit-switched  telephony  and  to  reduce  the  power  consumption  of the IP
+ telephony equipment.  We anticipate that we will test IP telephony equipment for
+ field deployment in late 2000.
+ 
+ The charge associated with Broadband's  product-integration efforts for advanced
+ set-top devices, which will enable us to offer next-generation digital services,
+ was  $114  million  as of the date of  acquisition.  The  associated  technology
+ consists of the development  and  integration  work needed to provide a suite of
+ software  tools to run on the  digital  set-top  box  hardware  platform.  It is
+ anticipated that field trials will begin in mid 2000 for next-generation digital
+ services.
+ 
+ The charge associated with Broadband's  cost-savings efforts for cable telephony
+ implementation  was $101  million as of the date of the  acquisition.  Telephony
+ cost  reductions  primarily  consist of cost savings from the  development  of a
+ "line of power switch," which allows Broadband to cost effectively provide power
+ for customer telephony equipment through the cable plant. This device will allow
+ us to provide  line-powered  telephony  without  burying  the cable line to each
+ house.  The device currently  requires further  development in order to reach an
+ acceptable level of reliability. We expect to test and deploy devices by the end
+ of 2000.
+ 
+ <PAGE>
+ 
+ Additionally,   the  in-process  research  and  development  charge  related  to
+ Excite@Home  was valued at $154 million.  During the second  quarter of 1999, we
+ ceased to consolidate  Excite@Home and began to account for our investment under
+ the equity method of accounting  due to certain  corporate  governance  changes,
+ which  resulted  in AT&T no longer  holding a  controlling  financial  interest.
+ Accordingly, we will no longer report on the in-process research and development
+ projects of Excite@Home.
+ 
+ Although  there are  significant  technological  issues to  overcome in order to
+ successfully  complete the acquired  in-process  research  and  development,  we
+ expect successful  completion.  We estimate the costs to complete the identified
+ projects  will not have a  material  impact on our  results of  operations.  If,
+ however,  we are  unable to  establish  technological  feasibility  and  produce
+ commercially viable products/services,  then anticipated incremental future cash
+ flows attributable to expected profits from such new  products/services  may not
+ be realized.
+ 
+ A $531 million asset  impairment  charge was primarily  recorded in  association
+ with the planned disposal of wireless network equipment resulting from a program
+ to increase capacity and operating  efficiency of our wireless network.  As part
+ of a multivendor  program,  contracts are being executed with certain vendors to
+ replace  significant  portions of our wireless  infrastructure  equipment in the
+ western United States and the  metropolitan  New York markets.  The program will
+ provide Wireless Services with the newest  technology  available and allow us to
+ evolve  to  new,  third-generation  digital  technology,  with  high-speed  data
+ capabilities.
+ 
+ The planned disposal of the existing wireless infrastructure  equipment required
+ an evaluation of asset  impairment  in  accordance  with  Statement of Financial
+ Accounting Standards (SFAS) No. 121 "Accounting for the Impairment of Long-Lived
+ Assets and for Long-Lived  Assets to Be Disposed Of" to write-down  these assets
+ to their fair value, which was estimated by discounting the expected future cash
+ flows of these assets through the date of disposal. Since the assets will remain
+ in service  from the date of the  decision  to  dispose  of these  assets to the
+ disposal  date,  the remaining net book value of the assets will be  depreciated
+ over this period.
+ 
+ A $145 million charge for  restructuring  and exit costs was recorded as part of
+ AT&T's  initiative  to  reduce  costs  by $2  billion  by the end of  2000.  The
+ restructuring  and exit plans primarily  focus on the  maximization of synergies
+ through  headcount  reductions  in Business  Services  and  network  operations,
+ including the consolidation of customer-care and call centers.
+ 
+ Included  in the  exit  costs  was $142  million  of cash  termination  benefits
+ associated  with the  separation  of  approximately  2,800  employees as part of
+ voluntary  and  involuntary  termination  plans.  Approximately  one-half of the
+ separations were management employees and one-half were nonmanagement employees.
+ Approximately 1,700 employee separations related to involuntary terminations and
+ approximately  1,100  related  to  voluntary  terminations.  Nearly  80%  of the
+ affected  employees  have left their  positions as of December 31, 1999, and the
+ remaining employees will leave the company in early 2000.  Termination  benefits
+ of $40  million  were paid in the fourth  quarter of 1999.  This cash outlay was
+ primarily  funded  through  cash  from  operations.  The  balance  of  the  cash
+ termination payments are expected to be paid in the first quarter of 2000.
+ 
+ The restructuring initiative is projected to yield cash savings of approximately
+ $250 million per year, as well as EBIT [earnings, including other
+ 
+ <PAGE>
+ 
+ income  (expense),  before  interest and taxes]  savings of  approximately  $200
+ million in 2000 and nearly $400 million per year thereafter. We expect increased
+ spending in growth  businesses  will largely offset these cash and EBIT savings.
+ The EBIT savings, primarily attributable to reduced personnel-related  expenses,
+ will be realized in SG&A expenses and network and other costs of services.  EBIT
+ savings in 2000 are expected to be partially offset by accelerated  depreciation
+ expense. However, depreciation expense in subsequent years will be lower related
+ to the 1999 write-off of Wireless Services' assets.
+ 
+ In addition,  our continuing efforts to reduce costs by $2 billion by the end of
+ 2000 and the planned merger with MediaOne may require  further  charges for exit
+ and  separation  plans,  which we expect to have  finalized in the first half of
+ 2000.
+ 
+ We also recorded net losses of $307 million  related to the  government-mandated
+ disposition  of  certain  international  businesses  that  would  have  competed
+ directly  with  Concert,  and $50 million  related to a  contribution  agreement
+ Broadband  entered  into with  Phoenixstar,  Inc.,  that  requires  Broadband to
+ satisfy  certain  liabilities  owed by  Phoenixstar  and its  subsidiaries.  The
+ remaining  obligation  under this  contribution  agreement  is $26  million.  In
+ addition,  we recorded  benefits of $121 million  related to the  settlement  of
+ pension  obligations  for former  employees who accepted  AT&T's 1998  voluntary
+ retirement incentive program (VRIP) offer.
+ 
+ During 1998, we recorded $2,514 million of net  restructuring and other charges,
+ which had an approximate $0.59 impact on earnings per diluted share. The bulk of
+ the charge was  associated  with a plan to reduce  headcount by 15,000 to 18,000
+ over two years as part of our overall cost-reduction program. In connection with
+ this plan, the VRIP was offered to eligible management employees.  Approximately
+ 15,300 management  employees accepted the VRIP offer. A restructuring  charge of
+ $2,724  million was composed of $2,254  million and $169 million for pension and
+ postretirement  special-termination  benefits,  respectively,  $263  million  of
+ curtailment  losses  and $38  million  of other  administrative  costs.  We also
+ recorded charges of $125 million for related facility costs and $150 million for
+ executive-separation  costs.  These charges were partially offset by benefits of
+ $940 million as we settled pension  benefit  obligations for 13,700 of the total
+ VRIP  employees.  In addition,  the VRIP charges  were  partially  offset by the
+ reversal  of $256  million of 1995  business  restructuring  reserves  primarily
+ resulting from the overlap of VRIP on certain 1995 projects.
+ 
+ Also  included  in the 1998 net  restructuring  and  other  charges  were  asset
+ impairment  charges totaling $718 million,  of which $633 million was related to
+ our  decision  not to  pursue  Total  Service  Resale  (TSR) as a local  service
+ strategy. We also recorded an $85 million asset impairment charge related to the
+ write-down of unrecoverable assets in certain international  operations in which
+ the carrying value is no longer supported by future cash flows.  This charge was
+ made in  connection  with the  review of  certain  operations  that  would  have
+ competed directly with Concert.
+ 
+ Additionally,  $85 million of  merger-related  expenses were recorded in 1998 in
+ connection with the Teleport  Communications  Group Inc. (TCG) merger, which was
+ accounted for as a pooling of interests.  Partially  offsetting these charges in
+ 1998 was a $92 million reversal of the 1995 restructuring reserve. This reversal
+ reflects reserves that were no longer deemed necessary.  The reversal  primarily
+ included  separation costs attributed to projects completed at a cost lower than
+ originally   anticipated.   Consistent  with  the  three-year   plan,  the  1995
+ restructuring initiatives were substantially completed by the end of 1998.
+ 
+ <PAGE>
+ 
+ For the Years Ended December 31,            1999      1998      1997
+ Dollars in millions
+ Other income (expense)                     $(501)   $1,247      $443
+ 
+ Other  income  (expense)  was an expense of $501 million in 1999  compared  with
+ income of $1,247 million in 1998. The significant  decrease is due to higher net
+ losses from investments,  largely due to Excite@Home and Cablevision,  and lower
+ gains on sales.  Gains on sales in 1999 included $153 million from Language Line
+ Services,  $88 million  from WOOD-TV and $110 million from the sale of a portion
+ of our ownership  interest in AT&T Canada.  Gains on sales in 1998 included $350
+ million from AT&T  Solutions  Customer  Care,  $317 million from LIN  Television
+ Corp.  (LIN-TV)  and $103  million  from  SmarTone  Telecommunications  Holdings
+ Limited  (SmarTone).  Distributions  on trust  preferred  securities in 1999 and
+ higher  interest  income in 1998 as a result of the proceeds  received  from the
+ sale of Universal Card Services (UCS) also contributed to the decrease.
+ 
+ Other income (expense)  increased $804 million in 1998 due primarily to gains on
+ sales in 1998 as well as increased  interest  income on our higher cash balance.
+ These increases were partially offset by lower earnings from equity  investments
+ and a gain in 1997 on the sale of AT&T Skynet Satellite Services (Skynet) of $97
+ million.
+ 
+ For the Years Ended December 31,         1999       1998        1997
+ Dollars in millions
+ EBIT                                  $10,358     $8,734      $7,279
+ 
+ EBIT  increased  $1,624  million,  or  18.6%,  in  1999.  EBIT was  impacted  by
+ restructuring  and other charges,  and certain gains and losses,  as well as the
+ acquisitions of Broadband and AGNS. Excluding these items, EBIT increased $2,805
+ million,  or 26.8%,  to $13,283 million in 1999. The improvement in EBIT was due
+ to increased  revenue  combined with an improving cost structure.  EBIT for 1998
+ increased $1,455 million, or 20.0%.  Excluding  restructuring and other charges,
+ and certain gains and losses,  EBIT increased  $3,037  million,  or 41.9%.  This
+ increase in EBIT was driven by higher  revenue,  the benefit of our SG&A expense
+ cost-cutting initiatives and lower international settlement rates.
+ 
+ For the Years Ended December 31,         1999       1998        1997
+ Dollars in millions
+ Interest expense                       $1,651       $427        $307
+ 
+ Interest  expense  increased $1,224 million in 1999 due to a higher average debt
+ balance  associated  with  our  acquisitions,  including  debt  outstanding  for
+ Broadband at the date of acquisition. Interest expense increased $120 million in
+ 1998. After the sale of UCS on April 2, 1998,  interest expense  associated with
+ debt previously attributed to UCS was reclassified from discontinued  operations
+ to  continuing  operations  since  we did  not  retire  all of this  debt.  This
+ reclassification is the primary reason for the increase in 1998.
+ 
+ For the Years Ended December 31,         1999         1998        1997
+ Dollars in millions
+ Provision for income taxes             $3,257       $3,072      $2,723
+ 
+ The effective  income tax rate is the provision for income taxes as a percent of
+ income from continuing  operations before income taxes. The effective income tax
+ rate was 48.7% in 1999,  37.0% in 1998 and 39.0% in 1997.  The effective  income
+ tax rate for AT&T Group was 37.4% in 1999,  37.0% in 1998 and 39.0% in 1997. The
+ 1999 effective tax rate for AT&T Group was impacted by the in-process research
+ 
+ <PAGE>
+ 
+ and development  charge,  which was not tax deductible,  and a change in the net
+ operating loss utilization tax rules that resulted in a $75 million reduction in
+ the valuation  allowance  and the income tax  provision.  In addition,  the 1999
+ effective   tax  rate   reflects  tax  benefits   associated   with   investment
+ dispositions, legal entity restructurings and other tax planning strategies. The
+ effective  tax rate for 1998 was  impacted  by the  pooling of TCG's  historical
+ results,  which did not include tax benefits on preacquisition  losses,  and the
+ effects  of  certain   foreign  legal  entity   restructurings   and  investment
+ dispositions.
+ 
+ Discontinued  Operations Pursuant to Accounting  Principles Board Opinion No. 30
+ "Reporting  the Results of  Operations - Reporting  the Effects of Disposal of a
+ Segment of a Business,  and  Extraordinary,  Unusual and Infrequently  Occurring
+ Events and Transactions," the consolidated  financial statements of AT&T reflect
+ the  dispositions of UCS, which was sold on April 2, 1998, and AT&T's  submarine
+ systems  business  (SSI),  which  was  sold  on July 1,  1997,  as  discontinued
+ operations.  Accordingly,  the revenue,  costs and  expenses,  and cash flows of
+ these  businesses  have  been  excluded  from  the  respective  captions  in the
+ Consolidated Statements of Income and Consolidated Statements of Cash Flows, and
+ have been reported through their respective dates of disposition as "Income from
+ discontinued  operations,"  net of  applicable  income  taxes;  and as "Net cash
+ provided by (used in)  discontinued  operations."  As of December 31, 1998,  all
+ businesses previously reported as discontinued operations have been disposed of;
+ therefore,  there was no impact to the  Consolidated  Balance Sheets  presented.
+ Gains   associated  with  these  sales  are  recorded  as  "Gains  on  sales  of
+ discontinued operations," net of applicable taxes.
+ 
+ Extraordinary Items
+ In August 1998, AT&T extinguished $1,046 million of TCG's debt. The $217 million
+ pretax loss on the early extinguishment of debt was recorded as an extraordinary
+ loss. The after-tax impact was $137 million, or $0.05 per diluted share.
+ 
+ [Included  in the  1999  Annual  Report  is a bar  graph  entitled  "Revenue  by
+ Segment." The graph depicts  revenue of Business  Services,  Consumer  Services,
+ Wireless  Services,  and Other and Corporate for the three-years  ended December
+ 31, 1999. It also depicts the revenue of Broadband for 1999.]
+ 
+ SEGMENT RESULTS
+ 
+ In support of the  services we provide,  we segment our results by the  business
+ units that support our primary lines of business:  Business  Services,  Consumer
+ Services,   Wireless  Services  and  Broadband.  A  fifth  category,  Other  and
+ Corporate,  comprises  the results of all other  units of AT&T Group,  including
+ corporate  staff  functions.   We  supplementally  discuss  AT&T  Solutions  and
+ International  Operations and Ventures, which are both included in the Other and
+ Corporate category. Although not a segment, we also discuss the results of LMG.
+ 
+ The discussion of segment results includes  revenue;  earnings,  including other
+ income (expense),  before interest and taxes (EBIT);  earnings,  including other
+ income  (expense),   before  interest,   taxes,  depreciation  and  amortization
+ (EBITDA);  total assets;  and capital  additions.  The  discussion of EBITDA for
+ Wireless  Services and Broadband is modified to exclude other income  (expense).
+ Total  assets  for  each  segment  include  all  assets,   except   intercompany
+ receivables.  Prepaid pension assets and  corporate-owned  or leased real estate
+ are  generally  held at the  corporate  level and  therefore are included in the
+ Other and Corporate group. Shared network assets are allocated to the segments
+ 
+ <PAGE>
+ 
+ and reallocated each January,  based on two years of volumes.  Capital additions
+ for each segment include capital expenditures for property, plant and equipment,
+ acquisitions of licenses, additions to nonconsolidated investments, increases in
+ franchise costs and additions to internal-use software.
+ 
+ EBIT is the primary  measure used by AT&T's chief  operating  decision makers to
+ measure  AT&T's  operating  results  and to measure  segment  profitability  and
+ performance.  AT&T  calculates  EBIT  as  operating  income  plus  other  income
+ (expense).  In  addition,  management  also uses  EBITDA as a measure of segment
+ profitability  and  performance,  and is defined as EBIT plus  depreciation  and
+ amortization. Interest and taxes are not factored into the profitability measure
+ used by the chief operating decision makers;  therefore,  trends for these items
+ are discussed on a consolidated basis. Management believes EBIT is meaningful to
+ investors  because it provides  analysis  of  operating  results  using the same
+ measures used by AT&T's chief operating decision makers and provides a return on
+ total capitalization  measure. We believe EBITDA is meaningful to investors as a
+ measure of each segment's liquidity  consistent with the measure utilized by our
+ chief  operating  decision  makers.  In addition,  we believe that both EBIT and
+ EBITDA allow investors a means to evaluate the financial results of each segment
+ in  relation  to AT&T.  Our  calculation  of EBIT and  EBITDA  may or may not be
+ consistent  with the  calculation of these  measures by other public  companies.
+ EBIT and EBITDA should not be viewed by investors as an alternative to generally
+ accepted  accounting  principles  (GAAP)  measures  of income  as a  measure  of
+ performance or to cash flows from operating,  investing and financing activities
+ as a measure  of  liquidity.  In  addition,  EBITDA  does not take into  account
+ changes in certain assets and liabilities that can affect cash flow.
+ 
+ Reflecting the dynamics of our business,  we  continually  review our management
+ model and structure.  In 2000, we anticipate changes to our segments as follows:
+ The  Business  Services  segment will be expanded to include the results of AT&T
+ Solutions,  and Broadband  results will be expanded to include the operations of
+ MediaOne upon the completion of the merger.  The Wireless  Services segment will
+ be expanded  to include  fixed  wireless  technology  and certain  international
+ wireless investments.
+ 
+ BUSINESS SERVICES
+ Our Business Services segment offers a variety of global communications services
+ including  long  distance,  local  and  data  and IP  networking  to  small  and
+ medium-sized  businesses,   large  domestic  and  multinational  businesses  and
+ government agencies.  Business Services is also a provider of voice, data and IP
+ transport to service resellers (wholesale services).
+ 
+ For the Years Ended December 31,                   1999       1998       1997
+ Dollars in millions
+ External revenue                                $23,540    $22,706    $21,520
+ Internal revenue                                  1,562        905        811
+   Total revenue                                  25,102     23,611     22,331
+ EBIT                                              6,131      5,007      4,047
+ EBITDA                                            9,079      7,395      5,902
+ Capital additions                                 7,145      5,952      4,547
+ 
+ At December 31,                                    1999       1998
+ Total assets                                    $25,107    $21,415
+ 
+ <PAGE>
+ 
+ REVENUE
+ In 1999,  Business Services revenue grew $1,491 million, or 6.3%, driven by data
+ and IP services, domestic long distance voice services and local services. Total
+ calling  volumes  increased  approximately  25% for the  year.  Revenue  in 1998
+ increased $1,280 million, or 5.7%, led by growth in data services.
+ 
+ Data services,  which is the  transportation of data rather than voice along our
+ network,  grew at a  high-teens  rate in 1999 and at a mid-teens  rate for 1998.
+ Growth in each  period  was led by the  continued  strength  of frame  relay and
+ high-speed  private  line,  both  of  which  are  high-speed   data-transmission
+ services.  On average in 1999, we added  approximately  230 more net frame ports
+ per month as compared with 1998. Also  contributing  to the revenue  increase in
+ 1999 was significant  growth in IP services,  such as AT&T WorldNet Services and
+ virtual private network (VPN) services.
+ 
+ Long  distance  voice revenue grew at a low  single-digit  rate in both 1999 and
+ 1998.  The continued  strength of volumes,  as evidenced by a high-teens  growth
+ rate for 1999 and a near-teens  growth rate for 1998, was largely mitigated by a
+ declining  average  price per minute.  The average price per minute has declined
+ due to  competitive  forces  within the industry  that are expected to continue.
+ Also  impacting the average price per minute was a change in product mix,  which
+ in 1999 was largely attributable to an increase in our wholesale business sales,
+ which  had a lower  rate  per  minute.  Revenue  in 1998 was  also  impacted  by
+ reductions in access costs that were passed on to customers in the form of lower
+ rates.
+ 
+ Local voice service revenue grew more than 50% in 1999.  During 1999, AT&T added
+ more than 626,000  access lines,  with the total reaching 1.3 million by the end
+ of the year.  Access lines enable AT&T to provide  local service to customers by
+ allowing  direct  connection from customer  equipment to the AT&T network.  AT&T
+ serves more than 36,000 buildings in 89 metropolitan  statistical  areas (MSAs),
+ with just over 5,800 of the buildings on-network  (buildings where AT&T owns the
+ fiber that runs into the building).  At the end of 1998, we served approximately
+ 20,000 buildings in 83 MSAs, with about 5,200 buildings on-network.
+ 
+ [Included in the 1999 Annual Report is a bar graph entitled  "Access Lines." The
+ graph depicts the number of access lines for the eight quarters ended  December,
+ 31 1999.]
+ 
+ Business Services  internal revenue  increased $657 million,  or 72.5%, in 1999.
+ The increase is the result of greater sales of business  long distance  services
+ to other AT&T units, primarily AT&T Solutions (including the impact of AGNS) and
+ Wireless Services, which resell such services to their external customers.
+ 
+ EBIT/EBITDA
+ EBIT rose $1,124 million, or 22.5%, and EBITDA grew $1,684 million, or 22.8%, in
+ 1999.  Excluding 1999  restructuring  and exit costs,  EBIT  increased  24.4% to
+ $6,226 million and EBITDA  increased  24.1% to $9,174  million.  These increases
+ were driven by revenue growth  combined with margin  improvement  resulting from
+ ongoing  cost-control  initiatives.  The increase in EBIT was offset somewhat by
+ increased  depreciation  and  amortization  expenses  resulting  from  increased
+ capital expenditures aimed at data, IP and local services.
+ 
+ EBIT increased $960 million,  or 23.7%, and EBITDA increased $1,493 million,  or
+ 25.3%,  in 1998. The increases were driven by growth in revenue and the benefits
+ reaped from cost-cutting initiatives. Partly offsetting the increase in EBIT and
+ EBITDA in 1998 was the gain on the sale of Skynet, recorded in 1997. In
+ 
+ <PAGE>
+ 
+ addition,  the EBIT improvements were partially offset by increased depreciation
+ and  amortization  expenses  correlated to the continued  high levels of capital
+ expenditures.
+ 

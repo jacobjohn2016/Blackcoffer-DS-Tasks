@@ -1,0 +1,916 @@
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; RESULTS OF OPERATION</font></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Abbreviated pursuant to General Instructions I(2)(a) of Form 10-K).</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -15.3pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Forward-Looking Information</font></font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The discussions under Business, Risk Factors, Properties and Legal Proceedings, and the following discussions under &#8220;Management's Discussion and Analysis of Financial Condition and Results of Operations&#8221; and &#8220;Quantitative and Qualitative Disclosures about Market Risk&#8221; contain various forward-looking statements within
+ the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which represent the Company's expectations or beliefs concerning future events.&#160;&#160;When used in this document and in documents incorporated herein by reference, the words "expects," "plans," "anticipates," &#8220;indicates,&#8221; &#8220;believes,&#8221; &#8220;forecast,&#8221; &#8220;guidance,&#8221; &#8220;outlook,&#8221; &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221;
+ &#8220;seeks,&#8221; &#8220;targets&#8221; and similar expressions are intended to identify forward-looking statements. Similarly, statements that describe the Company&#8217;s objectives, plans or goals are forward-looking statements.&#160;&#160;Forward-looking statements include, without limitation, the Company&#8217;s expectations concerning operations and financial conditions, including changes in capacity, revenues, and costs; future financing plans and needs; the amounts of its unencumbered assets and other
+ sources of liquidity; fleet plans; overall economic and industry conditions; plans and objectives for future operations; regulatory approvals and actions, including the Company&#8217;s application for ATI with other oneworld alliance members; and the impact on the Company of its results of operations in recent years and the sufficiency of its financial resources to absorb that impact.&#160;&#160;Other forward-looking statements include statements which do not relate solely to historical facts, such as, without
+ limitation, statements which discuss the possible future effects of current known trends or uncertainties, or which indicate that the future effects of known trends or uncertainties cannot be predicted, guaranteed or assured.&#160;&#160;All forward-looking statements in this report are based upon information available to the Company on the date of this report.&#160;&#160;The Company undertakes no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future
+ events, or otherwise.&#160;&#160;Guidance given in this report regarding capacity, fuel consumption, fuel prices, fuel hedging, and unit costs, and statements regarding expectations of regulatory approval of the Company&#8217;s application for ATI with other oneworld members are forward-looking statements.&#160;&#160;Forward-looking statements are subject to a number of factors that could cause the Company&#8217;s actual results to differ materially from the Company&#8217;s expectations.&#160;&#160;The Risk Factors
+ listed in Item 1A, in addition to other possible factors not listed, could cause the Company's actual results to differ materially from historical results and from those expressed in forward-looking statements.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Overview</font></font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In late 2009, the Company unveiled a new business plan &#8211; FlightPlan 2020, which is an evolution of the Turnaround Plan that guided the Company through the last decade.&#160;&#160;FlightPlan 2020 is a strategic framework developed to secure the Company&#8217;s future by focusing on what will be required to succeed in the airline
+ business over the next decade.&#160;&#160;It establishes the Company&#8217;s priorities and a clear path to better position the Company to meet the challenges of the coming years.&#160;&#160;This plan for achieving sustained profitability has five tenets: (i) Invest Wisely, (ii) Earn Customer Loyalty, (iii) Strengthen and Defend our Global Network, (iv) Be a Good Place for Good People and (v) Fly Profitably.&#160;&#160;All strategic actions by the Company going forward will be designed to realize the goals of
+ FlightPlan 2020.</font></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify">&#160;</div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify">Demand for air travel in 2009 was very weak, driven by the continuing severe downturn in the global economy. In reaction to the challenge, throughout the year the Company implemented strategic measures designed to help it manage through these near-term challenges while seeking to position itself for long-term success. </div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In response to the rapidly deteriorating economy, in the first half of 2009, the Company announced additional capacity cuts, beyond its substantial 2008 capacity reductions, as it attempted to create a more sustainable supply-demand balance.&#160;&#160;The Company reduced mainline seating capacity by approximately 7.2 percent for the
+ full year 2009 versus 2008.&#160;&#160;The reduction consisted of an approximately 8.7 percent reduction in mainline domestic capacity and approximately 4.7 percent reduction in mainline international capacity compared to the year ending December 31, 2008.&#160;&#160;No assurance can be given that any capacity reductions or other steps the Company may take will be adequate to offset the effects of reduced demand.</font></div></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <br>
+ <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div id="FTR">
+ <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div>
+ <div id="PN" style="PAGE-BREAK-AFTER: always">
+ <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+ <div style="WIDTH: 100%; TEXT-ALIGN: center">
+ <hr style="COLOR: black" noshade size="2"></div></div>
+ <div id="HDR">
+ <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt; TEXT-ALIGN: justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company continued to work to implement and maintain several other initiatives, including introducing plans to focus its network by reallocating capacity to primary markets in Dallas/Fort Worth, Chicago, Miami, New York and Los Angeles, initiating new plans to enhance its fleet to better serve customers, maintaining the range of service charges introduced in 2008 to
+ generate additional revenue, executing its fleet renewal and replacement plan, implementing initiatives to improve dependability and on-time performance, and securing a total of $3.4 billion in cash through financing transactions in 2009, which substantially bolstered the Company&#8217;s liquidity position.&#160;&#160;In addition, the Company secured financing commitments covering all aircraft scheduled to be delivered in 2010 and 2011.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company continues to pursue the initiative to strengthen its global network through the application pending with DOT for global ATI with four members of the <font style="DISPLAY: inline; FONT-WEIGHT: bold">one</font>world global alliance.&#160;&#160;In 2008, American entered into a joint business agreement and related marketing arrangements
+ with British Airways and Iberia, providing for commercial cooperation on flights between North America and most countries in Europe, pooling and sharing of certain revenues and costs, expanded codesharing, enhanced frequent flyer program reciprocity, and cooperation in other areas.&#160;&#160;In connection with the joint business agreement, American, British Airways and Iberia, along with Finnair and Royal Jordanian, applied to DOT for ATI for their planned cooperation, and in February of 2010, the DOT tentatively
+ granted the parties&#8217; application for ATI subject to certain conditions, including requirements that American and British Airways lease a total of four takeoff and landing slots at London Heathrow (two slot pairs) to other carriers beginning in 2011, that specified provisions of the joint business agreement be amended, and that the carriers submit reports regarding progress towards the alliance&#8217;s stated goals and the realization of public benefits.&#160;&#160;DOT also established a procedure that allows
+ any interested party to submit comments on its tentative findings within the next 45 days.&#160;&#160;American is reviewing the order granting tentative approval with the other applicant carriers, and expects to respond to DOT within the required 45 day comment period.&#160;&#160;A final decision on the application is expected after DOT&#8217;s review of responses received from American and other interested parties during the comment period.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In September of 2009, the European Union (EU) issued a Statement of Objection (SO) related to the proposed joint business agreement.&#160;&#160;The SO asserts, among other things, that without remedies, the joint business agreement would infringe certain aspects of EU competition law.&#160;&#160;The carriers have responded to the SO and
+ have sought to demonstrate the consumer benefits of the joint business agreement.&#160;&#160;The SO process is an anticipated part of the process of obtaining clearance from EU competition authorities.<font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#160;</font>The parties have been&#160;in discussions and have offered a set of commitments, including offering to lease slots to competitors to serve certain routes, to address the EU's remaining competition concerns.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Implementation of the joint business agreement and the related arrangements is subject to conditions, including final approval from DOT and clearance from EU competition authorities as referred to above, various other U.S. and foreign regulatory approvals, successful negotiation of certain detailed financial and commercial arrangements,
+ and other approvals.&#160;&#160;Following satisfaction of those conditions, American expects to begin implementing the joint business agreement.&#160;&#160;No assurances can be given as to any arrangements that may ultimately be implemented or any benefits the Company may derive from such arrangements.</font></div></font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In February 2010, American and JAL announced the decision to strengthen their relationship.&#160; The carriers, both members of the <font style="DISPLAY: inline; FONT-WEIGHT: bold">one</font>world alliance, jointly applied to DOT for ATI on certain routes, and jointly notified the MLIT in Tokyo of the proposed cooperation. The Company believes
+ this application will meet DOT&#8217;s pro-consumer and pro-competition criteria for granting ATI.&#160; As a part of the application, American and JAL entered into a joint business agreement which will enhance their scope of cooperation on routes between North America and Asia, through adjustments to their respective networks, flight schedules, and other business activities. This, in turn, will allow both carriers to better complement each other&#8217;s operations and to develop and offer competitive products
+ and quality service to their customers.&#160;&#160;&#160;&#160;The joint business agreement is subject to ATI approval and certain other conditions.</font>
+ <br>
+ <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div id="FTR">&#160;</div>
+ <div id="PN" style="PAGE-BREAK-AFTER: always">
+ <div style="WIDTH: 100%; TEXT-ALIGN: center">
+ <hr style="COLOR: black" noshade size="2"></div></div>
+ <div id="HDR">&#160;</div></div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">As a part of these commercial benefits, American determined that with ATI and by participating in a joint business agreement with American, JAL could realize approximately $100 million in annual incremental revenue. American has given JAL a guarantee to that effect covering the first three years following implementation of the joint business agreement, subject to certain terms and conditions.&#160; The
+ Company and other <font style="DISPLAY: inline; FONT-WEIGHT: bold">one</font>world members have also discussed various possible financing arrangements with JAL.&#160; The Company has agreed to negotiate in good faith towards a capital investment in JAL by American, <font style="DISPLAY: inline; FONT-WEIGHT: bold">one</font>world and a private investment firm in the future if invited by JAL and the Government of Japan.&#160; To date, the Government of Japan has declined any such investment, and the Company does
+ not expect that any such investment will be made in the near term.&#160;&#160;Any such investment would be on and subject to terms and conditions customary to such an arrangement.&#160;&#160;The Company also expects that the amount of such a capital investment, if any, would not exceed $1.4 billion, with the contribution by American and other <font style="DISPLAY: inline; FONT-WEIGHT: bold">one</font>world carriers not to exceed $300 million, and the remainder to be made by a private investment firm.&#160;</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Implementation of the JAL joint business agreement is subject to U.S.&#160;and foreign regulatory authorization, successful negotiation of certain detailed financial and commercial arrangements, and other approvals.&#160;&#160; No assurances can be given as to any arrangements that may ultimately be implemented or any benefits that the
+ Company may derive from such arrangements.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company recorded a net loss of $1.5 billion in 2009 compared to a net loss of $2.5 billion in 2008.&#160;&#160;The Company&#8217;s 2009 net loss is primarily attributable to a significant decrease in passenger revenue due to lower traffic and passenger yield.&#160;&#160;In 2009, the Company experienced very weak demand for air travel
+ driven by the continuing severe downturn in the global economy.&#160;&#160;In addition, as a result of reduced demand, there has been substantial fare discounting across the industry, which has resulted in decreased passenger yield.&#160;&#160;Mainline passenger revenue decreased by $3.2 billion to $15.0 billion for the year ended December 31, 2009 compared to 2008.&#160;&#160;Mainline passenger unit revenues decreased 11.1 percent in 2009 due to an 11.2 percent decrease in passenger yield compared to 2008 and
+ partially offset by a load factor increase of approximately 0.1 points.&#160;&#160;Passenger yield remains low and well below the Company&#8217;s peak yield set in the year 2000, despite cumulative inflation of approximately 26 percent over the same time frame.&#160;&#160;The Company believes this is the result of a fragmented industry with numerous competitors and excess capacity, increased low cost carrier competition, increased price competition due to the internet, and other factors.&#160;&#160;Since deregulation
+ in 1978, the Company&#8217;s passenger yield has increased 64 percent, while the Consumer Price Index (CPI), as measured by the U.S. Department of Labor Bureau of Labor Statistics, has grown by over 220 percent.&#160;&#160;The Company believes increases in passenger yield will continue to significantly lag CPI indefinitely.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The decrease in total passenger revenue was partially offset by significantly lower year-over-year fuel prices; the Company paid an average of $2.01 per gallon in 2009 compared to an average of $3.03 per gallon in 2008, including effects of hedging.&#160;&#160;Although fuel prices have abated considerably from the record high prices recorded
+ in July 2008, they have steadily increased since the first quarter of 2009 and remain high and extremely volatile by historical standards.&#160;&#160;However, the Company&#8217;s unit costs excluding fuel and special charges were greater for the year ended December 31, 2009 than for the same period in 2008.&#160;&#160;Factors driving the increase include increased defined benefit pension expenses (due to the stock market decline in 2008), higher airport rent and landing fees and cost pressures associated with
+ the Company&#8217;s capacity reductions announced in 2008 and 2009 and dependability initiatives.</font></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The 2009 operating results were also negatively impacted by a net amount of $107 million in special items, restructuring charges and a non-cash tax item.&#160;&#160;Special items of $184 million include the impairment of certain route and slot authorities, primarily in Latin America, and losses on certain sale leaseback transactions.&#160;&#160;Restructuring
+ charges for 2009 were $171 million and related to announced capacity reductions initiated in 2008, including the grounding of the Airbus A300 fleet and the impairment of certain Embraer RJ-135 aircraft, which are operated by AMR Eagle.&#160;&#160;See Note 2 and 13 to the consolidated financial statements for detail of pass through of AMR Eagle expenses.<font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#160;</font>Also included in 2009 results is a $248 million non-cash tax benefit resulting from the
+ allocation of the tax expense to other comprehensive income items recognized during 2009.&#160;&#160;The restructuring charges, the non-cash tax item and the route impairment are described in Notes 2, 8 and 11, respectively, to the consolidated financial statements.</font></div></div></font>
+ <br>
+ <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div id="FTR">&#160;</div>
+ <div id="PN" style="PAGE-BREAK-AFTER: always">
+ <div style="WIDTH: 100%; TEXT-ALIGN: center">
+ <hr style="COLOR: black" noshade size="2"></div></div>
+ <div id="HDR">&#160;</div></div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company&#8217;s ability to become profitable and its ability to continue to fund its obligations on an ongoing basis will depend on a number of factors, many of which are largely beyond the Company&#8217;s control.&#160;&#160;Certain risk factors that affect the Company&#8217;s business and financial results are discussed in the Risk Factors listed in Item 1A.&#160;&#160;In addition, most of the Company&#8217;s
+ largest domestic competitors and several smaller carriers have filed for bankruptcy in the last several years and have used this process to significantly reduce contractual labor and other costs.&#160;&#160;In order to remain competitive and to improve its financial condition, the Company must continue to take steps to generate additional revenues and to reduce its costs.&#160;&#160;Although the Company has a number of initiatives underway to address its cost and revenue challenges, some of these initiatives
+ involve changes to the Company&#8217;s business which it may be unable to implement.&#160;&#160;It has become increasingly difficult to identify and implement significant revenue enhancement and cost savings initiatives.&#160;&#160;The adequacy and ultimate success of the Company&#8217;s initiatives to generate additional revenues and reduce costs cannot be assured. Moreover, whether the Company&#8217;s initiatives will be adequate or successful depends in large measure on factors beyond its control, notably
+ the overall industry environment, including passenger demand, yield and industry capacity growth, and fuel prices. It will be very difficult for the Company to continue to fund its obligations on an ongoing basis, and to return to profitability, if the overall industry revenue environment does not improve substantially or if fuel prices were to increase and persist for an extended period at high levels.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -15.3pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Liquidity and Capital Resources</font></font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Cash, Short-Term Investments and Restricted Assets&#160;&#160;&#160;&#160;</font>At December 31, 2009, the Company had $4.4 billion in unrestricted cash and short-term investments and $460 million in Restricted cash and short-term investments, both at fair value, versus $3.1 billion in unrestricted
+ cash and short-term investments and $459 million in Restricted cash and short-term investments in 2008.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Significant Indebtedness and Future Financing</font>&#160;&#160;&#160;Indebtedness is a significant risk to the Company as discussed in the Risk Factors listed in Item 1A.&#160;&#160;During 2006, 2007, 2008 and 2009, the Company raised an aggregate of approximately $6.1 billion in financing
+ to fund operating losses, capital commitments (mainly for aircraft and ground properties), debt maturities, employee pension obligations and to bolster its liquidity.&#160;&#160;As of the date of this Form 10-K, the Company believes that it should have sufficient liquidity to fund its operations, including repayment of debt and capital leases, capital expenditures and other contractual obligations; however there can be no assurances to that effect.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Despite the disruptions in the capital markets, in the twelve months ended December 31, 2009, the Company raised approximately $3.4 billion in cash from the advance sale of AAdvantage miles, debt issuances, equity issuances and sale leasebacks.&#160;&#160;In addition, the Company secured financing commitments covering all aircraft scheduled
+ to be delivered to the Company in 2010 and 2011.&#160;&#160;See full descriptions of these financings in Notes 4, 5, 6 and 13 to the consolidated financial statements.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In 2010, the Company will be required to make approximately $791 million of principal payments on long-term debt and approximately $90 million in principal payments on capital leases, and the Company expects to spend approximately $1.7 billion on capital expenditures, including aircraft commitments.&#160;&#160;In addition, the global economic
+ downturn, rising fuel prices, the possibility of being required to post reserves under credit card processing agreements, and the obligation to post cash collateral on fuel hedging contracts and fund pension plan contributions, among other things, may in the future negatively impact the Company&#8217;s liquidity.&#160;&#160;To maintain sufficient liquidity and because the Company has significant debt, lease and other obligations in the next several years, including commitments to purchase aircraft, as well as
+ significant pension funding obligations, the Company will need access to substantial additional funding. An inability to obtain necessary additional funding on acceptable terms would have a material adverse impact on the Company and on its ability to sustain its operations.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company&#8217;s substantial indebtedness and other obligations have important consequences.&#160;&#160;For example, they: (i) limit the Company&#8217;s ability to obtain additional funding for working capital, capital expenditures, acquisitions, investments and general corporate purposes, and adversely affect the terms on which such
+ funding could be obtained; (ii) require the Company <font style="DISPLAY: inline; FONT-SIZE: 10pt">to dedicate a substantial portion of its cash flow from operations to payments on its indebtedness and other obligations, thereby reducing the funds available for other purposes; (iii) make the Company more vulnerable to economic downturns and catastrophic external events; and (iv) limit the Company&#8217;s ability to withstand competitive pressures and reduce its flexibility in responding to changing business and
+ economic conditions.</font></font>
+ <br>
+ <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div id="FTR">&#160;</div>
+ <div id="PN" style="PAGE-BREAK-AFTER: always">
+ <div style="WIDTH: 100%; TEXT-ALIGN: center">
+ <hr style="COLOR: black" noshade size="2"></div></div>
+ <div id="HDR">&#160;</div></div></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company&#8217;s possible remaining financing sources primarily include: (i)&#160;a very limited amount of additional secured aircraft debt or sale leaseback transactions involving owned aircraft; (ii)&#160;debt secured by other assets; (iii)&#160;securitization of future operating receipts; (iv)&#160;the sale or monetization of certain
+ assets; (v)&#160;unsecured debt; and (vi)&#160;issuance of equity or equity-like securities. Besides unencumbered aircraft, the Company&#8217;s most likely sources of liquidity include the financing of route authorities, takeoff and landing slots, spare parts, and the sale or financing of certain of AMR&#8217;s business units and subsidiaries, such as AMR Eagle.&#160;&#160;The Company&#8217;s ability to obtain future financing is limited by the value of its unencumbered assets.&#160;&#160;Almost all of the Company&#8217;s
+ aircraft assets (including aircraft eligible for the benefits of Section&#160;1110 of the U.S. Bankruptcy Code) are encumbered.&#160;&#160;Also, the market value of these aircraft assets has declined in recent years, and may continue to decline.&#160;&#160;The Company believes it has approximately $2 billion in assets that could be used as possible financing sources as of the date of this filing.<font style="DISPLAY: inline; FONT-WEIGHT: bold">&#160;</font>However, many of these assets may be difficult to finance,
+ and the availability and level of the financing sources described above cannot be assured.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">As of December 31, 2009, American had 45 Boeing 737-800 purchase commitments for 2010 and eight Boeing 737-800 purchase commitments in 2011.&#160;&#160;In addition to these aircraft, American has firm commitments for eleven Boeing 737-800 aircraft and seven Boeing 777 aircraft scheduled to be delivered in 2013-2016.&#160;&#160;Payments
+ for the Company&#8217;s aircraft purchase commitments will approximate $1.3 billion in 2010, $350 million in 2011, $217 million in 2012, $465 million in 2013, $224 million for 2014, and $248 million for 2015 and beyond. These amounts are net of purchase deposits currently held by the manufacturer.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">As a result of recent financing transactions (refer to Note 6 of the consolidated financial statements), American does not expect to use its previously arranged backstop financing to finance any of its Boeing 737-800 aircraft deliveries scheduled for 2010 and 2011; however, such backstop financing arrangement remains in place.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In 2008, the Company entered into a new purchase agreement with Boeing for the acquisition of 42 firm Boeing 787-9 aircraft and purchase rights to acquire up to 58 additional B787 aircraft.&#160;&#160;Per the purchase agreement, the first such aircraft was scheduled to be delivered in 2012, and the last firm aircraft was scheduled to be
+ delivered in 2018 with deliveries of additional aircraft, if any, scheduled between 2015 and 2020.&#160;&#160;The Company and Boeing are currently discussing a revised delivery schedule due to the impact of the overall Boeing 787 program delay on American&#8217;s delivery positions.&#160;&#160;The revised delivery schedule is expected to include terms and conditions consistent with the original agreement and to allow the Company confirmation rights both similar to those described below.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Under the current 787-9 purchase agreement, except as described below, American will not be obligated to purchase a 787-9 aircraft unless it gives Boeing notice confirming its election to do so at least 18 months prior to the scheduled delivery date for that aircraft.&#160;&#160;If American does not give that notice with respect to an aircraft,
+ the aircraft no longer be subject to the 787-9 purchase agreement.&#160;&#160;These confirmation rights may be exercised until a specified date, May 1, 2013 under the current agreement, provided that those rights will terminate earlier if American reaches a collective bargaining agreement with its pilot union that includes provisions enabling American to utilize the 787-9 to American&#8217;s satisfaction in the operations desired by American, or if American confirms its election to purchase any of the initial
+ 42 787-9 aircraft.&#160;&#160;While there can be no assurances, American expects that it will have reached an agreement as described above with its pilots union prior to the first notification date.&#160;&#160;In either of those events, American would become obligated to purchase all of the initial 42 aircraft then subject to the purchase agreement.&#160;&#160;If neither of those events occur prior to May 1, 2013 under the current agreement, then on that date American may elect to purchase all of the initial
+ 42 aircraft then subject to the purchase agreement, and if it does not elect to do so, the purchase agreement will terminate in its entirety.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Credit Ratings</font>&#160;&#160;AMR&#8217;s and American&#8217;s credit ratings are significantly below investment grade.&#160;&#160;Additional reductions in AMR's or American's credit ratings could further increase its borrowing or other costs and further restrict the availability of
+ future financing.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Credit Card Processing and Other Reserves</font>&#160;&#160;&#160;American has agreements with a number of credit card companies and processors to accept credit cards for the sale of air travel and other services. Under certain of these agreements, the related credit card processor may
+ hold back a reserve from American&#8217;s credit card receivables following the occurrence of certain events, including the failure of American to maintain certain levels of liquidity (as specified in each agreement).</font>
+ <br>
+ <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div id="FTR">&#160;</div>
+ <div id="PN" style="PAGE-BREAK-AFTER: always">
+ <div style="WIDTH: 100%; TEXT-ALIGN: center">
+ <hr style="COLOR: black" noshade size="2"></div></div>
+ <div id="HDR">&#160;</div></div>
+ <br><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Under such agreements, the amount of the reserve that may be required generally is based on the processor&#8217;s exposure to the Company under the applicable agreement and, in the case a reserve is required because of American&#8217;s failure to maintain a certain level of liquidity, the amount of such liquidity.&#160;&#160;As of December 31, 2009, the Company was not required to maintain any reserve under such agreements.&#160;&#160;If
+ circumstances were to occur that would allow the credit card processor to require the Company to maintain a reserve, the Company&#8217;s liquidity would be negatively impacted.</font></div></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Cash Flow Activity</font>&#160;&#160;&#160;The Company&#8217;s cash flow from operating activities during the year ended December 31, 2009 generated $643 million which is an increase of $2.2 billion from the same period in 2008, primarily due to the decrease in average fuel prices in 2009
+ as compared to 2008.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Capital expenditures during 2009 were $1.5 billion and primarily included new aircraft and aircraft modifications.&#160;&#160;See Note 6 to the consolidated financial statements for additional information.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company made debt and capital lease payments of $1.9 billion in 2009.&#160;&#160;Included in this amount, the Company retired, at maturity, its $255 million secured bank revolving credit facility in June 2009 and retired its $432 million term loan credit facility in September 2009.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In 2009, the Company obtained approximately $3.4 billion of cash from financing activities through the following:</font></div>
+ <div align="center">
+ <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr valign="top">
+ <td style="WIDTH: 203px">
+ <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; $1.0 billion</font></div></td>
+ <td width="778">
+ <div align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Advance sale of AAdvantage Miles to Citibank (of which $110 million is recorded as deferred revenue and included in cash flow from operations)</font></div></td></tr></table></div>
+ <div>
+ <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr valign="top">
+ <td style="WIDTH: 108pt">
+ <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;$1.6 billion</font></div></td>
+ <td>
+ <div align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Issuance of other debt instruments</font></div></td></tr></table></div>
+ <div>
+ <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr valign="top">
+ <td style="WIDTH: 108pt">
+ <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;$768 million</font></div></td>
+ <td>
+ <div align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Sale leaseback financings</font></div></td></tr></table></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">See Notes 5 and 6 to the consolidated financial statements for a detailed description of these financing transactions.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Due to the current value of the Company&#8217;s derivative contracts, some agreements with counterparties require collateral to be deposited by the Company.&#160;&#160;As of December 31, 2009, the cash collateral held by such counterparties from AMR was $14 million as compared to $575 million at December 31, 2008.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In the past, the Company has from time to time refinanced, redeemed or repurchased its debt and taken other steps to reduce its debt or lease obligations or otherwise improve its balance sheet.&#160;&#160;Going forward, depending on market conditions, its cash positions and other considerations, the Company may continue to take such actions.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">Compensation</font>On January 19, 2010, the Company approved the 2010 Annual Incentive Plan (AIP) for American.&#160;&#160;All U.S. based employees of American are eligible to participate in the AIP.&#160;&#160;The AIP is American's annual bonus plan and provides
+ for the payment of awards in the event certain financial and/or customer service metrics are satisfied.&#160;&#160;</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Working Capital&#160;&#160;&#160;</font>AMR (principally American) historically operates with a working capital deficit, as do most other airline companies.&#160;&#160;In addition, the Company has historically relied heavily on external financing to fund capital expenditures.&#160;&#160;More
+ recently, the Company has also relied on external financing to fund operating losses, employee pension obligations and debt maturities.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Off Balance Sheet Arrangements&#160;&#160;&#160;</font>American has determined that it holds a significant variable interest in, but is not the primary beneficiary of, certain trusts that are the lessors under 84 of its aircraft operating leases. These leases contain a fixed price purchase
+ option, which allows American to purchase the aircraft at a predetermined price on a specified date. However, American does not guarantee the residual value of the aircraft.&#160;&#160;As of December 31, 2009, future lease payments required under these leases totaled $1.4 billion.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Certain special facility revenue bonds have been issued by certain municipalities primarily to purchase equipment and improve airport facilities that are leased by American and accounted for as operating leases.&#160;&#160;Approximately $1.5 billion of these bonds (with total future payments of approximately $3.3 billion as of December
+ 31, 2009) are guaranteed by American, AMR, or both.&#160;&#160;Approximately $177 million of these special facility revenue bonds contain mandatory tender provisions that require American to make operating lease payments sufficient to repurchase the bonds at various times: $112 million in 2014 and $65 million in 2015.&#160;&#160;Although American has the right to remarket the bonds, there can be no assurance that these bonds will be successfully remarketed.&#160;&#160;Any payments to redeem or purchase bonds
+ that are not remarketed would generally reduce existing rent leveling accruals or be considered prepaid facility rentals and would reduce future operating lease commitments.</font></div>
+ <div id="PN" style="PAGE-BREAK-AFTER: always">
+ <div style="WIDTH: 100%; TEXT-ALIGN: center">
+ <hr style="COLOR: black" noshade size="2"></div></div>
+ <div id="HDR" style="TEXT-ALIGN: justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In addition, the Company had other operating leases, primarily for aircraft and airport facilities, with total future lease payments of $4.6 billion as of December 31, 2009.&#160;&#160;Entering into aircraft leases allows the Company to obtain aircraft without immediate cash outflows.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Commitments</font></font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Pension Obligations</font>&#160;&#160;&#160;The Company is required to make minimum contributions to its defined benefit pension plans under the minimum funding requirements of the Employee Retirement Income Security Act (ERISA), the Pension Funding Equity Act of 2004 and the Pension
+ Protection Act of 2006. The Company estimates its 2010 required contribution to its defined benefit pension plans to be approximately $525 million under the provisions of these acts.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt; TEXT-ALIGN: justify">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company&#8217;s obligation for pension and retiree medical and other benefits increased from $6.6 billion at December 31, 2008 to $7.4 billion at December 31, 2009, largely the result of a lower discount rate associated with declining interest rates in the bond markets in 2009.&#160;&#160;A significant portion of this increase
+ is recorded in Accumulated other comprehensive loss, a component of stockholders&#8217; equity. Consequently, the Company&#8217;s 2010 pension expense will be slightly higher than in 2009.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt; TEXT-ALIGN: justify">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Other Commitments&#160;&#160;&#160;<font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">As of December 31, 2009, American had 45 Boeing 737-800 purchase commitments for 2010 and eight Boeing 737-800 purchase commitments in 2011.&#160;&#160;In
+ addition to these aircraft, American has firm commitments for eleven Boeing 737-800 aircraft and seven Boeing 777 aircraft scheduled to be delivered in 2013-2016.&#160;&#160;Future payments for all aircraft, including the estimated amounts for price escalation, are currently estimated to be approximately $2.8 billion, with the majority occurring in 2009 through 2011.&#160;&#160;Additional information about the Company&#8217;s obligations is included in Note 4 to the consolidated financial statements.</font></font></font> </div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify">&#160;</div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt; TEXT-ALIGN: justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company has contracts related to facility construction or improvement projects, primarily at airport locations. The contractual obligations related to these projects totaled approximately $55 million as of December 31, 2009.&#160;&#160;The Company expects to make payments of $43 million and $10 million in 2010 and 2011, respectively.&#160;&#160;In
+ addition, the Company has an information technology support related contract that requires minimum annual payments of $150 million through 2013.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt; TEXT-ALIGN: justify">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt; TEXT-ALIGN: justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">American has a capacity purchase agreement with Chautauqua Airlines, Inc. to provide Embraer -140 regional jet services to certain markets under the brand &#8220;AmericanConnection&#8221;.&#160;&#160;Under this arrangement, the Company pays the AmericanConnection&#174; carrier a fee per block hour to operate the aircraft.&#160;&#160;The
+ block hour fees are designed to cover the AmericanConnection&#174; carrier&#8217;s fully allocated costs plus a margin.&#160;&#160;Assumptions for certain costs such as fuel, landing fees, insurance, and aircraft ownership are trued up to actual values on a pass through basis. In consideration for these payments, the Company retains all passenger and other revenues resulting from the operation of the AmericanConnection&#174; regional jets.&#160;&#160;Minimum payments under the contracts are $56 million in 2010
+ and $72 million over the two years 2011 and 2012.&#160;&#160;In addition, if the Company terminates the Chautauqua contract without cause, Chautauqua has the right to put its 15 Embraer aircraft to the Company.&#160;&#160;If this were to happen, the Company would take possession of the aircraft and become liable for lease obligations totaling approximately $21 million per year with lease expirations in 2018 and 2019.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt; TEXT-ALIGN: justify">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">American Airlines and AMR Eagle operate under a capacity purchase agreement. The capacity purchase agreement reflects what the Company believes are current market rates received by other regional carriers for similar flying.&#160;&#160;Amounts paid to AMR Eagle under the capacity purchase agreement are available to pay for various
+ operating expenses of AMR Eagle, such as crew expenses, maintenance and aircraft ownership.&#160;&#160;As of December 31, 2009, AMR Eagle operated over 1,500 daily departures, offering scheduled passenger service to over 150 destinations in North America, Mexico and the Caribbean.&#160;&#160;On a separate company basis, AMR Eagle reported $2.1 billion in revenue in 2009.&#160;&#160;However, this historical financial information is not indicative of what AMR Eagle&#8217;s future revenues might be if AMR Eagle
+ were a stand-alone entity.</font>
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+ <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div id="FTR">&#160;</div>
+ <div id="PN" style="PAGE-BREAK-AFTER: always">
+ <div style="WIDTH: 100%; TEXT-ALIGN: center">
+ <hr style="COLOR: black" noshade size="2"></div></div>
+ <div id="HDR">&#160;</div></div></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+ <br><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The following table summarizes the combined capacity purchase activity for the American Connection carriers and AMR Eagle for 2009 and 2008 (in millions):</font></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+ <div align="left">
+ <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr>
+ <td valign="bottom" width="40%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+ <td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="6" valign="bottom" width="28%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Year Ended December 31,</font></div></td>
+ <td nowrap valign="bottom" width="31%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td valign="bottom" width="40%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+ <td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="13%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2009</font></div></td>
+ <td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="13%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2008</font></div></td>
+ <td nowrap valign="bottom" width="31%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td align="left" valign="bottom" width="40%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Revenues:</font></div></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="13%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="13%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="31%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td align="left" valign="bottom" width="40%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Regional Affiliates</font></div></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+ <td valign="bottom" width="12%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2,012</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+ <td valign="bottom" width="12%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2,486</font></td>
+ <td nowrap valign="bottom" width="31%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td align="left" valign="bottom" width="40%" style="PADDING-BOTTOM: 2px">
+ <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Other</font></div></td>
+ <td align="left" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="12%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB1" style="MARGIN-LEFT: 27.3pt"></font>135</font></td>
+ <td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="left" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="12%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB1" style="MARGIN-LEFT: 27.3pt"></font>127</font></td>
+ <td nowrap valign="bottom" width="31%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td valign="bottom" width="40%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+ <td align="left" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+ <td valign="bottom" width="12%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2,147</font></td>
+ <td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="left" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+ <td valign="bottom" width="12%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2,613</font></td>
+ <td nowrap valign="bottom" width="31%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td align="left" valign="bottom" width="40%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Expenses:</font></div></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="12%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="12%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="31%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td align="left" valign="bottom" width="40%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Regional payments</font></div></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+ <td valign="bottom" width="12%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2,120</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+ <td valign="bottom" width="12%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2,639</font></td>
+ <td nowrap valign="bottom" width="31%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td align="left" valign="bottom" width="40%" style="PADDING-BOTTOM: 2px">
+ <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Other incurred expenses</font></div></td>
+ <td align="left" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="12%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB1" style="MARGIN-LEFT: 27.3pt"></font>389</font></td>
+ <td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="left" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="12%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB1" style="MARGIN-LEFT: 27.3pt"></font>424</font></td>
+ <td nowrap valign="bottom" width="31%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td valign="bottom" width="40%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+ <td align="left" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+ <td valign="bottom" width="12%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2,509</font></td>
+ <td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="left" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+ <td valign="bottom" width="12%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">3,063</font></td>
+ <td nowrap valign="bottom" width="31%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr></table></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In addition, passengers connecting to American&#8217;s flights from American Connection and AMR Eagle flights generated passenger revenues for American flights of $1.4 billion in 2009 and $1.7 billion in&#160;&#160;2008, which are included in Revenues &#8211; Passenger in the consolidated statements of operations.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">See Note 13 to the consolidated financial statements for additional information regarding the capacity purchase arrangement with AMR Eagle.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Results of Operations</font></font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company recorded a net loss of $1.5 billion in 2009 compared to a net loss of $2.5 billion in 2008.&#160;&#160;The Company&#8217;s 2009 loss is primarily attributable to a significant decrease in passenger revenue due to lower traffic and passenger yield.&#160;&#160;The 2009 results were also negatively impacted by a net amount of $107
+ million in special items, restructuring charges and a non-cash tax item.&#160;&#160;Special items of $184 million include the impairment of certain route and slot authorities, primarily in Latin America, and losses on certain sale leaseback transactions.&#160;&#160;Restructuring charges for 2009 were $171 million and related to announced capacity reductions, including the grounding of the Airbus A300 fleet and the impairment of certain Embraer RJ-135 aircraft, which are operated by AMR Eagle.&#160;&#160;See Note
+ 2 and 13 to the consolidated financial statements for detail of pass through of these AMR Eagle expenses.<font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#160;</font>Also included in 2009 results is a $248 million non-cash tax benefit resulting from the allocation of the tax expense to other comprehensive income items recognized during 2009.&#160;&#160;The restructuring charges, the non-cash tax item and the route impairment are described in Note 2, 8 and 11, respectively, to the consolidated financial
+ statements.</font></div></div></font></div></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company recorded a net loss of $2.5 billion in 2008 compared to net earnings of $356 million in 2007.&#160;&#160;The Company&#8217;s 2008 results include an impairment charge of $1.0 billion to write the McDonnell Douglas MD-80 fleet and certain related long-lived assets down to their estimated fair values, a $68 million accrual for
+ employee severance cost and a $33 million expense related to the grounding of leased Airbus A300 aircraft prior to lease expiration, all in connection with announced capacity reductions and included in Special charges in the Consolidated Statements of Operations.&#160;&#160;In addition, the Company&#8217;s 2008 results include the impact of a pension settlement charge of $103 million for one of the Company&#8217;s defined benefit plans included in Wages, salaries and benefits on the Consolidated Statements of
+ Operations.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">The Company&#8217;s 2007 results reflected an improvement in revenues somewhat offset by fuel prices and certain other costs.&#160;&#160;The 2007 results were impacted by productivity improvements and by cost reductions and the impact</font> of several items including: a $39 million
+ gain to reflect the positive impact of the change to an 18-month expiration of AAdvantage miles included in Passenger revenue, and a $63 million charge associated with the retirement and planned disposal of 24 MD-80 aircraft and certain other equipment that previously had been temporarily stored included in Other operating expenses.</font>
+ <br>
+ <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div id="FTR">&#160;</div>
+ <div id="PN" style="PAGE-BREAK-AFTER: always">
+ <div style="WIDTH: 100%; TEXT-ALIGN: center">
+ <hr style="COLOR: black" noshade size="2"></div></div>
+ <div id="HDR">&#160;</div></div></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Revenues</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-STYLE: italic">2009 Compared to 2008&#160;&#160;&#160;&#160;</font>The Company&#8217;s revenues decreased approximately $3.8 billion, or 16.0 percent, to $19.9 billion in 2009 compared to 2008. American&#8217;s passenger revenues decreased by 17.5 percent, or $3.2 billion, on a capacity
+ decrease of approximately 7.2 percent year over year. Mainline passenger load factor increased approximately 0.1 points to 80.7 percent and passenger revenue yield per passenger mile decreased 11.2 percent to 12.28 cents.&#160;&#160;This resulted in a decrease in passenger revenue per available seat mile (RASM) of 11.1 percent to 9.91 cents. In 2009, American derived approximately 60 percent of its passenger revenues from domestic operations and approximately 40 percent from international operations (flights
+ serving international destinations).&#160;&#160;Following is additional information regarding American&#8217;s domestic and international RASM and capacity:</font></div>
+ <div align="left">
+ <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr>
+ <td valign="bottom" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="13" valign="bottom" width="51%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="13%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td valign="bottom" width="35%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+ <td align="left" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="left" colspan="13" valign="bottom" width="51%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: -15.3pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Year Ended December 31, 2009</font></div></td>
+ <td nowrap valign="bottom" width="13%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td valign="bottom" width="35%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: -15.3pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></div></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="11%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">RASM</font></div></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Y-O-Y</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="11%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">ASMs</font></div></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="1%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Y-O-Y</font></td>
+ <td nowrap valign="bottom" width="13%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td valign="bottom" width="35%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+ <td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="11%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(cents)</font></div></td>
+ <td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Change</font></div></td>
+ <td nowrap valign="bottom" width="2%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="11%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(billions)</font></div></td>
+ <td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="12%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Change</font></div></td>
+ <td nowrap valign="bottom" width="13%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td valign="bottom" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="13%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr><tr>
+ <td valign="bottom" width="35%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: -15.3pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">DOT Domestic</font></div></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">9.87</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;&#160; (8.7)%</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left">&#160;</td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">93.0</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160; (8.7)%</font></td>
+ <td nowrap valign="bottom" width="13%" style="TEXT-ALIGN: left">&#160;</td></tr><tr>
+ <td valign="bottom" width="35%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: -15.3pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">International</font></div></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">9.96</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(14.9)</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left">&#160;</td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">58.8</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(4.7)</font></td>
+ <td nowrap valign="bottom" width="13%" style="TEXT-ALIGN: left">&#160;</td></tr><tr>
+ <td valign="bottom" width="35%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: -15.3pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;DOT Latin America</font></div></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">10.91</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(12.5)</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left">&#160;</td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">28.4</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(6.5)</font></td>
+ <td nowrap valign="bottom" width="13%" style="TEXT-ALIGN: left">&#160;</td></tr><tr>
+ <td valign="bottom" width="35%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: -15.3pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;DOT Atlantic</font></div></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">9.13</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(16.7)</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left">&#160;</td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">23.7</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(3.7)</font></td>
+ <td nowrap valign="bottom" width="13%" style="TEXT-ALIGN: left">&#160;</td></tr><tr>
+ <td valign="bottom" width="35%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: -15.3pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;DOT Pacific</font></div></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">8.90</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(19.4)</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left">&#160;</td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;6.7</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="11%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">0.1</font></td>
+ <td nowrap valign="bottom" width="13%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td></tr></table></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company&#8217;s Regional Affiliates include carriers with which it has capacity purchase agreements:&#160;&#160;AMR Eagle and the American Connection carriers.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Regional Affiliates&#8217; passenger revenues, which are based on industry standard proration agreements for flights connecting to American flights, decreased by $474 million, or 19.1 percent, to $2.0 billion as a result of a reduction in capacity, decreased passenger traffic and lower yield.&#160;&#160;Regional Affiliates&#8217; traffic
+ decreased 6.7 percent to 8.3 billion revenue passenger miles (RPMs), while capacity decreased 8.2 percent to 11.6 billion ASMs, resulting in a 1.2 point increase in passenger load factor to 71.4 percent.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -2.15pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Cargo revenues decreased by 33.9 percent, or $296 million, primarily due to decreases in advertising mail and freight traffic resulting from the current economic downturn. </font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Other revenues increased 8.0 percent, or $169 million, to $2.3 billion due to increases in certain passenger service charges instituted throughout the year in 2008.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <br>
+ <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div id="FTR">
+ <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div>
+ <div id="PN" style="PAGE-BREAK-AFTER: always">
+ <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+ <div style="WIDTH: 100%; TEXT-ALIGN: center">
+ <hr style="COLOR: black" noshade size="2"></div></div>
+ <div id="HDR">
+ <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div></div>
+ <br>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Operating Expenses</font></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-STYLE: italic">2009 Compared to 2008 </font>The Company&#8217;s total operating expenses decreased 18.2 percent, or $4.7 billion, to $21.1 billion in 2009 compared to 2008.&#160;&#160;American&#8217;s mainline operating expenses per ASM in 2009 decreased 11.9 percent compared to 2008
+ to 12.22 cents. The decrease in operating expense was largely due to a year-over-year decrease in fuel prices from $3.03 per gallon in 2008 to $2.01 per gallon in 2009, including the impact of fuel hedging.&#160;&#160;Although fuel prices have abated considerably from the record high prices recorded in July 2008, they have steadily increased since the first quarter of 2009 and remain high and extremely volatile by historical standards. A return to the recent historically high fuel prices and/or disruptions in
+ the supply of fuel would further materially adversely affect the Company&#8217;s financial condition and results of operations.&#160;&#160;The Company&#8217;s unit costs excluding fuel and special charges were greater for the year ended December 31, 2009 than the year ended December 31, 2008.&#160;&#160;Factors driving the increase include increased defined benefit pension expenses (due to the stock market decline in 2008), higher airport rent and landing fees and cost pressures associated with the Company&#8217;s
+ capacity reductions announced in 2008 and 2009 and dependability initiatives.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div align="left">
+ <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr>
+ <td valign="bottom" width="41%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(in millions)</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Operating Expenses</font></div></td>
+ <td valign="bottom" width="2%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="11%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Year ended December 31, 2009</font></div></td>
+ <td nowrap valign="bottom" width="2%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Change from 2008</font></div></td>
+ <td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Percentage Change</font></div></td>
+ <td nowrap valign="bottom" width="2%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="19%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+ <td valign="bottom" width="41%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+ <td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td colspan="2" valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="19%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+ <td align="left" valign="bottom" width="41%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Wages, salaries and benefits</font></div></td>
+ <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">6,218</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">174</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2.9</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">%</font></td>
+ <td valign="bottom" width="19%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+ <td align="left" valign="bottom" width="41%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Aircraft fuel</font></div></td>
+ <td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">5,015</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(3,139</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(38.5</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td valign="bottom" width="19%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(a)</font></div></td></tr><tr>
+ <td align="left" valign="bottom" width="41%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Regional payments to AMR Eagle</font></div></td>
+ <td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2,002</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(398</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(16.6</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td valign="bottom" width="19%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(b)</font></div></td></tr><tr>
+ <td align="left" valign="bottom" width="41%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Other rentals and landing fees</font></div></td>
+ <td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">1,230</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">50</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">4.2</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="19%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+ <td align="left" valign="bottom" width="41%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Maintenance, materials and repairs</font></div></td>
+ <td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">1,028</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">50</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">5.1</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="19%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+ <td align="left" valign="bottom" width="41%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Depreciation and amortization</font></div></td>
+ <td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">954</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(68</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(6.7</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td valign="bottom" width="19%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+ <td align="left" valign="bottom" width="41%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Commissions, booking fees and credit</font></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;&#160;card expense</font></div></td>
+ <td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">853</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(144</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;(14.4</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td valign="bottom" width="19%">
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(c)</font></div></td></tr><tr>
+ <td align="left" valign="bottom" width="41%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Aircraft rentals</font></div></td>
+ <td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">516</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">29</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">6.0</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="19%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+ <td align="left" valign="bottom" width="41%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Food service</font></div></td>
+ <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font id="TAB1" style="MARGIN-LEFT: 27.3pt"></font>487</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(22</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(4.3</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td valign="bottom" width="19%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+ <td align="left" valign="bottom" width="41%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Special charges</font></div></td>
+ <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">171</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(1,039</font></td>
+ <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(85.9</font></td>
+ <td nowrap valign="bottom" width="2%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td valign="bottom" width="19%">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(d)</font></div></td></tr><tr>
+ <td align="left" valign="bottom" width="41%" style="PADDING-BOTTOM: 2px">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 2.7pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Other operating expenses</font></div></td>
+ <td align="left" valign="bottom" width="2%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2,587</font></td>
+ <td nowrap valign="bottom" width="2%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(182</font></td>
+ <td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td align="left" valign="bottom" width="1%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(6.6</font></td>
+ <td nowrap valign="bottom" width="2%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td valign="bottom" width="19%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr><tr>
+ <td valign="bottom" width="41%" style="PADDING-BOTTOM: 4px">
+ <div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Total operating expenses</font></div></td>
+ <td align="left" valign="bottom" width="2%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">$</font></td>
+ <td valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">21,061</font></td>
+ <td nowrap valign="bottom" width="2%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td align="right" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(4,689</font></td>
+ <td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)</font></td>
+ <td align="left" valign="bottom" width="1%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+ <td valign="bottom" width="9%" style="BORDER-BOTTOM: black 4px double; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(18.2</font></td>
+ <td nowrap valign="bottom" width="2%" style="PADDING-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">)%</font></td>
+ <td valign="bottom" width="19%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td></tr></table></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div>
+ <table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr valign="top">
+ <td align="right" style="WIDTH: 36pt">
+ <div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(a)&#160;&#160;</font></div></td>
+ <td>
+ <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Aircraft fuel expense decreased primarily due to a 33.7 percent decrease in the Company&#8217;s price per gallon of fuel (net of the impact of fuel hedging) and a 7.2 percent decrease in the Company&#8217;s fuel consumption.&#160;&#160;The Company recorded $591 million in net losses and $344 million in net gains on its fuel hedging contracts for the years
+ ended December 31, 2009 and 2008, respectively.</font></div></td></tr></table></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div>
+ <table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr valign="top">
+ <td align="right" style="WIDTH: 36pt">
+ <div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(b)&#160;&#160;</font></div></td>
+ <td>
+ <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Regional payments to AMR Eagle decreased in conjunction with a 34.2 percent decrease in Regional Affiliates&#8217; price per gallon of fuel (net of the impact of fuel hedging) and a 5.0 percent decrease in Regional Affiliates&#8217; fuel consumption.</font></div></td></tr></table></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div>
+ <table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr valign="top">
+ <td align="right" style="WIDTH: 36pt">
+ <div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(c)&#160;&#160;</font></div></td>
+ <td>
+ <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commissions, booking fees and credit card expense decreased in conjunction with the 16.0 percent decrease in the Company&#8217;s revenues.</font></div></td></tr></table></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div>
+ <table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr valign="top">
+ <td align="right" style="WIDTH: 36pt">
+ <div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(d)&#160;&#160;</font></div></td>
+ <td>
+ <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Special charges in 2008 are related to an impairment charge of $1.0 billion to write down the Company&#8217;s McDonnell Douglas MD-80 fleet and certain related long-lived assets to their estimated fair values.&#160;&#160;Special charges in 2009 relate to announced capacity reductions, the grounding of the Airbus A300 fleet and the write down of certain
+ Embraer RJ-135 aircraft to their estimated fair values.</font></div></td></tr></table></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <br>
+ <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div id="FTR">
+ <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div>
+ <div id="PN" style="PAGE-BREAK-AFTER: always">
+ <div style="WIDTH: 100%; TEXT-ALIGN: center">
+ <hr style="COLOR: black" noshade size="2"></div></div>
+ <div id="HDR">
+ <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div></div></div>
+ <br>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-VARIANT: small-caps">Other Income (Expense)</font></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Other income (expense) consists of Interest income and expense, Interest capitalized and Miscellaneous - net.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -1.8pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-STYLE: italic">2009 Compared to 2008&#160;&#160; </font>Decreases in both short-term investment balances throughout most of 2009 and decreases in interest rates caused a decrease in Interest income of $142 million, or 80.7 percent, to $34 million.&#160;&#160;Interest expense increased
+ $14 million, or 2.5 percent, to $583 million primarily as a result of slightly higher rates in 2009 on variable rate debt.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div align="center">
+ <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr valign="top">
+ <td>
+ <div align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Income Tax Benefit</font></div></td></tr></table></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company did not record a net tax provision (benefit) associated with 2008 net loss due to the Company providing a valuation allowance, as discussed in Note 8 to the consolidated financial statements. However, during 2009, the Company generated a pre-tax loss of $1.8 billion and other comprehensive income of approximately $702 million.&#160;&#160;In
+ accordance with accounting standards, the net zero tax provision is required to be allocated between Operating loss and Accumulated other comprehensive income. &#160;Application of this guidance during 2009 resulted in a non-cash income tax benefit of $248 million, offset by a $248 million charge to other comprehensive income related to such items being recognized in 2009.&#160;&#160;See Note 8 for additional information regarding the allocation of income tax benefit to Operating income and Accumulated other
+ comprehensive income.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company has also recorded an income tax expense credit of approximately $35 million in 2009 resulting from the Company&#8217;s anticipated election under Section 3081 of the Housing and Economic Recovery Act of 2008 (as extended by Section 1201(b) of the American Recovery and Reinvestment Act of 2009), allowing corporations a refund
+ of certain research and alternative minimum tax (AMT) credit carryforwards in lieu of applicable bonus depreciation on certain qualifying capital investments.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div align="center">
+ <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+ <tr valign="top">
+ <td>
+ <div align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Outlook</font></font></div></td></tr></table></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company currently expects capacity for American&#8217;s mainline jet operations to decrease by approximately three percent in the first quarter of 2010 versus first quarter 2009.&#160; American&#8217;s mainline capacity for the full year 2010 is expected to increase approximately one percent from 2009 with half of a percent decrease
+ in domestic capacity and nearly three percent growth in international capacity.&#160;</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company expects first quarter 2010 mainline unit costs to increase approximately 9.2 percent year over year.&#160;&#160;The first quarter 2010 and full year 2010 unit cost expectations reflect the increase in the cost of fuel during the second half of 2009 and projected fuel prices in 2010, anticipated higher revenue-related expenses
+ (such as booking fees and commissions) and financing costs related to Boeing 737-800 and other aircraft deliveries.&#160;&#160;Due to these cost pressures, the Company expects first quarter unit costs excluding fuel to also be modestly higher than the prior year periods.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+ <br></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company&#8217;s results are significantly affected by the price of jet fuel, which is in turn affected by a number of factors beyond the Company&#8217;s control.&#160;&#160;Although fuel prices have abated considerably from the record high prices recorded in July 2008, they have steadily increased since the first quarter of 2009 and
+ remain high and extremely volatile by historical standards.</font></div>
+ <div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+ <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company is experiencing very weak demand for air travel driven by the severe downturn in the global economy.&#160;&#160;The Company initially implemented capacity reductions in 2008 and again in the first half of 2009 in response to record high fuel prices in 2008 and a rapidly deteriorating economy.&#160;&#160;Those capacity reductions
+ have somewhat mitigated this weakening of demand.&#160;&#160;However, if the global economic downturn persists or worsens, demand for air travel may continue to weaken.&#160;&#160;No assurance can be given that capacity reductions or other steps the Company may take will be adequate to offset the effects of reduced demand.&#160;&#160;In addition, fare discounting has recently been both broader and deeper than usual, and the Company expects downward pressure on passenger yields into 2010.</font>
+ <br>
+ <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+ <div id="FTR">&#160;</div>
+ <div id="PN" style="PAGE-BREAK-AFTER: always">
+ <div style="WIDTH: 100%; TEXT-ALIGN: center">
+ <hr style="COLOR: black" noshade size="2"></div></div>
+ <div id="HDR">&#160;</div></div>
+ <br></div></div>

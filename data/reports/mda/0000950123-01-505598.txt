@@ -1,0 +1,911 @@
+                     RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+ OVERVIEW
+ 
+ AT&T Corp. (AT&T) is among the world's communications leaders, providing voice,
+ data, video and broadband telecommunications services to large and small
+ businesses, consumers and government agencies. We provide domestic and
+ international long distance; regional and local communications services; cable
+ television and Internet communications services. We also provide directory and
+ calling-card services to support our communications business.
+ 
+ TRACKING STOCKS
+ 
+ A tracking stock is designed to provide financial returns to its holders based
+ on the financial performance and economic value of the assets it tracks.
+ Ownership of shares of AT&T common stock, AT&T Wireless Group tracking stock or
+ Liberty Media Class A or B tracking stock did not represent a direct legal
+ interest in the assets and liabilities of any of the groups, but an ownership of
+ AT&T in total. The specific shares represented an interest in the economic
+ performance of the net assets of each of the groups.
+ 
+ AT&T Wireless Group was an integrated business of AT&T and Liberty Media Group
+ was a combination of certain assets and businesses of AT&T, neither of which was
+ a stand-alone entity at June 30, 2001. Subsequent to June 30, 2001, both of
+ these groups have been split-off from AT&T.
+ 
+ 
+ RESTRUCTURING OF AT&T
+ 
+ On October 25, 2000, AT&T announced a restructuring plan designed to fully
+ separate or issue separately tracked stocks intended to reflect the financial
+ performance and economic value of each of AT&T's four major operating units. If
+ the plan is completed as announced, AT&T Wireless, AT&T Broadband, AT&T Business
+ and AT&T Consumer would all be represented by asset-based or tracking stocks.
+ 
+ On July 8, 2001, Comcast Corp. (Comcast) made an unsolicited offer to acquire
+ AT&T Broadband. On July 18, AT&T's Board of Directors unanimously voted to
+ reject Comcast's proposal to acquire AT&T Broadband. The Board has directed
+ management to explore financial and strategic alternatives relating to AT&T
+ Broadband, including the previously announced restructuring plans, with the goal
+ to provide the greatest long-term value to shareowners. The Board also decided
+ to delay finalizing and mailing to shareowners the proxy materials, filed
+ preliminary with the SEC on July 3, 2001, for its current restructuring plans.
+ However, AT&T remains committed to separate AT&T Consumer and AT&T Business from
+ AT&T Broadband and to create a separate tracking stock designed to represent the
+ financial performance of AT&T Consumer.
+ 
+ On May 25, 2001, AT&T completed an exchange offer of AT&T common stock for AT&T
+ Wireless stock. Under the terms of the exchange offer, AT&T issued 1.176 shares
+ of AT&T Wireless Group tracking stock in exchange for each share of AT&T common
+ stock validly tendered. A total of 372.2 million shares of AT&T common stock
+ were tendered in exchange for 437.7 million shares of AT&T Wireless Group
+ tracking stock.
+ 
+ On July 9, 2001, AT&T completed the split-off of AT&T Wireless as a separate,
+ independently-traded company. All AT&T Wireless tracking stock was converted
+ into AT&T Wireless common stock on a one-for-one basis and 1,136 million shares
+ of AT&T Wireless common stock, held by AT&T, were distributed to AT&T common
+ shareowners on a basis of 0.3218 of a share of AT&T Wireless for each AT&T share
+ outstanding. AT&T common shareowners received whole shares of AT&T Wireless and
+ cash payments for fractional shares. The Internal Revenue
+ 
+ <PAGE>   35
+ Service (IRS) ruled that the transaction qualified as tax-free for AT&T and its
+ shareowners for U.S. federal income tax purposes, with the exception of cash
+ received for fractional shares. AT&T retained approximately $3 billion, or 7.3%,
+ of AT&T Wireless common stock, about half of which was used in a debt-for-equity
+ exchange in July. The remaining shares will be sold, exchanged or monetized
+ within the next six months. AT&T Wireless will continue trading on the New York
+ Stock Exchange (NYSE) under the symbol "AWE".
+ 
+ On August 10, 2001, AT&T completed the split-off of Liberty Media Corporation as
+ an independent, publicly-traded company. AT&T redeemed each outstanding share of
+ Class A and Class B Liberty Media Group (LMG) tracking stock for one share of
+ Liberty Media Corporation's Series A and Series B common stock, respectively. In
+ the redemption, shares of Liberty Media Corporation were issued to former
+ holders of Liberty Media Group tracking stock in exchange for their shares of
+ Liberty Media Group tracking stock. The IRS ruled that the split-off of Liberty
+ Media Corporation qualified as a tax-free transaction for AT&T, Liberty Media
+ and their shareowners. Liberty Media Corporation's Series A common stock and
+ Series B common stock is now listed on the NYSE under the symbols "LMC.A" and
+ "LMC.B", respectively.
+ 
+ AT&T's restructuring plan is complicated and involves a substantial number of
+ steps and transactions, including obtaining various conditions, such as Internal
+ Revenue Service rulings. AT&T expects that the transactions associated with
+ AT&T's restructuring plan will be tax-free to U.S. shareowners. In addition,
+ future financial conditions, superior alternatives or other factors may arise or
+ occur that make it inadvisable to proceed with part or all of AT&T's
+ restructuring plans. Any or all of the elements of AT&T's restructuring plan may
+ not occur as we currently expect or in the time frames that we currently
+ contemplate, or at all. Alternative forms of restructuring, including sales of
+ interests in these businesses, would reduce what is available for distribution
+ to shareowners in the restructuring.
+ 
+ <PAGE>   36
+ FORWARD-LOOKING STATEMENTS
+ 
+ This document may contain forward-looking statements with respect to AT&T's
+ restructuring plan, financial condition, results of operations, cash flows,
+ dividends, financing plans, business strategies, operating efficiencies or
+ synergies, budgets, capital and other expenditures, network build out and
+ upgrade, competitive positions, availability of capital, growth opportunities
+ for existing products, benefits from new technologies, availability and
+ deployment of new technologies, plans and objectives of management, and other
+ matters.
+ 
+ These forward-looking statements, including, without limitation, those relating
+ to the future business prospects, revenue, working capital, liquidity, capital
+ needs, network build out, interest costs and income, are necessarily estimates
+ reflecting the best judgment of senior management and involve a number of risks
+ and uncertainties that could cause actual results to differ materially from
+ those suggested by the forward-looking statements. These forward-looking
+ statements should, therefore, be considered in light of various important
+ factors that could cause actual results to differ materially from estimates or
+ projections contained in the forward-looking statements including, without
+ limitation:
+ 
+ - -   the risks associated with the implementation of AT&T's restructuring plan,
+     which is complicated and involves a substantial number of different
+     transactions each with separate conditions, any or all of which may not
+     occur as we currently intend, or which may not occur in the timeframe we
+     currently expect,
+ 
+ - -   the risks associated with each of AT&T's main business units, operating as
+     independent entities as opposed to as part of an integrated
+     telecommunications provider following completion of AT&T's restructuring
+     plan, including the inability of these groups to rely on the financial and
+     operational resources of the combined company and these groups having to
+     provide services that were previously provided by a different part of the
+     combined company,
+ 
+ - -   the impact of existing and new competitors in the markets in which these
+     groups compete, including competitors that may offer less expensive products
+     and services, desirable or innovative products, technological substitutes,
+     or have extensive resources or better financing,
+ 
+ - -   the impact of oversupply of capacity resulting from excessive deployment of
+     network capacity,
+ 
+ - -   the ongoing global and domestic trend towards consolidation in the
+     telecommunications industry, which may have the effect of making the
+     competitors of these entities larger and better financed and afford these
+     competitors with extensive resources and greater geographic reach, allowing
+     them to compete more effectively,
+ 
+ - -   the effects of vigorous competition in the markets in which the company
+     operates, which may decrease prices charged, increase churn and change
+     customer mix, profitability and average revenue per user,
+ 
+ - -   the ability to establish a significant market presence in new geographic and
+     service markets,
+ 
+ - -   the availability and cost of capital and the consequences of increased
+     leverage,
+ 
+ - -   the successful execution of plans to dispose of non-strategic assets as part
+     of an overall corporate deleveraging plan,
+ 
+ <PAGE>   37
+ 
+ - -   the impact of any unusual items resulting from ongoing evaluations of the
+     business strategies of the company,
+ 
+ - -   the requirements imposed on the company or latitude allowed to competitors
+     by the Federal Communications Commission (FCC) or state regulatory
+     commissions under the Telecommunications Act of 1996 or other applicable
+     laws and regulations,
+ 
+ - -   the risks associated with technological requirements, technology
+     substitution and changes and other technological developments,
+ 
+ - -   the results of litigation filed or to be filed against the company,
+ 
+ - -   the possibility of one or more of the markets in which the company competes
+     being impacted by changes in political, economic or other factors, such as
+     monetary policy, legal and regulatory changes or other external factors over
+     which these groups have no control, and
+ 
+ - -   the risks related to AT&T's joint ventures.
+ 
+ The words "estimate," "project," "intend," "expect," "believe," "plan" and
+ similar expressions are intended to identify forward-looking statements. Readers
+ are cautioned not to place undue reliance on these forward-looking statements,
+ which speak only as of the date of this document. Moreover, in the future, AT&T,
+ through its senior management, may make forward-looking statements about the
+ matters described in this document or other matters concerning AT&T.
+ 
+ The discussion and analysis that follows provides information management
+ believes is relevant to an assessment and understanding of AT&T's consolidated
+ results of operations for the three and six months ended June 30, 2001 and 2000,
+ and financial condition as of June 30, 2001 and December 31, 2000.
+ 
+ 
+ <PAGE>   38
+ CONSOLIDATED RESULTS OF OPERATIONS
+ 
+ The comparison of second quarter and year-to-date 2001 results with the
+ corresponding periods in 2000 was impacted by events, such as acquisitions and
+ dispositions, that occurred during these two years. For example, on June 15,
+ 2000, we acquired MediaOne, which was included in our second quarter and
+ year-to-date 2001 results, but was only included in our prior year results since
+ date of acquisition.
+ 
+ Year-over-year comparison was also impacted by the consolidation of At Home
+ Corporation (Excite@Home) beginning September 1, 2000, due to
+ corporate-governance changes, which gave AT&T a controlling interest. On June
+ 30, 2001, we had an approximate 23% economic interest and 74% voting interest in
+ Excite@Home. The consolidation of Excite@Home resulted in the inclusion of 100%
+ of its results in each line item of AT&T's Consolidated Balance Sheet and
+ Consolidated Statement of Operations. The approximate 77% we do not own is
+ reflected within "Minority Interest" in the Consolidated Balance Sheets and as a
+ component of "Minority interest income (expense)" in the Consolidated Statement
+ of Operations for the three and six months ended June 30, 2001. For the three
+ and six months ended June 30, 2000, our ownership interest in Excite@Home was
+ accounted for under the equity method of accounting, with earnings or losses
+ included as a component of "Net losses from other equity investments" in the
+ Consolidated Statement of Operations.
+ 
+ Effective July 1, 2000, the Federal Communication Commission (FCC) eliminated
+ Primary Interexchange Carrier Charges (PICC or per-line charges) that AT&T pays
+ for residential and single-line businesses. The elimination of these per-line
+ charges resulted in lower access expense as well as lower revenue, since AT&T
+ has historically billed its customers for these charges.
+ 
+ REVENUE
+ 
+ <TABLE>
+ <CAPTION>
+                             For the Three Months             For the Six Months
+                                 Ended June 30,                  Ended June 30,
+ Dollars in Millions           2001            2000            2001            2000
+ <S>                       <C>             <C>             <C>             <C>
+ AT&T Business             $  7,094        $  7,227        $ 14,262        $ 14,479
+ AT&T Consumer                3,785           4,963           7,792          10,000
+ AT&T Broadband               2,565           1,716           5,030           3,273
+ Corporate and Other           (118)           (162)           (207)           (305)
+ Total revenue             $ 13,326        $ 13,744        $ 26,877        $ 27,447
+ </TABLE>
+ 
+ Total revenue for the three months ended June 30, 2001 decreased 3.0%, or $0.4
+ billion, compared with the corresponding prior year period. The decline was
+ primarily driven by lower revenue resulting from accelerating declines in long
+ distance voice revenue. Partially offsetting the decrease was revenue of
+ approximately $0.4 billion due to the net impact of acquisitions, the
+ consolidation of Excite@Home, the elimination of PICC and dispositions. Also
+ offsetting the decline was growth from new services at AT&T Broadband and data
+ and Internet protocol (IP) within AT&T Business.
+ 
+ Total revenue for the six months ended June 30, 2001 decreased 2.1%, or $0.6
+ billion, compared with the corresponding prior year period. The decline was
+ primarily driven by accelerating declines in long distance voice revenue.
+ Partially offsetting the decline was revenue of approximately $0.9 billion due
+ to the net impact of acquisitions, the consolidation of Excite@Home, the
+ elimination of PICC and dispositions. Also offsetting the decline was growth
+ from data and Internet protocol (IP) within AT&T Business and new services at
+ AT&T Broadband.
+ 
+ 
+ We expect long distance revenue to continue to be negatively impacted by ongoing
+ competition and product substitution.
+ 
+ <PAGE>   39
+ 
+ Revenue by segment is discussed in more detail in the segment results section.
+ 
+ OPERATING EXPENSES
+ 
+ <TABLE>
+ <CAPTION>
+                                  For the Three Months Ended      For the Six Months Ended
+                                            June 30,                 June 30,
+ Dollars in Millions                   2001         2000          2001         2000
+ <S>                                  <C>          <C>           <C>          <C>
+ Costs of services and products       $3,410       $3,009        $6,982       $5,967
+ </TABLE>
+ 
+ 
+ Costs of services and products increased $0.4 billion, or 13.3%, in the second
+ quarter of 2001 compared with the second quarter of 2000 primarily due to our
+ acquisition of MediaOne and the consolidation of Excite@Home.
+ 
+ Costs of services and products increased $1.0 billion, or 17.0%, for the first
+ half of 2001 compared with the first half of 2000. Approximately $1.0 billion of
+ the increase was driven by net acquisitions, primarily MediaOne, and the impact
+ of consolidating Excite@Home. Also contributing to the increase was higher costs
+ associated with our growth businesses, primarily in our outsourcing and
+ broadband business, of approximately $0.2 billion, partially offset by $0.2
+ billion of our cost reduction efforts, lower costs associated with lower volumes
+ from our international ventures and lower payphone compensation cost.
+ 
+ <TABLE>
+ <CAPTION>
+                               For the Three Months Ended      For the Six Months Ended
+                                          June 30,                  June 30,
+ Dollars in Millions                 2001         2000         2001         2000
+ <S>                               <C>          <C>          <C>          <C>
+ Access and other connection       $3,105       $3,527       $6,256       $7,033
+ </TABLE>
+ 
+ Access and other connection expenses decreased 12.0% in second quarter of 2001
+ compared with second quarter of 2000. Approximately $0.5 billion of the decrease
+ was due to decreased per-line charges or PICC and mandated reductions in
+ per-minute access costs. Effective July 1, 2000, per-line charges that AT&T paid
+ for residential and single-line business customers were eliminated by the
+ Federal Communications Commission. These decreases were partially offset by $0.1
+ billion of higher costs due to volume increases.
+ 
+ Access and other connection expenses decreased 11.0% for the six months ended
+ June 30, 2001, compared with the same period in 2000. Mandated reductions in
+ per-minute access costs and decreased per-line charges effective in the second
+ half of 2000 resulted in lower costs of $0.9 billion. These decreases were
+ partially offset by higher costs of $0.2 billion due to volume increases and
+ $0.1 billion as a result of higher Universal Service Fund contributions.
+ 
+ <TABLE>
+ <CAPTION>
+                                             For the Three               For the Six
+                                             Months Ended                Months Ended
+                                                 June 30,                 June 30,
+ Dollars in Millions                        2001         2000         2001         2000
+ <S>                                       <C>          <C>          <C>          <C>
+ Selling, general and administrative       $2,810       $2,357       $5,604       $4,905
+ </TABLE>
+ 
+ Selling, general and administrative (SG&A) expenses increased $0.5 billion, or
+ 19.2%, in the second quarter of 2001, compared with the second quarter of 2000.
+ Approximately $0.1 billion of the increase was due to acquisitions, primarily
+ MediaOne and the consolidation of Excite@Home. Costs associated with AT&T's
+ restructuring plan, combined with a lower pension credit resulting from
+ decreased return on plan assets accounted for approximately $0.2 billion of the
+ increase. Increased sales, marketing, advertising and customer care in support
+ of growth businesses within AT&T Broadband and AT&T Business drove approximately
+ $0.2 billion of the increase. Partially offsetting these increases were lower
+ costs associated with the impact of decreased volume and cost control efforts of
+ approximately $0.1 billion from AT&T Consumer.
+ 
+ <PAGE>   40
+ 
+ Selling, general and administrative (SG&A) expenses increased $0.7 billion, or
+ 14.2%, for the six months ended June 30, 2001 as compared with the corresponding
+ prior year period. Approximately $0.3 billion of the increase was due to
+ acquisitions, primarily MediaOne and the consolidation of Excite@Home. Increased
+ sales, marketing, advertising and customer care in support of growth businesses
+ within AT&T Broadband and AT&T Business drove approximately $0.4 billion of the
+ increase. Costs associated with AT&T's restructuring plan, combined with a lower
+ pension credit resulting from decreased return on plan assets accounted for
+ approximately $0.3 billion of the increase. Partially offsetting these increases
+ were lower costs associated with the impact of decreased volume and cost control
+ efforts of approximately $0.3 billion from AT&T Consumer.
+ <TABLE>
+ <CAPTION>
+                                              For the Three               For the Six
+                                               Months Ended              Months Ended
+                                                 June 30,                   June 30,
+ Dollars in Millions                        2001         2000         2001         2000
+ <S>                                       <C>          <C>          <C>          <C>
+ Depreciation and other amortization       $1,732       $1,366       $3,434       $2,636
+ </TABLE>
+ 
+ Depreciation and other amortization expenses increased $0.4 billion, or 26.8%,
+ in the second quarter of 2001 compared with the corresponding prior year period
+ and increased $0.8 billion, or 30.3%, for the first half of 2001 compared with
+ the first half of 2000. For both periods, approximately one-half of the increase
+ was due to the acquisition of MediaOne. The remaining increase was largely due
+ to a higher asset base primarily resulting from continued infrastructure
+ investment, as well as the consolidation of Excite@Home. Capital expenditures
+ were $2.2 billion and $2.3 billion, respectively, for the three months ended
+ June 30, 2001 and 2000 and were $4.3 billion for each of the first six months of
+ 2001 and 2000. The primary focus of capital spending in both years continues to
+ be on the growth areas of broadband, data and IP, and local.
+ 
+ 
+ <PAGE>   41
+ 
+ 
+ 
+ <TABLE>
+ <CAPTION>
+                                              For the Three             For the Six
+                                               Months Ended            Months Ended
+                                                 June 30,                June 30,
+ Dollars in Millions                         2001         2000        2001         2000
+ <S>                                       <C>          <C>          <C>          <C>
+ Amortization of goodwill,
+  franchise costs and other
+  purchased intangibles                    $  618       $  345       $1,328       $ 646
+ </TABLE>
+ 
+ Amortization of goodwill, franchise costs and other purchased intangibles
+ increased $0.3 billion, or 79.6%, in second quarter of 2001 compared with the
+ corresponding prior year period and increased $0.7 billion, or 105.7%, for the
+ first half of 2001 compared with the first half of 2000. Approximately 90% of
+ the increase for both periods was due to the acquisition of MediaOne, and the
+ consolidation of Excite@Home.
+ 
+ <TABLE>
+ <CAPTION>
+                                              For the Three             For the Six
+                                               Months Ended            Months Ended
+                                                 June 30,                June 30,
+ Dollars in Millions                         2001         2000        2001         2000
+ <S>                                       <C>          <C>          <C>          <C>
+ Net restructuring and other charges       $  287       $   --       $1,095       $  773
+ </TABLE>
+ 
+ During the second quarter of 2001, AT&T recorded $287 million of net
+ restructuring and other charges. Included in these charges were $56 million of
+ asset impairment charges related to Excite@Home including the write-off of
+ property, plant and equipment, and $231 million for restructuring and exits
+ costs, which consisted of $88 of million for severance costs, $136 million
+ related to facility closings and $7 million primarily related to termination of
+ contractual obligations.
+ 
+ The severance costs, for approximately 4,500 employees, primarily resulted from
+ synergies created by the MediaOne merger. Approximately 27% of the affected
+ employees are management employees and 73% are non-management employees.
+ 
+ Net restructuring and other charges for the six months ended June 30, 2001,
+ totaled $1,095 million. The charge includes $795 million of asset impairment
+ charges related to Excite@Home, $300 million for restructuring and exit costs
+ which consisted of $147 million for severance costs, $142 million for facilities
+ closing and $11 million primarily related to termination of contractual
+ obligations.
+ 
+ The asset impairment charges included $600 million recorded by Excite@Home
+ associated with goodwill impairment of various acquisitions, primarily Excite,
+ and a related goodwill impairment charge of $139 million recorded by AT&T
+ associated with its acquisition goodwill of Excite@Home. The impairment resulted
+ from the continued weakness of the online media market that Excite@Home operates
+ in. Since we consolidate, but only own approximately 23% of Excite@Home, 77% of
+ the charge recorded by Excite@Home was not included as a reduction to AT&T's net
+ income, but rather eliminated in our June 30, 2001 Consolidated Statement of
+ Operations as a component of "Minority interest income (expense)." In the second
+ quarter of 2001, Excite@Home recorded an additional $56 million of asset
+ impairment charges related to the write-off of property, plant and equipment.
+ 
+ The severance costs, for approximately 6,900 employees, primarily resulted from
+ synergies created by the MediaOne merger. Approximately 21% of the affected
+ employees are management employees and 79% are non-management employees.
+ 
+ 
+ <PAGE>   42
+ This restructuring initiative is projected to yield cash savings of
+ approximately $93 million in 2001 (net of severance benefit pay-outs of
+ approximately $147 million) and approximately $340 million per year thereafter.
+ The initiative will yield no EBIT savings, net of restructuring charges in 2001,
+ and is projected to yield approximately $340 million per year thereafter. We
+ expect increased spending in growth businesses will largely offset these cash
+ and EBIT savings. The EBIT savings, primarily attributable to reduced
+ personnel-related expenses, will be realized in costs of services and products
+ and SG&A expenses.
+ 
+ During the six months ended June 30, 2000, AT&T recorded $773 million of net
+ restructuring and other charges, which included $682 million for restructuring
+ and exit costs associated with AT&T's initiative to reduce costs by the end of
+ 2000, and $91 million related to the government-mandated disposition of AT&T
+ Communications (U.K.) Ltd., which would have competed directly with Concert.
+ 
+ Included in restructuring and exit costs was $458 million of cash termination
+ benefits associated with the involuntary separation of approximately 6,200
+ employees. Approximately one-half of the individuals were management employees
+ and one-half were non-management employees.
+ 
+ We also recorded $62 million of network lease and other contract termination
+ costs associated with penalties incurred as part of notifying vendors of the
+ termination of these contracts during the first quarter 2000.
+ 
+ Also included in restructuring and exit costs was $144 million of benefit
+ curtailment costs associated with employee separations as part of these exit
+ plans. We also recorded an asset impairment charge of $18 million related to the
+ write-down of unrecoverable assets in certain businesses in which the carrying
+ value was no longer supported by estimated future cash flows.
+ 
+ <TABLE>
+ <CAPTION>
+                              For the Three             For the Six
+                               Months Ended            Months Ended
+                                June 30,                 June 30,
+ Dollars in Millions        2001         2000         2001         2000
+ <S>                       <C>          <C>          <C>          <C>
+ Operating income          $1,364       $3,140       $2,178       $5,487
+ </TABLE>
+ 
+ Operating income decreased $1.8 billion, or 56.6%, in the second quarter of 2001
+ compared with the second quarter of 2000. Operating income decreased $3.3
+ billion, or 60.3%, for the first half of 2001 compared with the first half of
+ 2000. Approximately $0.5 billion of the second quarter decrease and
+ approximately one-half of the year-to-date decrease was due to the acquisition
+ of MediaOne and the consolidation of Excite@Home, including the impact of
+ restructuring and other charges. The remaining decrease reflects the impact of
+ the declining long distance voice business and spending in growth areas, which
+ has resulted in lower revenue and higher expenses. In addition, the year-to-date
+ decrease was partially offset by lower restructuring and other charges. A
+ majority of the impact of the operating loss generated by Excite@Home was offset
+ in minority interest income (expense), reflecting the approximate 77% of
+ Excite@Home we do not own.
+ 
+ <TABLE>
+ <CAPTION>
+                                 For the Three                  For the Six
+                                 Months Ended                  Months Ended
+                                     June 30,                     June 30,
+ Dollars in Millions           2001           2000           2001           2000
+ <S>                          <C>            <C>           <C>            <C>
+ Other (expense) income       $(1,446)       $   346       $(2,229)       $   993
+ </TABLE>
+ 
+ Other income (expense) for the second quarter of 2001 was an expense of $1.4
+ billion, an increase in expense of $1.8 billion from the second quarter of 2000.
+ The increase in expense was primarily driven by an impairment charge of
+ approximately $1.1 billion due to a pretax write-down to market of our
+ investment in Net2Phone and a $0.8 billion loss on the Excite@Home put
+ 
+ <PAGE>   43
+ obligation settlement with Cox Communications (Cox), Inc. and Comcast partially
+ offset by higher net gains on the sales of businesses and investments of $0.3
+ billion. Net gains in 2001 included a gain on the sale of our stake in Japan
+ Telecom of approximately $0.5 billion, a gain on the sale of an entity owning
+ Baltimore cable-systems to Comcast of approximately $0.1 billion and a loss on
+ the redemption of AT&T stock held by Comcast in exchange for an entity owning
+ cable-systems of approximately $0.3 billion.
+ 
+ Other income (expense) for the first half of 2001 was an expense of $2.2
+ billion, an increase in expense of $3.2 billion compared with the same period in
+ 2000. The higher expense was in part driven by impairment charges of
+ approximately $1.3 billion primarily relating to our investment in Net2Phone. In
+ addition, effective January 1, 2001, in conjunction with the adoption of SFAS
+ No. 133, "Accounting for Derivative Instruments and Hedging Activities", we
+ reclassified certain investment securities, which support debt that is indexed
+ to those securities, from "available-for-sale" to "trading." As a result, we
+ recorded a pretax charge of $0.9 billion in other income reflecting the initial
+ reclassification impact of the adoption of SFAS No. 133 as well as the ongoing
+ investment and derivative revaluation. Also contributing to the higher expense
+ was a $0.8 billion loss on the Excite@Home put obligation settlement with Cox
+ and Comcast, and $0.1 billion of lower net gains on the sale of businesses and
+ investments.
+ 
+ 
+                              For the Three                  For the Six
+                            Months Ended June 30,       Months Ended June 30,
+ Dollars in Millions         2001         2000            2001         2000
+ 
+ Interest expense          $  761       $  568         $1,640       $1,104
+ 
+ 
+ Interest expense increased 33.9%, or $0.2 billion, in the second quarter of 2001
+ compared with the same period in 2000. Interest expense increased 48.5%, or $0.5
+ billion, for the six months ended June 30, 2001, compared with the same period
+ in 2000. The increase in both periods was largely due to the higher average debt
+ balance primarily as a result of our June 2000 acquisition of MediaOne,
+ including outstanding debt of MediaOne and debt issued to fund the MediaOne
+ acquisition. The impact of MediaOne was partially offset by the Company's debt
+ reduction efforts in 2001.
+ 
+ 
+ 
+ 
+                                    For the Three                 For the Six
+                                Months Ended June 30,       Months Ended June 30,
+ Dollars in Millions         2001         2000            2001         2000
+ 
+ (Benefit) provision
+   for income taxes        $ (872)      $1,094          $ (654)       $1,593
+ 
+ 
+ 
+ 
+ <PAGE>   44
+ 
+ The provision for income taxes decreased $2.0 billion, or 179.6%, to a benefit
+ of $0.9 billion in the second quarter of 2001 compared with a provision of $1.1
+ billion in the second quarter of 2000. The decrease was primarily due to a net
+ loss before income taxes in second quarter of 2001, compared with earnings
+ before income taxes in the second quarter of 2000. The effective tax rate for
+ the second quarter of 2001 was 103.3%, compared with 37.5% for the prior year
+ second quarter. The second quarter effective tax benefit rate increased
+ primarily due to the net tax benefits resulting from the Excite@Home put
+ obligation settlement with Cox and Comcast and the redemption of AT&T stock held
+ by Comcast in exchange for certain cable systems. These impacts were partially
+ offset by the consolidation of operational loss of Excite@Home, for which the
+ company is unable to record tax benefits, and higher non tax-deductible goodwill
+ amortization versus the second quarter of 2000.
+ 
+ The provision for income taxes decreased $2.2 billion, or 141.0%, to a benefit
+ of $0.7 billion for the six months ended June 30, 2001 compared with a provision
+ of $1.6 billion for the same period in 2000. The decrease was primarily due to a
+ net loss before income taxes for the six months ended June 30, 2001, compared
+ with earnings before income taxes for the same prior year period. The effective
+ tax rate for the six months ended June 30, 2001 was 38.6%, compared with 29.6%
+ for the same period in 2000. The 2001 effective tax benefit rate increased
+ primarily due to the net tax benefits resulting from the Excite@Home put
+ obligation settlement with Cox and Comcast and the redemption of AT&T stock held
+ by Comcast in exchange for certain cable systems. These impacts were partially
+ offset by a non tax-deductible asset impairment charge recorded by Excite@Home,
+ the consolidation of operational loss of Excite@Home, for which the company is
+ unable to record tax benefits and higher non tax-deductible goodwill
+ amortization. The 2000 effective tax rate was positively impacted by a tax-free
+ gain resulting from an exchange of AT&T stock for an entity owning certain cable
+ systems and other assets with Cox and the benefit of the write-off of the
+ related deferred tax liability.
+ 
+ 
+ 
+                               For the Three                    For the Six
+                            Months Ended June 30,           Months Ended June 30,
+ Dollars in Millions          2001        2000               2001           2000
+ Minority interest
+    income (expense)         $ 198       $ (46)            $ 838           $ (92)
+ 
+ 
+ Minority interest income (expense), which is recorded net of income taxes,
+ represents an adjustment to AT&T's income to reflect the less than 100%
+ ownership of consolidated subsidiaries as well as dividends on preferred stock
+ issued by subsidiaries of AT&T. The Company recorded $0.2 billion of minority
+ interest income in the second quarter of 2001 and $46 million of minority
+ interest expense in the second quarter of 2000. Minority interest income
+ (expense) was $0.8 billion of income for the six months ended June 30, 2001 and
+ $92 million of minority interest expense for the six months ended June 30,
+ 2000. The increase in both periods is primarily due to the consolidation of
+ Excite@Home effective September 1, 2000. The minority interest income in 2001
+ primarily reflects loss generated by Excite@Home, including business
+ restructuring and asset impairment charges, that were attributable to the
+ approximate 77% of Excite@Home not owned by AT&T. The income tax benefit
+ recorded on minority interest income (expense) was $7 million and $31 million
+ for the second quarter of 2001 and 2000, respectively. The income tax benefit
+ recorded on minority interest income (expense) was $87 million and $59 million
+ for the six months ended June 30, 2001 and June 30, 2000, respectively.
+ 
+ 
+ 
+ 
+                                 For the Three                  For the Six
+                                Months Ended June 30,       Months Ended June 30,
+ Dollars in Millions            2001           2000          2001          2000
+ Equity (losses) earnings
+   from Liberty Media Group    $(2,125)     $   267        $(2,822)      $ 1,209
+ 
+ 
+ 
+ <PAGE>   45
+ 
+ Equity losses from Liberty Media Group (LMG), which is recorded net of income
+ taxes, increased $2.4 billion for the three months and $4.0 billion for the six
+ months ended June 30, 2001 compared with the same periods in 2000. The higher
+ losses were primarily driven by higher losses of affiliates, lower gains on
+ dispositions and higher unrealized loss on financial instruments.
+ 
+ 
+ 
+ 
+ 
+                                      For the Three             For the Six
+                                   Months Ended June 30,    Months Ended June 30,
+ Dollars in Millions                2001        2000        2001        2000
+ Net losses from other
+   equity investments              $ 278       $ 188       $ 335       $ 393
+ 
+ 
+ Net losses from other equity investments, recorded net of income taxes, were
+ $0.3 billion in the second quarter of 2001, a 47.4% increase compared with the
+ prior year quarter. This increase was primarily due to the higher equity loss
+ from Concert, partially offset by the consolidation of Excite@Home. The income
+ tax benefit recorded on net losses from other equity investments was $91 million
+ and $122 million for the second quarter of 2001 and 2000, respectively. Also
+ included in this line is amortization of goodwill associated with
+ nonconsolidated investments recorded as a reduction of income. This totaled $76
+ million and $110 million for the second quarter of 2001 and 2000, respectively.
+ 
+ Net losses from other equity investments were $0.3 billion for the six months
+ ended June 30, 2001, a decrease of $58 million, or 14.9%, compared with the same
+ period of 2000. This decrease was primarily due to the consolidation of
+ Excite@Home, the higher earnings related to Cablevision Systems Corp. reflecting
+ a gain associated with the swap of cable properties. Partially offsetting these
+ decreases was a higher equity loss from Concert. The income tax benefit recorded
+ on net losses from other equity investments was $166 million and $267 million
+ for the first half of 2001 and the first half of 2000, respectively.
+ Amortization of goodwill associated with nonconsolidated investments recorded as
+ a reduction of income. This totaled $156 million and $225 million for the first
+ six months of 2001 and 2000, respectively.
+ 
+ 
+ 
+ 
+ 
+                                    For the Three             For the Six
+ Dollars in Millions             Months Ended June 30,    Months Ended June 30,
+ Cumulative effect of           2001          2000        2001        2000
+   accounting change           $  --         $  --       $ 904       $  --
+ 
+ 
+ Cumulative effect of accounting change, net of applicable income taxes, was $0.4
+ billion, for the six months ended June 30, 2001 for AT&T Group. It represented
+ fair value adjustments of debt instruments including those acquired in
+ conjunction with the MediaOne merger, as well as to our warrant portfolio due to
+ the adoption of SFAS No. 133. In addition, we also reclassified certain
+ investment securities, which support debt that is indexed to those securities,
+ from "available-for-sale" to "trading."
+ 
+ Cumulative effect of accounting change, net of applicable income taxes, was $0.5
+ billion, for Liberty Media Group for the first half of 2001. This represents the
+ impact of separately recording the embedded call option obligations associated
+ with LMG's senior exchangeable debentures due to the adoption of SFAS No. 133.
+ 
+ 
+ 
+ 
+                                      For the Three             For the Six
+                                   Months Ended June 30,    Months Ended June 30,
+ Dollars in Millions                2001         2000         2001         2000
+ Dividend requirements
+   of preferred stock              $  236      $  --       $  417        $  --
+ 
+ 
+ Dividend requirements of preferred stock were $0.2 billion in the second quarter
+ of 2001 and $0.4 billion for the first half of 2001. The preferred
+ 
+ <PAGE>   46
+ stock dividend represented interest in connection with convertible preferred
+ stock issued to NTT DoCoMo in January of 2001 as well as accretion of the
+ beneficial conversion feature. On July 9, 2001, in conjunction with the
+ split-off of AT&T Wireless Group, these preferred shares were converted into
+ AT&T Wireless common stock. As a result, we will recognize, in the third
+ quarter, the remaining unamortized beneficial conversion feature balance of $0.2
+ billion.
+ 
+ 
+ 
+ 
+                                      For the Three             For the Six
+                                   Months Ended June 30,    Months Ended June 30,
+ Dollars in Millions                2001          2000      2001         2000
+ Premium on wireless
+  tracking stock exchange        $   80        $   --    $   80        $   --
+ 
+ 
+ The premium on the wireless tracking stock exchange was $80 million for the
+ three and six months ended June 30, 2001. The premium represents the excess of
+ fair value of the Wireless tracking stock issued over the fair value of the AT&T
+ common stock exchanged and was calculated based on the closing share prices of
+ AT&T common stock and AT&T Wireless tracking stock on May 25, 2001.
+ 
+ 
+ <Table>
+ <Caption>
+                                                                       For the Three Months Ended         For the Six Months Ended
+                                                                                June 30,                          June 30,
+ (Dollars in Millions, except per share amounts)                          2001            2000            2001            2000
+ <S>                                                                   <C>             <C>             <C>            <C>
+ AT&T Common Stock Group - per basic share:
+ (Loss) earnings - continuing operations                               $  (0.10)       $   0.49        $  (0.28)       $   1.02
+ Earnings - discontinued operations                                        0.05            0.05            0.03            0.06
+ Cumulative effect of accounting change                                      --              --            0.10              --
+ AT&T Common Stock Group (loss) earnings                               $  (0.05)       $   0.54        $  (0.15)       $   1.08
+ 
+ AT&T Common Stock Group - per diluted share:
+ (Loss) earnings - continuing operations                               $  (0.10)       $   0.48        $  (0.28)       $   1.01
+ Earnings - discontinued operations                                        0.05            0.05            0.03            0.06
+ Cumulative effect of accounting change                                      --              --            0.10              --
+ AT&T Common Stock Group (loss) earnings                               $  (0.05)       $   0.53        $  (0.15)       $   1.07
+ 
+ AT&T Wireless Group- per basic and diluted share:
+ Earnings from discontinued operations                                 $   0.08        $   0.06        $   0.08        $   0.06
+ 
+ Liberty Media Group - per basic and diluted share:
+ (Loss) earnings - before cumulative effect of accounting change       $  (0.82)       $   0.10        $  (1.09)       $   0.47
+ Cumulative effect of accounting change
+ Liberty Media Group (loss) earnings                                   $  (0.82)       $   0.10        $  (0.88)       $   0.47
+ </TABLE>
+ 
+ 
+ The loss from continuing operations per diluted share attributable to the AT&T
+ Common Stock Group was $0.10 in the second quarter of 2001 compared with
+ earnings per share (EPS) on a diluted basis of $0.48 in the first quarter of
+ 2000. The year over year loss was primarily driven by lower operating income, an
+ impairment charge reflecting an other than temporary decline on our investment
+ in Net2Phone, dividends on NTT DoCoMo preferred stock and increased interest
+ expense, partially offset by a gain on the sale of Japan Telecom and higher
+ minority interest income.
+ 
+ The loss from continuing operations per diluted share attributable to the AT&T
+ Common Stock Group was $0.28 for the six months ended June 30, 2001 compared
+ with earnings per diluted share of $1.01 for the six months ended June 30, 2000.
+ The year over year loss was primarily driven by lower operating income, an
+ impairment charge reflecting an other than temporary decline on our investment
+ in Net2Phone, a charge relating to the initial reclassification impact of the
+ adoption of SFAS 133 which revalued certain securities reclassified from
+ "available-for-sale" to "trading", lower gains on the sales of businesses and
+ investments, dividends on NTT DoCoMo preferred stock and
+ 
+ <PAGE>   47
+ increased interest expense, partially offset by higher minority interest income.
+ 
+ The Consolidated Financial Statements of AT&T have been restated to reflect AT&T
+ Wireless as discontinued operations. Accordingly, the revenue, costs and
+ expenses of AT&T Wireless have been excluded from the respective captions in the
+ Consolidated Statements of Operations, and have been reported as "Income from
+ discontinued operations" for all periods presented. Earnings from discontinued
+ operations per diluted share attributable to the AT&T Common Stock Group were
+ $0.05 for the second quarters of 2001 and 2000, and were $0.03 and $0.06 for the
+ six months ended June 30, 2001 and 2000, respectively.
+ 
+ Earnings per share attributable to AT&T Wireless Group were $0.08 in the second
+ quarter of 2001 and $0.06 from April 27, 2000, date of the initial public
+ offering through June 30, 2000.
+ 
+ The loss per diluted share attributable to Liberty Media Group (LMG) was $0.82
+ in the second quarter of 2001, compared with earnings of $0.10 in the second
+ quarter of 2000. The loss per diluted share attributable to Liberty Media Group
+ (LMG) was $0.88 for the first half of 2001, compared with earnings of $0.47 in
+ the first half of 2000. The higher loss for both periods was primarily driven by
+ higher losses of affiliates, lower gains on dispositions and unrealized losses
+ on financial instruments.
+ 
+ 
+ 
+ SEGMENT RESULTS
+ 
+ In support of the services we provide, we segment our results by the business
+ units that support our primary lines of business: AT&T Business, AT&T Consumer
+ and AT&T Broadband. The balance of AT&T's continuing operations, excluding LMG
+ is included in a Corporate and Other category. Although not a segment, we also
+ discuss the results of LMG.
+ 
+ The discussion of segment results includes revenue; EBIT (earnings before
+ interest, taxes, the cumulative effect of an accounting change, dividend
+ requirements of preferred stock, the premium on the Wireless exchange and
+ discontinued operations); EBITDA (EBIT excluding depreciation and amortization,
+ and minority interest (expense) income other than Excite@Home's minority
+ interest (expense) income); total assets, and capital additions. The discussion
+ of EBITDA for AT&T Broadband is modified to exclude other income and net losses
+ from equity investments. Total assets for each segment includes all assets,
+ except intercompany receivables. Prepaid pension assets and corporate-owned or
+ leased real estate are generally held at the corporate level, and therefore are
+ included in the Corporate and Other group. Capital additions for each segment
+ include capital expenditures for property, plant and equipment, additions to
+ nonconsolidated investments, increases in franchise costs and additions to
+ internal-use software.
+ 
+ EBIT is the primary measure used by AT&T's chief operating decision makers to
+ measure AT&T's operating results and to measure segment profitability and
+ performance. AT&T calculates EBIT as operating (loss) income plus net pretax
+ losses from equity investments, pretax minority interest income (expense) and
+ other income. In addition, management also uses EBITDA as a measure of segment
+ profitability and performance, and is defined as EBIT, excluding minority
+ interest (expense) income other than Excite@Home's minority interest (expense)
+ income, plus depreciation and amortization. Interest and taxes are not factored
+ into the segment profitability measure used by the chief operating decision
+ makers; therefore, trends for these items are discussed on a consolidated basis.
+ Management believes EBIT and EBITDA are meaningful to investors because they
+ provide analysis of operating results using the same measures used by AT&T's
+ chief operating decision makers. In addition, we believe that both EBIT and
+ EBITDA allow investors a mean to evaluate the financial results of each segment
+ in relation to total AT&T. EBIT for AT&T was deficit of $260 million and earning
+ of $3,099 million, and EBITDA was $2,162 million and $4,997 million for the
+ three months ended June 30, 2001 and 2000,
+ <PAGE>   48
+ respectively. EBIT was $199 million and $5,669 million, and EBITDA was $5,052
+ million and $9,327 million for the first half of 2001 and 2000, respectively.
+ Our calculation of EBIT and EBITDA may or may not be consistent with the
+ calculation of these measures by other public companies. EBIT and EBITDA should
+ not be viewed by investors as an alternative to generally accepted accounting
+ principles (GAAP) measures of income as a measure of performance or to cash
+ flows from operating, investing and financing activities as a measure of
+ liquidity. In addition, EBITDA does not take into account changes in certain
+ assets and liabilities as well as interest and taxes which can affect cash flow.
+ 
+ In connection with our corporate restructuring program set forth in late 2000,
+ our existing segments reflect certain managerial changes since the publication
+ of our 2000 annual results. The changes are as follows: AT&T Business was
+ expanded to include the results of international operations and ventures. In
+ addition, certain corporate costs that were previously recorded within the
+ Corporate and Other Group have been allocated to the respective segments in an
+ effort to ultimately have the results of these businesses reflect all direct
+ corporate costs as well as overhead for shared services. All prior period
+ results have been restated to reflect these changes.
+ 
+ Reflecting the dynamics of our business, we continuously review our management
+ model and structure, which may result in additional adjustments to our operating
+ segments in the future. In addition, when we create tracking stock for other
+ units, we will begin allocating `pure' corporate overhead as appropriate. See
+ note (b) for further detail on our restructuring plan.
+ <PAGE>   49
+ AT&T BUSINESS
+ 
+ AT&T Business offers a variety of global communications services, including long
+ distance, local, and data and IP networking to small and medium-sized
+ businesses, large domestic and multinational businesses and government agencies.
+ AT&T Business is also a provider of voice, data and IP transport to service
+ resellers (wholesale services).
+ 
+ AT&T Business includes AT&T Solutions, the company's professional-services
+ outsourcing business, which provides seamless solutions that maximize the
+ competitive advantage of networking-based electronic applications for global
+ clients. AT&T Solutions also provides e-infrastructure and high-availability
+ services to enterprise clients, and manages AT&T's unified global network. AT&T
+ Business also includes the results of International ventures and operations.
+ 
+ 
+ <TABLE>
+ <CAPTION>
+                              Three months ended            Six months ended
+                                   June 30,                   June 30,
+ Dollars in millions         2001          2000          2001          2000
+ <S>                       <C>           <C>           <C>           <C>
+ External revenue          $ 6,860       $ 7,056       $13,800       $14,150
+ Internal revenue              234           171           462           329
+ Total revenue               7,094       $ 7,227        14,262       $14,479
+ 
+ EBIT                        1,426         1,592         2,444         2,738
+ EBITDA                      2,461         2,659         4,497         4,811
+ 

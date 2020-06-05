@@ -1,0 +1,589 @@
+ 
+                   RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+ 
+ OVERVIEW
+ 
+ On April 27, 2000,  AT&T completed an initial public  offering of 15.6%,  or 360
+ million  shares,  of the AT&T Wireless Group tracking stock at an initial public
+ offering  price of  $29.50  per  share.  This  stock is  designed  to track  the
+ performance  of AT&T's  wireless  services  businesses.  The AT&T Wireless Group
+ tracking stock issued in the initial public offering reflected only a portion of
+ the economic  interest of the AT&T Wireless  Group.  AT&T retained the remaining
+ interest in the economic  performance  of the AT&T Wireless Group in the form of
+ an inter-group  interest  which  represented an 84.4% interest as of the date of
+ the initial public  offering and at June 30, 2000. The results  included  herein
+ represent the AT&T Wireless Group in its entirety for all periods presented. For
+ the  portion  of the AT&T  Wireless  Group's  results  attributed  to the public
+ shareholders,  see AT&T's  Form  10-Q.  AT&T  currently  intends to dispose of a
+ portion of the remaining  interest in the AT&T Wireless Group in the second half
+ of this year.  Such  disposition  will include a  distribution  in the form of a
+ dividend  to AT&T  Common  Stock  Group  (which  represents  the results of AT&T
+ excluding the results  attributable to tracking stocks) shareowners for at least
+ a portion of such  interest,  but may also include an exchange  offer, a further
+ sale of the AT&T Wireless  Group tracking  stock or a combination  thereof.  The
+ method,  timing and sequence of the distribution  options,  which could occur in
+ stages,  will be based on the AT&T Board of Directors'  assessment of the market
+ conditions and other circumstances,  as appropriate, with the goal of maximizing
+ value for all AT&T  shareowners.  Following the  distribution we expect that the
+ outstanding  shares of the AT&T Wireless  Group tracking stock will reflect 100%
+ of the economic performance of the AT&T Wireless Group.
+ 
+ The AT&T Wireless  Group is a fully  integrated  business unit of AT&T. The AT&T
+ Wireless  Group  includes  the  results  of  its  mobility  and  fixed  wireless
+ businesses, as well as its international operations, which primarily include the
+ earnings or losses  associated with equity interests in  international  wireless
+ communications ventures and partnerships.
+ 
+ In June 2000,  the AT&T Wireless  Group closed the  acquisition of the remaining
+ 50%  partnership  interest they previously did not own in CMT Partners (Bay Area
+ Properties). The Bay Area Properties cover a population base exceeding 7 million
+ potential  customers  and,  as  of  June  30,  2000,  served  nearly  1  million
+ subscribers.  The  acquisition of this entity was announced in conjunction  with
+ the signing of agreements to purchase wireless systems in Houston and San Diego,
+ which are anticipated to close later this year. The three systems combined cover
+ a population of approximately 15 million potential customers and, as of June 30,
+ 2000, served more than 1.3 million subscribers.  Also in June, the AT&T Wireless
+ Group  completed its acquisition of Wireless One Network,  L.P.  (Wireless One).
+ Wireless  One owns and operates  wireless  systems in  northwest  and  southwest
+ Florida  covering a population base of 1.6 million  potential  customers and had
+ approximately  190,000  subscribers as of June 30, 2000. In February 2000,  AT&T
+ and  Dobson  Communications  Corporation,  through  a  joint  venture,  acquired
+ American  Cellular  Corporation.  AT&T  contributed  its  interest  in the joint
+ venture  to the AT&T  Wireless  Group as of the  date of the  acquisition.  This
+ acquisition  increased the AT&T Wireless  Group's coverage in New York State and
+ several midwest markets by adding approximately 450,000 subscribers.
+ 
+ <PAGE>
+ 
+ FORWARD-LOOKING STATEMENTS
+ 
+ Except  for  the  historical   statements  and  discussions   contained  herein,
+ statements herein constitute "forward-looking  statements" within the meaning of
+ Section 27A of the  Securities  Act of 1933 and  Section  21E of the  Securities
+ Exchange Act of 1934, including without limitation, statements concerning future
+ business prospects, revenues, operating performance, working capital, liquidity,
+ capital needs,  and general  industry growth rates and the AT&T Wireless Group's
+ performance relative thereto. These forward-looking  statements rely on a number
+ of assumptions  concerning  future events,  including the AT&T Wireless  Group's
+ ability  to achieve a  significant  market  penetration  in new  markets.  These
+ forward-looking  statements are subject to a number of  uncertainties  and other
+ factors, many of which are outside the AT&T Wireless Group's control, that could
+ cause  actual  results  to  differ  materially  from such  statements.  The AT&T
+ Wireless  Group  disclaims  any  intention or obligation to update or revise any
+ forward-looking  statements,  whether  as a result  of new  information,  future
+ events or otherwise.
+ 
+ COMBINED RESULTS OF OPERATIONS
+ 
+ FOR THE THREE AND SIX MONTH  PERIODS ENDED JUNE 30, 2000 COMPARED WITH THE THREE
+ AND SIX MONTH PERIODS ENDED JUNE 30, 1999
+ Revenue
+ 
+ Total revenue  includes  wireless voice and data services,  the sale of handsets
+ and accessories,  and revenue  associated with the aviation  communications  and
+ fixed wireless  operations.  The AT&T Wireless Group records revenue as services
+ are provided or when the product is sold.  Services revenue  primarily  includes
+ monthly recurring charges,  airtime and toll usage charges,  and roaming charges
+ billed to  subscribers  for usage outside of the AT&T Wireless  Group network as
+ well as  charges  billed to other  wireless  providers  for  roaming on the AT&T
+ Wireless Group network.
+ 
+ Total revenue  increased 31.9% to $2,477 million,  and increased 35.9% to $4,675
+ million for the three and six month periods  ended June 30, 2000,  respectively,
+ compared  with the  respective  prior year periods.  The AT&T  Wireless  Group's
+ results  include  the  revenue  associated  with  Vanguard  Cellular  since  its
+ acquisition  on May 3, 1999.  Total  revenue  increased  29.4% and 31.1% for the
+ three and six month periods ended June 30, 2000, respectively, compared with the
+ same  periods for 1999,  adjusted to exclude  Vanguard  Cellular  for the period
+ January 2000 to April 2000, to correlate  results with 1999, due to the May 1999
+ acquisition.
+ 
+ The revenue  increases  were  primarily  due to growth in our mobility  business
+ revenue,  driven by strong  consolidated  subscriber growth and continued rising
+ average monthly revenue per user (ARPU). AT&T Digital One Rate service continues
+ to contribute to the increase in ARPU and subscribers by acquiring and retaining
+ high  value  customers,  who have a  significantly  higher  ARPU than an average
+ subscriber.  As of June 30, 2000, the number of  subscribers  using AT&T Digital
+ One Rate service was 2.4 million,  an increase of 66.2%,  compared with June 30,
+ 1999, of which nearly 73% were new  subscribers  to the AT&T Wireless  Group for
+ the six months ended June 30, 2000.
+ 
+ Services  revenue for the three month  period  ended June 30,  2000,  was $2,240
+ million,  an increase of $551 million,  or 32.7%,  compared with the  respective
+ period in 1999.  Services  revenue for the six month period ended June 30, 2000,
+ was $4,232 million, an increase of $1,171 million,  or 38.3%,  compared with the
+ respective period in 1999.
+ <PAGE>
+ As of June 30,  2000,  the AT&T  Wireless  Group had 11.7  million  consolidated
+ subscribers,  an increase of 33.8%, compared with the prior year, of which 85.1%
+ were digital  subscribers,  up from 69.2% as of June 30, 1999. Included in these
+ figures were nearly 1 million  subscribers  from our acquisition of the Bay Area
+ Properties  in  June  2000  (which  were  previously   reported  as  partnership
+ subscribers)  and  approximately  190,000  subscribers  from our  acquisition of
+ Wireless One in June 2000. Net consolidated wireless subscriber additions in the
+ second quarter  totaled  532,000,  a 14.2% increase over the prior year quarter.
+ AT&T Wireless  Group's  average monthly churn rate in the second quarter of 2000
+ was 2.7%  compared  with 2.3% in the second  quarter of 1999.  The AT&T Wireless
+ Group's  average  monthly churn in the first half of 2000 was 2.8% compared with
+ 2.5% in the first half of 1999. Total subscribers, including partnership markets
+ in which the AT&T  Wireless  Group  does not own a  controlling  interest,  were
+ nearly 14  million at the end of the second  quarter of 2000,  a 22.3%  increase
+ over the prior year. Ending total  subscribers  included  approximately  450,000
+ subscribers  associated with the AT&T Wireless  Group's  acquisition of American
+ Cellular in February 2000.
+ 
+ The AT&T  Wireless  Group's  ARPU for the three  months  ended June 30, 2000 was
+ $71.5,  an increase of $4.9, or 7.7%,  compared with the second quarter of 1999,
+ and for the six months  ended June 30, 2000 was $69.4,  an increase of $5.7,  or
+ 8.9%,  compared with the first half of 1999.  These increases were primarily due
+ to  increased  minutes of use per  subscriber,  driven in part by the  continued
+ success  of AT&T  Digital  One Rate  service.  The AT&T  Wireless  Group's  ARPU
+ remained  significantly  higher than the wireless  industry  average  during the
+ quarter and half year ended June 30, 2000, excluding the AT&T Wireless Group.
+ 
+ Equipment  revenue  for the three month  period  ended June 30,  2000,  was $237
+ million, an increase of $48 million, or 25.2%,  compared with the same period in
+ 1999.  Equipment  revenue for the six month period ended June 30, 2000, was $443
+ million, an increase of $63 million, or 16.6%,  compared with the same period in
+ 1999.  These  increases were primarily due to 30.8% and 29.2% increases in gross
+ consolidated  subscriber additions in the three and six month periods ended June
+ 30, 2000,  respectively,  compared with the same periods in 1999. As an integral
+ part of the wireless service  offering,  the AT&T Wireless Group supplies to its
+ subscribers a selection of handsets at competitive  prices,  which are generally
+ offered at or below cost.
+ 
+ Costs of services and products
+ 
+ Costs of services and products include the costs to place calls over the network
+ (including the costs to operate and maintain the AT&T Wireless  Group's  network
+ as well as  roaming  costs  paid to  other  wireless  providers),  the  costs of
+ handsets and accessories provided to the AT&T Wireless Group's customers and the
+ charges paid to connect calls on other networks, including those of AT&T.
+ 
+ Costs of services and products  for the three and six month  periods  ended June
+ 30, 2000,  were $1,205  million and $2,258  million,  respectively.  This was an
+ increase of $265  million,  or 28.3%,  for the three month period ended June 30,
+ 2000, and $508 million,  or 29.0%, for the six month period ended June 30, 2000,
+ compared with the same periods in 1999.  These  increases  were due primarily to
+ increases in the cost of handsets provided to subscribers which was attributable
+ to a 30.8% and 29.2% increase,  respectively,  in gross subscriber additions for
+ the three and six month  periods  ended June 30,  2000,  compared  with the same
+ periods  in the prior  year.  Additionally,  growth in the  subscriber  base and
+ increased  minutes  of usage  resulted  in an  increase  in the access and other
+ connection  charges paid to connect calls on other networks,  including AT&T, as
+ well as the costs to maintain the AT&T Wireless Group's network.
+ 
+ Roaming  expenses  decreased 4.4% for the quarter ended June 30, 2000,  compared
+ with the same period for 1999,  despite continued growth in off-network  roaming
+ minutes.  The decrease in roaming expenses was driven primarily by a significant
+ decrease  in the roaming  rate per minute of usage,  as well as  initiatives  to
+ aggressively migrate more minutes onto the AT&T Wireless Group's network.
+ <PAGE>
+ Selling, general and administrative
+ 
+ Selling,  general and administrative (SG&A) expenses for the three and six month
+ periods ended June 30, 2000, were $763 million and $1,513 million, respectively,
+ compared  with  $614  million  and  $1,178  million  for the three and six month
+ periods ended June 30, 1999.  These  increases  were primarily  attributable  to
+ higher  marketing and selling costs associated with the increase in consolidated
+ subscriber additions in the second quarter and first half of 2000, compared with
+ the respective  periods in 1999. Cost per gross subscriber  addition  (CPGA),
+ which includes the cost of handset  subsidies  recorded in costs of services and
+ products in the accompanying combined statement of operations, was $352 and $356
+ for the three and six month periods ended June 30, 2000,  compared with $338 and
+ $345 for the three and six month  periods  ended  June 30,  1999.  In  addition,
+ growth in the wireless  customer  base  resulted in an increase in customer care
+ and information technology expenses.
+ 
+ Depreciation and amortization
+ 
+ Depreciation and amortization expenses for the three month period ended June 30,
+ 2000, were $402 million, an increase of $94 million, or 30.5%, compared with the
+ second quarter of 1999. Depreciation and amortization expenses for the six month
+ period ended June 30, 2000, were $771 million,  an increase of $187 million,  or
+ 31.9%,  compared with the first half of 1999. These increases primarily resulted
+ from the growth in the AT&T Wireless  Group's  depreciable  asset base resulting
+ from  capital  expenditures  to increase the capacity of the network and improve
+ call quality as well as the acquisition of Vanguard  Cellular in May 1999. Total
+ capital  expenditures  were $1,291  million and $2,123 million for the three and
+ six month periods ended June 30, 2000.
+ 
+ Other income
+ 
+ Other income primarily includes gains or losses on sales or exchanges of assets,
+ net equity earnings from investments,  intercompany  interest income on the note
+ receivable from AT&T, and minority interests in consolidated subsidiaries. Other
+ income for the three and six month periods ended June 30, 2000, was $227 million
+ and $308 million, respectively. Other income for the three and six month periods
+ ended June 30,  1999,  was $140  million  and $184  million,  respectively.  The
+ increase  for the three and six  month  periods  ended  June 30,  2000,  was due
+ primarily  to  higher  gains on the  sales  of  assets  as well as  intercompany
+ interest income on the note receivable from AT&T of $67 million,  related to the
+ attribution  of $7.0  billion of initial  public  offering  proceeds to the AT&T
+ Wireless  Group.   Partially  offsetting  these  increases,  were  lower  equity
+ earnings  primarily as a result of increased  losses  associated  with affiliate
+ investments.
+ 
+ Interest expense
+ 
+ Interest expense consists primarily of interest on intercompany debt due to AT&T
+ less interest  expense  capitalized.  Interest expense for the second quarter of
+ 2000, was $18 million,  a decrease of $20 million,  or 51.6%,  compared with the
+ second  quarter  of 1999.  Interest  expense  for the first half of 2000 was $69
+ million,  a decrease of $1  million,  or 1.0%,  compared  with the first half of
+ 1999.  The decrease  for the second  quarter of 2000,  compared  with the second
+ quarter of 1999, was due to higher levels of capitalized interest as a result of
+ increased capital  expenditures,  as well as lower levels of average outstanding
+ debt due to AT&T. The decrease in the average  outstanding  debt due to AT&T was
+ attributable  to the  recapitalization  of $2.0 billion of long term debt due to
+ AT&T  into 9%  cumulative  preferred  stock  subsequent  to the  initial  public
+ offering  of the AT&T  Wireless  Group  tracking  stock.  These  decreases  were
+ partially offset by a higher rate of interest  charged on the intercompany  debt
+ in the second quarter of 2000 versus the prior year quarter.  For the six months
+ ended June 30, 2000,  higher  levels of  outstanding  debt,  as well as a higher
+ interest rate, offset the increase in capitalized interest.
+ <PAGE>
+ Provision for income taxes
+ 
+ The  provision  for income taxes for the three and six month  periods ended June
+ 30, 2000,  was $116 million and $146  million,  respectively,  compared with $43
+ million and $17 million for the same periods in 1999, respectively. The increase
+ in the  provision  for income taxes was due to higher income before income taxes
+ and a higher  effective tax rate.  The effective  income tax rates for the three
+ and six month  periods  ended June 30, 2000 were 36.9% and 39.3%,  respectively,
+ <PAGE>
+ compared with 35.5% and 35.3%, for the same periods in 1999,  respectively.  The
+ effective income tax rate for each of the 2000 periods presented was impacted by
+ the  amortization  of  intangibles  and  unutilized  equity  investment  losses,
+ partially  offset  by a  benefit  due to the  disposition  of an  equity  method
+ investment. The effective income tax rate for each of the 1999 periods presented
+ was impacted by the benefit from the change in the valuation allowance and other
+ estimates,  offset by  unutilized  foreign  equity  losses and  amortization  of
+ intangibles.
+ 
+ Dividend requirements on preferred stock held by AT&T
+ 
+ At June 30, 2000, and December 31, 1999, the AT&T Wireless Group had outstanding
+ $3.0 billion and $1.0  billion,  respectively,  of preferred  stock held by AT&T
+ that pays dividends at 9% per annum.  Intercompany  indebtedness of $2.0 billion
+ was  recapitalized  into an additional  $2.0 billion of 9% cumulative  preferred
+ stock  following the initial  public  offering.  Dividend  requirements  on this
+ preferred  stock for the three and six month periods  ended June 30, 2000,  were
+ $33 million and $46 million,  respectively, and for the corresponding periods in
+ 1999 were $13 million and $27 million,  respectively, net of amounts recorded in
+ accordance with the tax sharing agreement.
+ 
+ LIQUIDITY AND CAPITAL RESOURCES
+ 
+ The continued expansion of the AT&T Wireless Group's network, footprint and
+ service offerings, and the marketing and distribution of its products and
+ services, will continue to require substantial capital.  The AT&T Wireless Group
+ has funded its operations by initial public  offering  proceeds  attributed from
+ AT&T,  intercompany borrowings from AT&T and internally generated funds, as well
+ as capital contributions from AT&T prior to the initial public offering. Capital
+ contributions   from  AT&T  prior  to  the  initial  public  offering   included
+ acquisitions  made by AT&T that have been attributed to the AT&T Wireless Group.
+ Noncash  capital  contributions  from AT&T to the AT&T Wireless Group related to
+ acquisitions  and initial  investments  funded by AT&T  totaled $539 million and
+ $1,662  million  for the six  month  periods  ended  June  30,  2000  and  1999,
+ respectively.
+ 
+ The initial  public  offering of the AT&T Wireless Group tracking stock resulted
+ in net proceeds to AT&T after deducting  underwriter's discount and related fees
+ and expenses of $10.3 billion.  AT&T attributed $7.0 billion of the net proceeds
+ to the AT&T Wireless Group in the form of an intercompany  note receivable.  Net
+ transfers to and from the AT&T Wireless Group and AT&T subsequent to the initial
+ public offering are reflected as changes in the  intercompany  note  receivable.
+ After the attributed $7.0 billion of initial public offering  proceeds are fully
+ utilized,  AT&T  intends  to issue  short  term  floating  rate debt to the AT&T
+ Wireless Group.
+ 
+ On May 1, 2000,  following the initial public offering,  the AT&T Wireless Group
+ recapitalized $2.0 billion of outstanding intercompany indebtedness to AT&T into
+ an  additional  $2.0 billion of 9% cumulative  preferred  stock held by AT&T. In
+ conjunction with the recapitalization,  the AT&T Wireless Group's long term debt
+ due to AT&T was  recapitalized  to be 10 year term debt that bears interest at a
+ fixed rate of 8.1% per annum. AT&T has provided  financing at interest rates and
+ on terms and conditions  that are consistent  with those the AT&T Wireless Group
+ <PAGE>
+ would receive as a  stand-alone  entity.  Sources for the AT&T Wireless  Group's
+ future  financing  requirements  may include the  issuance  of  additional  AT&T
+ Wireless Group tracking stock and the borrowing of funds.
+ 
+ Financing  activities  for the AT&T  Wireless  Group  are  managed  by AT&T on a
+ centralized  basis and are  subject  to the  review of the AT&T  Wireless  Group
+ capital  stock  committee.  Loans from AT&T to any  member of the AT&T  Wireless
+ Group will be made at interest rates and on other terms and conditions  designed
+ to be  substantially  equivalent  to the  interest  rates  and  other  terms and
+ conditions  that the AT&T  Wireless  Group  would be able to obtain  from  third
+ parties,  including the public markets,  as a non-affiliate  of AT&T without the
+ benefit of any guaranty by AT&T. This policy  contemplates that these loans will
+ be made on the basis set forth above  regardless of the interest rates and other
+ terms and  conditions  on which AT&T may have acquired the funds.  If,  however,
+ AT&T incurs any fees or charges in order to keep available  funds for use by the
+ AT&T  Wireless  Group,  those  fees or  charges  will be  allocated  to the AT&T
+ Wireless Group.
+ 
+ Net cash  provided by  operating  activities  for the six months  ended June 30,
+ 2000, was $223 million,  compared with $277 million for the same period in 1999.
+ The  decrease in cash  provided by operating  activities  was  primarily  due to
+ increases  in  inventories  and  accounts  receivable,  as well as a decrease in
+ accounts  payable,  partially offset by increased income excluding  depreciation
+ and amortization,  resulting from revenue growth and expense  leveraging for the
+ first  half of 2000  compared  with the  first  half of 1999.  Net cash  used in
+ investing activities for the six months ended June 30, 2000, was $8,380 million,
+ compared with $600 million for the six months ended June 30, 1999.  The increase
+ was due primarily to the issuance of a note receivable  from AT&T,  acquisitions
+ of the Bay Area Properties and Wireless One, and higher capital  expenditures to
+ upgrade and increase  network  capacity in existing markets as well as to expand
+ the national  footprint.  Net cash provided by financing  activities for the six
+ months ended June 30, 2000, was $8,158  million,  compared with $411 million for
+ the six months  June 30,  1999.  The  increase  was  primarily  due to  proceeds
+ attributed  from the initial public offering of the AT&T Wireless Group tracking
+ stock and increased  transfers from AT&T prior to the initial public offering to
+ fund acquisitions and higher capital expenditures.
+ 
+ EBITDA,  excluding  other  income,  is the  primary  measure  used by the  chief
+ operating  decision-makers to measure our ability to generate cash flow. EBITDA,
+ excluding  other  income,  defined as  operating  income plus  depreciation  and
+ amortization,  may or may not be consistent  with the  calculation of EBITDA for
+ other public  companies and should not be viewed by investors as an  alternative
+ to generally accepted accounting principles,  measures of performance or to cash
+ flows  from  operating,  investing  and  financing  activities  as a measure  of
+ liquidity.
+ 
+ EBITDA,  excluding other income,  for the three and six month periods ended June
+ 30, 2000,  was $509 million and $904 million,  respectively,  compared with $324
+ million and $513  million for the same  periods in 1999.  These  increases  were
+ attributable  to  increases  in total  revenue and an  improving  margin as SG&A
+ expenses  declined as a  percentage  of  revenues,  primarily  for our  mobility
+ business.
+ 
+ For our mobility business, EBITDA, excluding other income, for the three and six
+ month  periods  ended  June  30,  2000,  was  $550  million  and  $981  million,
+ respectively,  compared  with $347 million and $552 million for the same periods
+ in 1999.
+ 
+ For our fixed wireless business,  EBITDA,  excluding other income, for the three
+ and six month periods ended June 30, 2000,  was a deficit of $40 million and $74
+ million, respectively, compared with deficits of $17 million and $32 million for
+ the same periods in 1999.
+ <PAGE>
+ EBITDA,  excluding  other  income,  margins  were 20.5% and 19.3% for the second
+ quarter and first half of 2000, respectively,  compared with 17.3% and 14.9% for
+ the second  quarter and first half of, 1999,  respectively.  The  improvement in
+ EBITDA,  excluding other income, margins in the second quarter and first half of
+ 2000  compared  with the  respective  periods  in 1999 was driven  primarily  by
+ revenue growth and expense leveraging,  primarily  off-network roaming expenses,
+ partially offset by increased  customer  acquisition and customer care costs, as
+ well as  higher  information  technology  costs  associated  with  growth in the
+ subscriber base.
+ 
+ EBITDA, excluding other income, margins for our mobility business were 22.2% and
+ 21.0% for the second quarter and first half of 2000, respectively, compared with
+ 18.5% and 16.0% for the second quarter and first half of 1999, respectively. The
+ improvement in EBITDA, excluding other income, margins in the second quarter and
+ first  half of 2000  compared  with the  respective  periods  in 1999 was driven
+ primarily by positive  EBITDA,  excluding  other income,  for the 1900 megahertz
+ markets for the three and six month periods  ended June 30, 2000,  compared with
+ losses  for the  respective  periods  in  1999,  as well  as  increased  EBITDA,
+ excluding other income, margins in the 850 megahertz markets.
+ 
+ FINANCIAL CONDITION
+ 
+ Total  assets were $32,843  million as of June 30,  2000,  an increase of $9,331
+ million,  or 39.7%,  compared  with  December  31,  1999.  The  increase was due
+ primarily to the $7.0 billion of initial public offering proceeds  attributed to
+ the  AT&T  Wireless  Group  from  AT&T  in  the  form  of an  intercompany  note
+ receivable,   increases  in  goodwill,  licensing  costs,  property,  plant  and
+ equipment,  and other assets  associated  with the  acquisitions of the Bay Area
+ Properties  and Wireless One, and increased  property,  plant and equipment as a
+ result of significant capital spending in the first half of 2000.  Additionally,
+ non-consolidated investments increased as a result of the investment in American
+ Cellular during 2000,  partially  offset by the acquisition of the remaining 50%
+ interest in CMT Partners, which is now consolidated.
+ 
+ Total  liabilities were $8,310 million as of June 30, 2000, a decrease of $1,185
+ million,  or 12.5%,  compared with December 31, 1999. The decrease was primarily
+ due to  the  decrease  in  long  term  debt  due  to  AT&T  resulting  from  the
+ recapitalization  of the AT&T Wireless  Group  subsequent to the initial  public
+ offering,  partially  offset  by  increases  in  deferred  income  taxes,  other
+ long-term  liabilities,  and other current  liabilities.  Deferred incomes taxes
+ increased due to the deferred tax provision  recognized for the six months ended
+ June 30, 2000. Other long-term liabilities increased due to proceeds received in
+ consideration for a long-term leasing arrangement, and other current liabilities
+ increased due to increased business taxes and operating accruals.
+ 
+ Total  preferred  stock held by AT&T increased to $3.0 billion at June 30, 2000,
+ from $1.0  billion at December  31, 1999,  due to the  recapitalization  of $2.0
+ billion of  intercompany  debt into  preferred  stock  subsequent to the initial
+ public  offering.  Dividends  payable on the preferred stock were paid at 9% per
+ annum.
+ 
+ Total  equity was $24,522  million as of June 30,  2000,  an increase of $10,525
+ million,  or 75.2%,  compared with December 31, 1999. The increase was primarily
+ due to increased  combined  equity  associated  with the  attribution of initial
+ public  offering  proceeds to the AT&T Wireless  Group, as well as net transfers
+ from AT&T prior to the initial  public  offering to fund capital  expansion  and
+ acquisitions, and the additional $2.0 billion of preferred stock issued to AT&T.
+ 
+ RECENT ACCOUNTING PRONOUNCEMENTS
+ 
+ In December  1999, the  Securities  and Exchange  Commission  (SEC) issued Staff
+ Accounting   Bulletin   (SAB)  No.  101,   "Revenue   Recognition  in  Financial
+ <PAGE>
+ Statements".  SAB No. 101 provides  guidance on revenue  recognition,  including
+ service  activation fees, and certain related costs,  which requires adoption by
+ the end of fiscal year 2000. Management is currently assessing the impact of SAB
+ No. 101 to the combined results of operations and financial position of the AT&T
+ Wireless Group.
+ 
+ In June 1998, the Financial  Accounting  Standards Board (FASB) issued Statement
+ of Financial  Accounting  Standards  (SFAS) No. 133,  "Accounting for Derivative
+ Instruments and Hedging  Activities".  Among other provisions,  it requires that
+ entities  recognize  all  derivatives  as either  assets or  liabilities  in the
+ <PAGE>
+ statement of financial  position and measure  those  instruments  at fair value.
+ Gains and losses resulting from changes in the fair values of those  derivatives
+ would be accounted  for  depending on the use of the  derivative  and whether it
+ qualifies for hedge accounting.  The effective date of this standard was delayed
+ via the issuance of SFAS No. 137. The effective date for SFAS No. 133 is now for
+ fiscal  years  beginning  after  June  15,  2000,  though  earlier  adoption  is
+ encouraged and  retroactive  application  is  prohibited.  For the AT&T Wireless
+ Group,  this means that the  standard  must be adopted no later than  January 1,
+ 2001.  Management  does not expect the  adoption  of this  standard  will have a
+ material impact on the AT&T Wireless  Group's  results of operations,  financial
+ position or cash flows.
+ 
+ In June 2000, the FASB issued SFAS No. 138,  "Accounting for Certain  Derivative
+ Instruments  and Certain  Hedging  Activities"  as an amendment to SFAS No. 133.
+ This  statement  provides  clarification  with regard to certain  implementation
+ issues  under SFAS No. 133 on specific  types of hedges.  It is not  expected to
+ have a material  impact on the AT&T  Wireless  Group's  results  of  operations,
+ financial position or cash flows.
+ 
+ SUBSEQUENT EVENTS
+ 
+ On July 24, 2000, the AT&T Wireless  Group  announced it had signed a definitive
+ agreement with SBC  Communications  to acquire its Indianapolis  wireless system
+ for approximately $530 million in cash. The transaction has been approved by the
+ boards of directors of AT&T and SBC Communications,  however, remains subject to
+ certain  federal  regulatory  approvals  and is  expected to close by the end of
+ 2000.
+ </TEXT>
+ </DOCUMENT>
+ <DOCUMENT>
+ <TYPE>EX-99.3
+ <SEQUENCE>6
+ <FILENAME>0006.txt
+ <DESCRIPTION>EXHIBIT 99.3
+ <TEXT>
+ 
+ <TABLE>                                                             Exhibit 99.3
+ <CAPTION>
+ 
+                                AT&T WIRELESS GROUP
+ 
+                         COMBINED STATEMENTS OF OPERATIONS
+                               (Dollars in Millions)
+                                    (Unaudited)
+ 
+                                                     For the Three Months Ended
+                                                     March 31,         March 31,
+                                                       2000              1999
+ <S>                                                 <C>              <C>
+ REVENUE
+ Services revenue                                    $1,992           $ 1,372
+ Equipment revenue                                      206               191
+ Total revenue                                        2,198             1,563
+ 
+ OPERATING EXPENSES
+ Costs of services and products                       1,052               810
+ Selling, general and administrative                    750               564
+ Depreciation and amortization                          369               276
+ Total operating expenses                             2,171             1,650
+ 
+ OPERATING INCOME(LOSS)                                  27               (87)
+ 
+ Other income                                            81                44
+ Interest expense                                        51                32
+ Income (loss) before income taxes                       57               (75)
+ Provisions (benefit) for income taxes                   30               (26)
+ 
+ Net income (loss)                                       27               (49)
+ 
+ Dividend requirements on preferred
+   stock held by AT&T, net                               14                14
+ 
+ Net income (loss) after preferred stock
+   dividends                                         $   13           $   (63)
+ </TABLE>
+ 
+ 
+ 
+ <PAGE>
+ <TABLE>
+ <CAPTION>
+ 
+                                AT&T WIRELESS GROUP
+                              COMBINED BALANCE SHEETS
+                               (Dollars in Millions)
+ 
+                                                         March 31,  December 31,
+                                                           2000         1999
+                                                        (unaudited)
+ <S>                                                    <C>           <C>
+ ASSETS
+ 
+ Cash and cash equivalents                              $    10       $    5
+ Accounts receivable, less allowances
+   of $141 and $130                                       1,330        1,300
+ Inventories                                                146          162
+ Deferred income taxes                                      141          127
+ Prepaid expenses and other current assets                   46           34
+ Total Current Assets                                     1,673        1,628
+ 
+ Property, plant and equipment, net of
+   accumulated depreciation of $4,316
+   and $4,033                                             6,896        6,349
+ 
+ Licensing costs, net of accumulated
+   amortization of $1,583 and $ 1,519                     8,598        8,571
+ 
+ Investments                                              5,233        4,502
+ 
+ Goodwill and other assets, net  of accumulated
+   Amortization of $407 and $335                          2,490        2,462
+ 
+ TOTAL ASSETS                                           $24,890      $23,512
+ 
+ LIABILITIES
+ 
+ Accounts payable                                       $   850      $   921
+ Payroll and benefit-related liabilities                    212          291
+ Debt maturing within one year                              154          154
+ Other current liabilities                                  986          931
+ Total Current Liabilities                                2,202        2,297
+ 
+ Long-term debt due to AT&T                               3,700        3,400
+ 
+ Deferred income taxes                                    3,812        3,750
+ 
+ Other long-term liabilities                                134           48
+ 
+ TOTAL LIABILITIES                                        9,848        9,495
+ 
+ MINORITY INTEREST                                           15           20
+ 
+ EQUITY
+ Preferred stock held by AT&T                             1,000        1,000
+ Combined Equity                                         13,975       12,971
+ Accumulated other comprehensive income                      52           26
+ TOTAL EQUITY                                            15,027       13,997
+ 
+ TOTAL LIABILITIES AND EQUITY                           $24,890      $23,512
+ </TABLE>
+ </TEXT>
+ </DOCUMENT>
+ </SEC-DOCUMENT>
+ -----END PRIVACY-ENHANCED MESSAGE-----

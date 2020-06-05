@@ -1,0 +1,239 @@
+         OF OPERATIONS
+ 
+ RESULTS OF OPERATIONS
+ 
+ FOR THE THREE MONTHS ENDED MARCH 31, 2001 AND 2000
+ 
+ SUMMARY AMR's loss from continuing operations during the first quarter of 2001
+ was $43 million, or $0.28 loss per share, as compared to income from continuing
+ operations of $89 million, or $0.57 per share diluted, for the same period in
+ 2000. AMR's operating income of $17 million decreased $195 million compared to
+ the same period in 2000.
+ 
+ The Company's REVENUES increased $183 million, or 4.0 percent, in the first
+ quarter of 2001 versus the same period last year. American's PASSENGER REVENUES
+ increased by 4.3 percent, or $161 million. American's YIELD (the average amount
+ one passenger pays to fly one mile) of 14.88 cents increased by 6.7 percent
+ compared to the same period in 2000. Domestic yields increased 6.6 percent from
+ the first quarter of 2000. International yields increased 6.8 percent, primarily
+ due to an increase of 7.9 percent and 7.1 percent in European and Latin American
+ yields, respectively, partially offset by a decrease of approximately 1.0
+ percent in Pacific yields. Yields were up year-over-year largely due to fare
+ increases enacted over the course of 2000.
+ 
+ American's traffic or REVENUE PASSENGER MILES (RPMs) decreased 2.1 percent to
+ 26.5 billion miles for the quarter ended March 31, 2001. American's capacity or
+ AVAILABLE SEAT MILES (ASMs) of 39.0 billion miles decreased 2.6 percent compared
+ to the first quarter of 2000. American's domestic traffic decreased 3.7 percent
+ on a capacity decrease of 2.7 percent and international traffic increased 1.4
+ percent on a capacity decrease of 2.4 percent. The decrease in domestic traffic
+ was due to a slowing U.S. economy, softening the demand for air travel. The
+ increase in international traffic was driven by a 6.9 percent increase in
+ traffic to the Pacific on a capacity decrease of 3.5 percent, a 0.7 percent
+ increase in traffic to Europe on a capacity increase of 0.1 percent and a 0.9
+ percent increase in traffic to Latin America on a capacity decrease of 4.1
+ percent. The overall decrease in capacity was due primarily to the Company's
+ More Room Throughout Coach program, partially offset by an increase in the
+ number of aircraft.
+ 
+ The Company's OPERATING EXPENSES increased 8.7 percent, or $378 million.
+ American's cost per ASM increased 11.7 percent to 11.21 cents, partially driven
+ by a reduction in ASMs due to the Company's More Room Throughout Coach program.
+ Adjusted for this program, American's cost per ASM grew approximately 5.7
+ percent. WAGES, SALARIES AND BENEFITS increased 8.0 percent, or $129 million,
+ primarily due to an increase in the average number of equivalent employees,
+ contractual wage rate and seniority increases that are built into the Company's
+ labor contracts, partially offset by a decrease in provision for profit-sharing
+ of approximately $28 million. AIRCRAFT FUEL expense increased 24.1 percent, or
+ $133 million, due to a 21.5 percent increase in the Company's average price per
+ gallon and a 2.2 percent increase in the Company's fuel consumption. The
+ increase in fuel expense is net of gains of approximately $47 million recognized
+ during the first quarter of 2001 related to the Company's fuel hedging program.
+ COMMISSIONS TO AGENTS decreased 12.8 percent, or $33 million, despite an
+ increase of approximately 4.3 percent in passenger revenues, due primarily to
+ the continued benefit from commission structure changes implemented in 2000 and
+ a decrease in the percentage of commissionable transactions. Other operating
+ expense increased 12.6 percent, or $101 million, due primarily to increases in
+ external contract maintenance, outsourced services, data processing, and travel
+ and incidental costs.
+ 
+ OTHER INCOME (EXPENSE), historically a net expense, increased $19 million, or
+ 34.5 percent, due to an increase in interest income of $8 million, or 25.0
+ percent, relating primarily to the Trans World Airlines, Inc. (TWA)
+ debtor-in-possession financing which partially offsets approximately $21 million
+ of SFAS 133 adjustments as a result of the Company's ineffectiveness and
+ time-value adjustments associated with its fuel hedging program (see Footnote 6
+ to the condensed consolidated financial statements) and an increase of $9
+ million in miscellaneous-net relating primarily to the write-down of certain
+ investments held by the Company.
+ 
+ The effective tax rates for the three months ended March 31, 2001 and 2000 were
+ based upon the operating results for such periods. As such, the effective tax
+ rates do not represent estimated annual effective tax rates.
+ 
+ 
+                                       -10-
+ <PAGE>   13
+ 
+ 
+   OPERATING STATISTICS
+ 
+ <TABLE>
+ <CAPTION>
+                                                            Three Months Ended March 31,
+                                                            ----------------------------
+                                                                2001            2000
+                                                            ----------       -----------
+ <S>                                                        <C>              <C>
+ AMERICAN AIRLINES
+     Revenue passenger miles (millions)                       26,452           27,022
+     Available seat miles (millions)                          38,977           40,020
+     Cargo ton miles (millions)                                  549              546
+     Passenger load factor                                      67.9%            67.5%
+     Breakeven load factor                                      67.7%            63.7%
+     Passenger revenue yield per passenger mile (cents)        14.88            13.95
+     Passenger revenue per available seat mile (cents)         10.10             9.42
+     Cargo revenue yield per ton mile (cents)                  31.68            30.32
+     Operating expenses per available seat mile (cents)        11.21            10.04
+     Fuel consumption (gallons, in millions)                     743              730
+     Fuel price per gallon (cents)                              87.6             72.1
+     Fuel price per gallon, excluding fuel taxes (cents)        82.0             66.6
+     Operating aircraft at period-end                            719              703
+ 
+ AMR EAGLE
+     Revenue passenger miles (millions)                          860              861
+     Available seat miles (millions)                           1,588            1,514
+     Passenger load factor                                      54.2%            56.9%
+     Operating aircraft at period-end                            267              271
+ </TABLE>
+ 
+ Operating aircraft at March 31, 2001, included:
+ 
+ <TABLE>
+ <S>                                                <C>               <C>                                         <C>
+  AMERICAN AIRLINES AIRCRAFT:                                         AMR EAGLE AIRCRAFT:
+  Airbus A300-600R                                       35           ATR 42                                        30
+  Boeing 727-200                                         58           Embraer 135                                   40
+  Boeing 737-800                                         58           Embraer 145                                   50
+  Boeing 757-200                                        102           Super ATR                                     43
+  Boeing 767-200                                          8           Saab 340                                      79
+  Boeing 767-200 Extended Range                          22           Saab 340B Plus                                25
+  Boeing 767-300 Extended Range                          49                                                      -----
+  Boeing 777-200 Extended Range                          31              Total                                     267
+  Fokker 100                                             75                                                      =====
+  McDonnell Douglas MD-11                                 6
+  McDonnell Douglas MD-80                               272
+  McDonnell Douglas MD-90                                 3
+                                                    -------
+     Total                                              719
+                                                    =======
+ </TABLE>
+ 
+ Average aircraft age is 10.8 years for American's aircraft and 6.3 years for AMR
+ Eagle aircraft.
+ 
+ 
+                                       -11-
+ <PAGE>   14
+ 
+ LIQUIDITY AND CAPITAL RESOURCES
+ 
+ NET CASH PROVIDED BY OPERATING ACTIVITIES in the three-month period ended March
+ 31, 2001 was $19 million, a decrease of $502 million over the same period in
+ 2000, due primarily to a decrease in the Company's working capital and a
+ decrease in income from continuing operations. Capital expenditures for the
+ first three months of 2001 were $847 million, and included the acquisition of
+ seven Boeing 737-800s, four Boeing 777-200ERs and seven Embraer 135 aircraft.
+ These capital expenditures were financed primarily through secured mortgage and
+ debt agreements.
+ 
+      As of March 31, 2001, the Company had commitments to acquire the following
+ aircraft: 62 Boeing 737-800s, 23 Boeing 757-200s, 16 Boeing 777-200ERs, 145
+ Embraer regional jets and 25 Bombardier CRJ-700s. Deliveries of all aircraft
+ continue through 2006. Payments for all aircraft will approximate $2.1 billion
+ during the remainder of 2001, $1.7 billion in 2002, $950 million in 2003 and an
+ aggregate of approximately $1.4 billion in 2004 through 2006. The Company
+ expects to fund its remaining 2001 capital expenditures from the Company's
+ existing cash and short-term investments, internally generated cash or new
+ financing depending upon market conditions and the Company's evolving view of
+ its long-term needs.
+ 
+ OTHER INFORMATION
+ 
+ On January 10, 2001, the Company announced three transactions that would
+ substantially increase the scope of its existing network. The first of these
+ transactions was consummated on April 9, 2001 when the Company purchased
+ substantially all of the assets of TWA for approximately $625 million in cash
+ (subject to certain working capital adjustments), including the satisfaction of
+ $312 million in debtor-in-possession financing, and assumed certain liabilities.
+ The Company funded the acquisition of TWA's assets with its existing cash and
+ short-term investments. The Company does not expect the acquisition of TWA to
+ have a significantly accretive or dilutive impact on the Company's 2001
+ earnings. Although TWA has historically reported net losses and the acquisition
+ of TWA will result in the incurrence of integration costs, the Company expects
+ to realize certain synergies from the acquisition, including, among other
+ things, improved passenger revenues and a reduction in rental expense from the
+ renegotiated lease obligations.
+ 
+      Secondly, the Company announced that it has agreed to acquire from United
+ Airlines, Inc. (United) certain key strategic assets (slots, gates and aircraft)
+ of US Airways Group, Inc. (US Airways) upon the consummation of the previously
+ announced merger between United and US Airways. In addition to the acquisition
+ of these assets, American will lease a number of slots and gates from United so
+ that American may operate half of the northeast Shuttle (New York/Washington
+ DC/Boston). United will operate the other half of the Shuttle. For these assets,
+ American will pay approximately $1.2 billion in cash to United and assume
+ approximately $300 million in aircraft operating leases. The consummation of
+ these transactions is contingent upon the closing of the proposed United/US
+ Airways merger, which is no longer expected to occur in the second quarter of
+ 2001. Also, the acquisition of aircraft is dependent upon certain rights of
+ United to exclude aircraft from the transactions and also is generally dependent
+ upon a certain number of US Airways' Boeing 757 cockpit crew members
+ transferring to American's payroll.
+ 
+      Finally, American has agreed to acquire a 49 percent stake in, and to enter
+ into an exclusive marketing agreement with, D.C. Air, LLC (DC Air). American has
+ agreed to pay $82 million in cash for its ownership stake. American will have a
+ right of first refusal on the acquisition of the remaining 51 percent stake in
+ DC Air. American will also lease to DC Air a certain number of Fokker 100
+ aircraft with necessary crews (known in the industry as a "wet lease"). These
+ wet leased aircraft will be used by DC Air in its operations. DC Air is the
+ first significant new entrant at Ronald Reagan Washington National Airport (DCA)
+ in over a decade. DC Air will acquire the assets needed to begin its DCA
+ operations from United/US Airways upon the consummation of the merger between
+ the two carriers. American's investment in DC Air and the other arrangements
+ described above are contingent upon the consummation of the merger between
+ United and US Airways and upon execution of definitive documentation between DC
+ Air and United (which has not yet occurred).
+ 
+ 
+ 
+                                       -12-
+ <PAGE>   15
+ 
+      As a result of the above transactions, and for several other reasons,
+ American and American Eagle have initiated an impairment review of certain fleet
+ types in accordance with Statement of Financial Accounting Standards No. 121,
+ "Accounting for the Impairment of Long-Lived Assets and for Long-Lived Assets to
+ Be Disposed Of." This review, which is expected to be completed during the
+ second quarter of 2001, could result in an impairment charge to be taken by the
+ Company. The size of any resulting 2001 charge is not presently known, but may
+ be significant.
+ 
+ FORWARD-LOOKING INFORMATION
+ 
+ Statements in this report contain various forward-looking statements within the
+ meaning of Section 27A of the Securities Act of 1933, as amended, and Section
+ 21E of the Securities Exchange Act of 1934, as amended, which represent the
+ Company's expectations or beliefs concerning future events. When used in this
+ report, the words "expects," "plans," "anticipates," and similar expressions are
+ intended to identify forward-looking statements. All forward-looking statements
+ in this report are based upon information available to the Company on the date
+ of this report. The Company undertakes no obligation to publicly update or
+ revise any forward- looking statement, whether as a result of new information,
+ future events or otherwise. Forward-looking statements are subject to a number
+ of factors that could cause actual results to differ materially from our
+ expectations. Additional information concerning these and other factors is
+ contained in the Company's Securities and Exchange Commission filings, included
+ but not limited to the Form 10-K for the year ended December 31, 2000.
+ 
